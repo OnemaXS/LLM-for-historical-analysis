@@ -1,0 +1,94 @@
+QUESTION 2: Which animals are the most beautiful? (using db_700_without_reg)
+
+
+============================================
+k = 3
+
+Dieser ganz specifike Unterschied fällt zumal bey den Exemplaren beider Thiere, die im akademischen Museum von gleicher Grösse befindlich sind, sehr sichtlich in die Augen. 
+3. Monitor. Die Sauvegarde. L. cauda carinata, corpore mutico maculis ocellatis. * 
+Ein überaus schönes schwarz und weiß marmorirtes Thier, was ohngefär anderthalb Elen lang wird, und sich meist in Gesellschaft des Crocodils aufhalten, und durch den pfeifenden Laut, den es von sich giebt, seinen furchtbaren Gefährten verrathen soll. 
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch. der Frösche, Titelkupf Die schönste hieländische Eidexe, die sich über-
+Haupt im wärmern Europa und in Ostindien findet. Am Bauche ist sie zuweilen ganz kupferfarben, und das Grüne am Kopf, Rücken und Schwanz ist unverbesserlich. Dabey ist das Thierchen überaus flink, lebhaft, wohnt in trocknen Gegenden, auf Felsen, in Mauerritzen, sommert sich gern an der Sonne, und ist eben so unschuldig als alle übrige deutsche Eidexen. 
+5. Chamaeleon. L. cauda tereti brevi incurva digitis duobus tribusque coadunatis. *
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Selbst unter unsern hieländischen Amphibien giebt es einige, wie die grüne Eidexe, den Laubfrosch ꝛc. die in Rücksicht ihrer schönen Farben, ihres stinken, und doch unschuldigen Betragens, den artigsten Thieren anderer Classen an die Seite gesetzt werden dürfen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 96.
+
+============================================
+k = 5
+
+Dieser ganz specifike Unterschied fällt zumal bey den Exemplaren beider Thiere, die im akademischen Museum von gleicher Grösse befindlich sind, sehr sichtlich in die Augen. 
+3. Monitor. Die Sauvegarde. L. cauda carinata, corpore mutico maculis ocellatis. * 
+Ein überaus schönes schwarz und weiß marmorirtes Thier, was ohngefär anderthalb Elen lang wird, und sich meist in Gesellschaft des Crocodils aufhalten, und durch den pfeifenden Laut, den es von sich giebt, seinen furchtbaren Gefährten verrathen soll. 
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch. der Frösche, Titelkupf Die schönste hieländische Eidexe, die sich über-
+Haupt im wärmern Europa und in Ostindien findet. Am Bauche ist sie zuweilen ganz kupferfarben, und das Grüne am Kopf, Rücken und Schwanz ist unverbesserlich. Dabey ist das Thierchen überaus flink, lebhaft, wohnt in trocknen Gegenden, auf Felsen, in Mauerritzen, sommert sich gern an der Sonne, und ist eben so unschuldig als alle übrige deutsche Eidexen. 
+5. Chamaeleon. L. cauda tereti brevi incurva digitis duobus tribusque coadunatis. *
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Selbst unter unsern hieländischen Amphibien giebt es einige, wie die grüne Eidexe, den Laubfrosch ꝛc. die in Rücksicht ihrer schönen Farben, ihres stinken, und doch unschuldigen Betragens, den artigsten Thieren anderer Classen an die Seite gesetzt werden dürfen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 96.
+
+
+Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 63.
+
+
+Die mehresten Würmer haben unansehnliche Farben. Doch sind auch einige, wie die Seeanemonen, Seefedern, Aphroditen, und viele Conchylien von auserordentlicher Schönheit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 159.
+
+============================================
+k = 7
+
+Dieser ganz specifike Unterschied fällt zumal bey den Exemplaren beider Thiere, die im akademischen Museum von gleicher Grösse befindlich sind, sehr sichtlich in die Augen. 
+3. Monitor. Die Sauvegarde. L. cauda carinata, corpore mutico maculis ocellatis. * 
+Ein überaus schönes schwarz und weiß marmorirtes Thier, was ohngefär anderthalb Elen lang wird, und sich meist in Gesellschaft des Crocodils aufhalten, und durch den pfeifenden Laut, den es von sich giebt, seinen furchtbaren Gefährten verrathen soll. 
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch. der Frösche, Titelkupf Die schönste hieländische Eidexe, die sich über-
+Haupt im wärmern Europa und in Ostindien findet. Am Bauche ist sie zuweilen ganz kupferfarben, und das Grüne am Kopf, Rücken und Schwanz ist unverbesserlich. Dabey ist das Thierchen überaus flink, lebhaft, wohnt in trocknen Gegenden, auf Felsen, in Mauerritzen, sommert sich gern an der Sonne, und ist eben so unschuldig als alle übrige deutsche Eidexen. 
+5. Chamaeleon. L. cauda tereti brevi incurva digitis duobus tribusque coadunatis. *
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Selbst unter unsern hieländischen Amphibien giebt es einige, wie die grüne Eidexe, den Laubfrosch ꝛc. die in Rücksicht ihrer schönen Farben, ihres stinken, und doch unschuldigen Betragens, den artigsten Thieren anderer Classen an die Seite gesetzt werden dürfen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 96.
+
+
+Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 63.
+
+
+Die mehresten Würmer haben unansehnliche Farben. Doch sind auch einige, wie die Seeanemonen, Seefedern, Aphroditen, und viele Conchylien von auserordentlicher Schönheit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 159.
+
+
+Man hat ganze Pferde im Magen solcher Thiere gefunden. Sie haben sechsfache Reihen Zähne im Rachen, die sich häufig versteinert finden und Glossopetren heissen. 
+4. Pristis. Der Sägefisch. S. pinna ani nulla rostro ensiformi osseo plano utrinque dentato. * 
+Das breite Schwerdförmige oft mehrere Elen lange Gewehr, was dieses Thier vor dem Kopfe fürt, ist knochicht, und zu beiden Seiten an den Schärfen mit starken Stacheln, wie mit Zähnen besetzt. 
+14. chimaera. Spiracula solitaria, quadripartita, sub collo. Oris labium superius quinquepartitum. Dentes primores incisores bini supra infraque. 
+1. Monstrosa. C. rostro subtus plicis pertusis Im Atlantischen Meer, lebt von Muscheln ꝛc. 
+15.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 63.

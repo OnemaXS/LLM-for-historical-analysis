@@ -1,0 +1,95 @@
+This is a trial with intfloat/multilingual-e5-large and without register
+
+
+Question: How do hamsters compare with marmots?
+
+Gewönlich haben auch die Männchen, zu uns unbekannten Zwecken, dergleichen Brüste; doch fehlen sie einigen, wie den Hamstern, der Haselmaus u. a.m. gänzlich; bey andern sind sie doch in geringerer Anzal als der Weibchen ihre der Hund z. B. hat nur sechs Zitzen am Bauche die Hündin aber ausser diesen auch noch viere an der Brust; und allemal sind sie kleiner als beym weiblichen Geschlechte.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 41.'})
+
+Sie verkriechen sich wenn diese Zeit kommt, an sichre schaurige Orte wie die Murmelthiere, Hamster, Ameisen ꝛc in ihre Nester, die Fledermäuse in Hölen, die Frösche und einige Fische in Sümpfe, die Uferschwalben ins Schilf, die Schlangen und Schnecken ins Gebüsch u. s. w. und fallen mit einbrechender Kälte in eine Art von Erstarrung, aus der sie erst durch die erwärmenden Blicke der Frühlingssonne wieder erweckt werden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 33.'})
+
+sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+II. Fig. 4. pedes lobati) oder zackichten Rand (Taf. II. Fig. 5. pedes pinnati) hat wie mit Franzen eingefaßt.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 66.'})
+
+zu ihrem Aufenthalt, zur Sicherheit für ihre Jungen, zum Fang ihres Raudes, und zu tausend andern Zwecken zu verfertigen wissen. Der Bau der Biber, die Hölen der Hamster, der Murmelthiere; die Nester der Eichhörnchen, der Vögel, der Insecten; die Spinneweben, die Fallgruben des Ameisenlöwen; ferner die Auswahl der Bau-Materialien, da die eine Gattung von Insecten ihre Zellen aus Wachs, eine andre verwandte Art die ihrigen aus Stein, eine dritte ans Holzspänchen, eine vierte aus Rosenblättern verfertigt die regelmäßige, aber ewig einförmige, Gestalt dieser Wohnungen u. s. w. geben unerschöpflich zahlreiche Beweise von der Grösse und Mannichfaltigkeit dieser unbegreiflichen Naturtriebe.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 36.'})
+
+
+Question: Which animals are the most beautiful?
+
+Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+Ueber die Sinne dieser Thiere und deren Werkzeuge läst sich noch weniger bestimmtes als über der Insecten ihre, sagen. Einige haben ungezweifelt wahre Augen, und andre, wie z. B. die Polypen, haben ohne Augen doch das feinste Gefül von Licht und Hellung.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 160.'})
+
+Die mehresten Würmer haben unansehnliche Farben. Doch sind auch einige, wie die Seeanemonen, Seefedern, Aphroditen, und viele Conchylien von auserordentlicher Schönheit.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 159.'})
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+
+Question: Which body parts of birds make them capable of flight?
+
+Auch der Kopf der Vögel ist bey den meisten verhältnismäßig klein, daher er ebenfalls die Luft leicht durchbohrt, und dadurch den Flug erleichtert. Ihre Gliedmassen sind überaus schlank, und fein gebaut, so daß sie nebst dem ausnehmend geringen Gewicht des ganzen Körpers, der Lebensart dieser Thiere, und besonders ihrem Aufenthalt und ihrer freyen Bewegung in dem Elemente, wofür die mehresten bestimmt sind, vollkommen entsprechen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 58.'})
+
+Die Federn sind mit vielem Fett durchzogen wodurch sie leichter werden, und auch der Nässe desto besser widerstehen können. Die Vögel haben auch am Ende des Rückens besondere Fettdrüsen (uropygium, crissum), aus welchen sie das Oel mit dem Schnabel auspressen, und die Federn, besonders in den Flügeln, damit bestreichen. Dieß thun besonders die Wasservögel, und die kleinen Sangvögel im Fall sie sich baden wollen, oder wenn sie Regenwetter ver-
+Werken.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 62.'})
+
+Der ganze Körperbau der Vögel ist ihrer Bestimmung zum Fluge angemessen. Ihr Rumpf ist klein, eyförmig, und in seiner Structur gänzlich vom Rumpfe der Säugethiere verschieden. Das Brustbein änelt einer Pflugschaar, und dient den Vögeln vorzüglich, die Lust im Fluge zu durchschneiden. Zu beiden Seiten des Brustbeins liegen die ausnehmend grossen und starken Brustmuskeln, die vorzüglich die Flügel bewegen, und die, bey wilden Vögeln wenigstens, nie mit Fette bedeckt sind was sonst der Leichtigkeit im Fliegen und dem Zweck des Brustbeins hinderlich werden könnte Das Rückgrad ist unbeweglich; der Hals aber dagegen desto gelenker, und dabey in Verhältniß gegen den übrigen Körper ungemein lang.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 57.'})
+
+Alle Vögel kommen in Rücksicht ihrer Bildung darin mit einander überein, daß sie zwey Füsse, zwey Flügel, einen hornichten Schnabel, und einen mit Federn bedeckten Körper haben. Sie zeichnen sich zugleich durch diese vier Charactere von allen andern Thieren aufs kenntlichste aus, und sie sind gleichsam eint ganz isolirte Classe von Geschöpfen, die mit keiner andern zusammenstießt, und die daher mit Mühe in einer Stufenfolge der natürlichen Körper (§. 7.) unterzubringen ist.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 56.'})
+
+Zu diesen Luftbehaltern gehört vorzuglich ein lockres weiches Zellgewebe, was theils im Unterleibe, theils unter den Achseln und sonst noch unter der Haut verbreitet ist, und durchs Einathmen in die Lunge voll Luft gepumpt werden kau. Ausserdem dienen den Vögeln auch gewisse markleere hole Knochen, besonders die Schenkelknochen und die Schulterknochen im Flügel, auch das Rückgrad, das Brustbein, und manchen auch die Hirnschaale, zu gleichen Zwecken. Und endlich sind auch, nach unsern eignen Untersuchungen die ungeheuren Schnabel der Pfefferfraße Nashornvögel, Papageyen ꝛc. die berühmte Männer mit Unrecht für Werkzeuge, des Geruchs
+
+ Cajetan. Monti, in Comment. instit. Bonon. T. III p. 298.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 64.'})
+
+
+Question: Where do hamsters live?
+
+Von den Landthieren dieser Classe, leben viele in dumpfichtem, feuchtem Dickicht, und die könnten freylich Linne's nachtheilige Aeuserung rechtfertigen; andere aber suchen sich auch recht trockne, anmuthige, der Sonnenwärme ausgesetzte Gegenden zur Wohnung aus; manche leben gar auf Bäumen u. s. w.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 97.'})
+
+Sie verkriechen sich wenn diese Zeit kommt, an sichre schaurige Orte wie die Murmelthiere, Hamster, Ameisen ꝛc in ihre Nester, die Fledermäuse in Hölen, die Frösche und einige Fische in Sümpfe, die Uferschwalben ins Schilf, die Schlangen und Schnecken ins Gebüsch u. s. w. und fallen mit einbrechender Kälte in eine Art von Erstarrung, aus der sie erst durch die erwärmenden Blicke der Frühlingssonne wieder erweckt werden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 33.'})
+
+Gewönlich haben auch die Männchen, zu uns unbekannten Zwecken, dergleichen Brüste; doch fehlen sie einigen, wie den Hamstern, der Haselmaus u. a.m. gänzlich; bey andern sind sie doch in geringerer Anzal als der Weibchen ihre der Hund z. B. hat nur sechs Zitzen am Bauche die Hündin aber ausser diesen auch noch viere an der Brust; und allemal sind sie kleiner als beym weiblichen Geschlechte.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 41.'})
+
+5. Chamaeleon. L. cauda tereti brevi incurva digitis duobus tribusque coadunatis. * 
+Das Chamäleon ist in Ostindien, Nord-Africa und auch in Spanien zu Hause, und wird wegen vieler Sonderbarheiten in seiner Oekonomie merkwürdig, die ehedem zu allerhand Erdichtungen Anlaß gegeben haben. Es hält sich auf Bäumen ans, und lebt von Insecten, die es fast wie der Ameisenbär mit einer langen fadenförmigen klebrichten Zunge zu fangen versteht.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 112.'})
+
+Diese unvollkommenen Geschöpft (larvae) leben blos im Wasser, wenn sie auch gleich in der Folge das trockene Land zu ihrem Aufenthalt wählen; und das blosse Athemholen durch Lungen würde ihnen für dieses Element nie zureichend seyn, wenn sie nicht für diese Zeit, doch oft nur wenige Tage durch, auch mit einer Art von Kiefern oder branchiis hinter den Ohren versehen wären Manche haben auch noch einige Zeit nachher zwey besondere gestreifte Eingeweide oder Afterlungen neben den wahren Lungen in der Brust die wohl ebenfalls das Respiriren erleichtern sollen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 105.'})
+
+
+Question: Is there a connection between climate and animal coloration?
+
+Die übrigen Ursachen der Degeneration würken zwar langsam, aber kräftig. Wir rechnen dahin Einfluß des Himmelsstrichs, der Lebensart, der Nahrungsmittel u. s. w. Kaltes Klima unterdrückt das Wachsthum der organisirten K. und bringt auch weiße Farbe an ihnen hervor. Drum sind die Patagonier groß, die Grönländer klein; die Neger schwarz, die Deutschen weiß u.s.f. Was aber Lebensart, Cultur und Nahrung vermöge, davon sehn wir an unsern Hausthieren, und an den Pflanzen die in unsern Gärten künstlicher Pflege bedürfen, augenscheinliche Beyspiele.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 21.'})
+
+Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+21.) meist weiß: doch kann die gleiche Anomalie auch durch eine Krankheit, die mit der weissen Mohren ihrer viel Aehnlichkeit hat, bewirkt werden. Bey manchen ändert sich die Farbe nach der Jahrszeit wie beym Hasen, Eichhörnchen, Wiesel ꝛc und einige wechseln gar ihre Haare, und mausen sich gleichsam wie die Vögel: so das Caninchen von Angora, der Bison u. a.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 42.'})
+
+sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+sind allerdings fruchtbar. Hingegen können wir schwerlich glauben, daß man je aus der Vermischung von Caninchen und Hünern, oder von Stieren und Stuten, auch nur unfruchtbare Bastarden gezogen habe, so wie folgends die von Menschen und Vieh, aus mehr als blos physischen Gründen, absolut zu leugnen sind.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 20.'})

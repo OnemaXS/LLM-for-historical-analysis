@@ -1,0 +1,98 @@
+This is a trial with jinaai/jina-embeddings-v2-base-de and with register
+
+
+Question: How do hamsters compare with marmots?
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, I. COLEOPTERA., 3.'})
+
+Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+In der Gestalt, wie diese Insecten, die sich einer Metamorphose unterziehen, zuerst aus dem Ey kriechen, heisen sie Larven. Theils haben sie Füsse, wie die Raupen und Engerlinge theils aber keine, wie die Maden. Flügel haben sie noch nicht. Auch sind sie in diesem Zustand zur Fortpflanzung noch gänzlich unfähig: sie ernähren sich blos, und wachsen, und häuten sich mit unter einige mal.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 147.'})
+
+
+Question: Which animals are the most beautiful?
+
+Dieser ganz specifike Unterschied fällt zumal bey den Exemplaren beider Thiere, die im akademischen Museum von gleicher Grösse befindlich sind, sehr sichtlich in die Augen. 
+3. Monitor. Die Sauvegarde. L. cauda carinata, corpore mutico maculis ocellatis. * 
+Ein überaus schönes schwarz und weiß marmorirtes Thier, was ohngefär anderthalb Elen lang wird, und sich meist in Gesellschaft des Crocodils aufhalten, und durch den pfeifenden Laut, den es von sich giebt, seinen furchtbaren Gefährten verrathen soll. 
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 112.'})
+
+Sibirien bat auch wilden Weizen, wildes Korn und wilde Gerste; aber beides, jene Pferde und diese Getraidearten, sind sicher erst durch Zufall dahin gekommen und nur mit der Zeit verwildert Die Talente des Pferds sind so mannigfaltig und so relativ, daß man keiner Race den absoluten Vorzug vor den übrigen zugestehen kan. Die Arabischen, Spanischen, Neapolitanischen und Englischen sind die schönsten Reitpferde. Die leztern haben überdem noch die ungemeine Geschwindigkeit voraus. Die Frisischen sind zum Zug am dauerhaftesten u. s. w. Die Pferde sind eigentlich Grasfressende Thiere, doch lassen sie sich im Nothfall auch an Thierische Nahrungsmittel gewöhnen Fett und Seife verabscheuen sie.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VIII. SOLIDUNGULA., 1.'})
+
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch. der Frösche, Titelkupf Die schönste hieländische Eidexe, die sich über-
+Haupt im wärmern Europa und in Ostindien findet. Am Bauche ist sie zuweilen ganz kupferfarben, und das Grüne am Kopf, Rücken und Schwanz ist unverbesserlich. Dabey ist das Thierchen überaus flink, lebhaft, wohnt in trocknen Gegenden, auf Felsen, in Mauerritzen, sommert sich gern an der Sonne, und ist eben so unschuldig als alle übrige deutsche Eidexen. 
+5. Chamaeleon. L. cauda tereti brevi incurva digitis duobus tribusque coadunatis. *
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 112.'})
+
+Der Hund hat den feinsten Geruch und dieser Vorzug in Verbindung mit seiner Stärke und Geschwindigkeit macht ihn zur Jagd anderer Thiere geschickt. Er ist wachsam, lernt seinen Herrn und andre Wohlthäter kennen, unterscheidet ihre Stimme, und versteht sich sogar auf ihren Wink und Minen; ist erkenntlich, getreu, läst sich ungemein leicht zu künstlichen Handlungen abrichten, und nimmt mit weniger und geringer Kost vorlieb.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VII. FERAE., 17.'})
+
+Das ursprüngliche Vaterland der Pferde läßt sich eben so wenig, als der Hunde ihres, mit Gewißheit angeben. Die Schönheit dieser Thiere ist eine Folge der Cultur, mithin darf man bey weitem nicht die schönsten Pferde-Racen auch für die ältesten, und die minder schönen für ihre ansgearteten Abkömmlinge halten; so wenig als man Sibirien, seiner wilden Pferde wegen, für die Heimath der ganzen Gattung annehmen darf.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VIII. SOLIDUNGULA., 1.'})
+
+
+Question: Which body parts of birds make them capable of flight?
+
+Der ganze Körperbau der Vögel ist ihrer Bestimmung zum Fluge angemessen. Ihr Rumpf ist klein, eyförmig, und in seiner Structur gänzlich vom Rumpfe der Säugethiere verschieden. Das Brustbein änelt einer Pflugschaar, und dient den Vögeln vorzüglich, die Lust im Fluge zu durchschneiden. Zu beiden Seiten des Brustbeins liegen die ausnehmend grossen und starken Brustmuskeln, die vorzüglich die Flügel bewegen, und die, bey wilden Vögeln wenigstens, nie mit Fette bedeckt sind was sonst der Leichtigkeit im Fliegen und dem Zweck des Brustbeins hinderlich werden könnte Das Rückgrad ist unbeweglich; der Hals aber dagegen desto gelenker, und dabey in Verhältniß gegen den übrigen Körper ungemein lang.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 57.'})
+
+Auch der Kopf der Vögel ist bey den meisten verhältnismäßig klein, daher er ebenfalls die Luft leicht durchbohrt, und dadurch den Flug erleichtert. Ihre Gliedmassen sind überaus schlank, und fein gebaut, so daß sie nebst dem ausnehmend geringen Gewicht des ganzen Körpers, der Lebensart dieser Thiere, und besonders ihrem Aufenthalt und ihrer freyen Bewegung in dem Elemente, wofür die mehresten bestimmt sind, vollkommen entsprechen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 58.'})
+
+Im innern Körperbau und in der Verrichtung der Eingeweide haben die Vögel viel Gleichheit mit der vorigen Elaste der warmblütigen Thiere. Nur zeichnen sie sich, ausser einigen minder beträchtlichen Verschiedenheiten durch besondre Luftbehälter aus, die in ihrem ganzen Körper zerstreut, und zum Fluge von äusserster Wichtigkeit sind. Die mehresten stehen mit den Lungen, andere aber mit dem Maule in Verbindung, und der Vogel kann sie nach Willkür mit Luft laden oder ausleeren, je nachdem er seinen Körper leichter oder schwerer machen will.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 64.'})
+
+Alle Vögel kommen in Rücksicht ihrer Bildung darin mit einander überein, daß sie zwey Füsse, zwey Flügel, einen hornichten Schnabel, und einen mit Federn bedeckten Körper haben. Sie zeichnen sich zugleich durch diese vier Charactere von allen andern Thieren aufs kenntlichste aus, und sie sind gleichsam eint ganz isolirte Classe von Geschöpfen, die mit keiner andern zusammenstießt, und die daher mit Mühe in einer Stufenfolge der natürlichen Körper (§. 7.) unterzubringen ist.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 56.'})
+
+Die Vögel dieser Ordnung werden durch ihre Schwimmfüße kenntlich, und äneln sowol hierin, als auch in ihrer Lebensart, den palmatis der vorigen Classe. Ihr Oberschnabel endigt sich meist in ein kurzes Häkgen, und ist wie, der untere mit einer zähen Haut überzogen. Sie haben eine fleischigte Zunge, einen rauhen stachelichten Gaum, und die mehrsten von ihnen vorn au der Luftröre eine besondre knorplichte oder knöcherne Capsel *), die vermuthlich zu gleichen Zwecken als die andern allgemeinen Luftbehälter, deren wir schon mehrmals gedacht haben, dienet.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, IV. ANSERES.'})
+
+
+Question: Where do hamsters live?
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Der Aufenthalt dieser Thiere ist meist im Wasser: theils gar nur in fauligen Säfften oder doch in feuchten dumpfigen Orten. Einige leben blos unter der Erde: und viele lediglich im lebendigen Körper andrer Thiere, wie die Darmwürmer, Saamenthiergen u. s. w Viele leben gesellschaftlich an Corallen-Stämmen, auf Austerbänken ꝛc., doch werden diese mehr durch Noth oder Zufall, als durch Willkühr und in der Absicht sich wechselseitige Hülse zu leisten, zusammen gebracht.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 163.'})
+
+Gammarus, der Hummer. C. macrourus thorace laevi, rostro lateribus dentato: basi supra dente duplici. * In den Meeren der nördlichen Erde: wo er wie manche Fische zu gewissen Jahreszeiten hin und her zieht. Er ist sehr gefrässig, und hat einen geräumigen Magen, der durch besondre Grätenförmige Knochen ausgespannt und unterstützt wird.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, Verwandlung, als daß sie sich meist einigemal, 4.'})
+
+Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+†. Citellus. das Erdzeiselgen, Suslik. M corpore longiore, capite parvo, pedibus brevibus pentadactylis. * Pallas, Nov. Comm. Petrop. Tom. XIV tab. 21 Die äussere Gestalt des Erdzeiselgen kommt des Hamsters seiner eben nicht sehr nahe; desto verwandter sind aber beide Thiere in Rücksicht ihres innern Körperbaues, der Backentaschen ihrer Lebensart, Nesterbaues, Winterschlafs u. s w. Nur, statt daß der Hamster fettes Erdreich liebt, so baut hingegen das Erdzeiselchen in dürrem sandichtem oder thonichtem Boden. Es sindet sich in Oesterreich, und Böhmen, doch nur in geringer Anzal; in größter Menge hingegen in Ungarn, Polen und Sibirien.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 3.'})
+
+
+Question: Is there a connection between climate and animal coloration?
+
+Die übrigen Ursachen der Degeneration würken zwar langsam, aber kräftig. Wir rechnen dahin Einfluß des Himmelsstrichs, der Lebensart, der Nahrungsmittel u. s. w. Kaltes Klima unterdrückt das Wachsthum der organisirten K. und bringt auch weiße Farbe an ihnen hervor. Drum sind die Patagonier groß, die Grönländer klein; die Neger schwarz, die Deutschen weiß u.s.f. Was aber Lebensart, Cultur und Nahrung vermöge, davon sehn wir an unsern Hausthieren, und an den Pflanzen die in unsern Gärten künstlicher Pflege bedürfen, augenscheinliche Beyspiele.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 21.'})
+
+Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+21.) meist weiß: doch kann die gleiche Anomalie auch durch eine Krankheit, die mit der weissen Mohren ihrer viel Aehnlichkeit hat, bewirkt werden. Bey manchen ändert sich die Farbe nach der Jahrszeit wie beym Hasen, Eichhörnchen, Wiesel ꝛc und einige wechseln gar ihre Haare, und mausen sich gleichsam wie die Vögel: so das Caninchen von Angora, der Bison u. a.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 42.'})
+
+21.) wie eine Taube oder wie eine Tulpe, ausarten sollte? So brennt die Sonnenhitze die Mohren schwarz, und macht sie kraushaarigt; so wie hingegen die Kälte in Nordischen Zonen weisse Farbe und kleine Statur hervorbringt. Alle diese Verschiedenheiten fliessen so unvermerkt zusammen, daß sich eigentlich keine bestimmte Grenzen zwischen ihnen fest setzen lassen; doch haben wir das ganze Menschengeschlecht am füglichsten unter folgende fünf Varietäten zu bringen geglaubt;
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, I Ord. INERMIS.'})
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})

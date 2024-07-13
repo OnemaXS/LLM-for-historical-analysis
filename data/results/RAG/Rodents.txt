@@ -1,0 +1,604 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:11:17.256344   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+Follow the INSTRUCTION. The CONTEXT is an eighteen-century textbook on natural history by J. F. Blumenbach.
+INSTRUCTION: {instruction}
+CONTEXT: {context}  
+
+QUESTION OR INSTRUCTION:
+Summarize the state of scientific knowledge about rodents presented in the CONTEXT.
+
+TOPIC (used for retrieval):
+rodents
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The scientific knowledge about rodents presented in the context is limited, as the text mainly focuses on other animals such as the Ringdrossel, Wallroß, phoenicopterus, otis, rana, Ruthenus, and Rostratus. The text describes the physical characteristics and habitats of these animals, but does not provide detailed information about rodents specifically.
+
+COMMENT: Unlike in the first section, the model no longer assumes the text is always relevant
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+† Torquatus. die Ringdrossel, Ringamsel T. nigricans, rostro flavescente, macula pectorali albida. *
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES., 6.
+
+Rosmarus. Das Wallroß. T. dentibus laniariis superioribus exsertis longioribus Das Wallroß lebt gesellschaftlich beym Treibeis des Nordpols: oft finden sich hundert und mehrere beysammen. Sie nähren sich von Seetang und Schaalthieren, die sie mit ihren großen Vorverzähnen loskratzen. Wenn sie landen wollen hauen sie die Eckzähne mit vorgestrecktem Kopfe ins Ufer, und schleppen den plumpen Körper allmählig nach.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, XI. PALMATA., 1.
+
+phoenicopterus. Rostrum denudatum, infracto-incurvatum, denticulatum pedes tetradactyli.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, Ist im nördlichen Europa zu Hause, und wie, 25.
+
+otis. Rostrum mandibula superiore fornicata, pedes cursorii, tetradactyli.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, VI. GRALLAE., 28.
+
+rana. Frösche und Kröten. Corpus nudum, pedibus quatuor, posticis longioribus Die Thiere dieses Geschlechts haben einen kürzern Körper und breitern dickern Kopf als die Eidexen. Eine einzige Gattung ausgenommen sind die übrigen ungeschwänzt. Die mehresten haben an den Vorderfüssen freie Zehen, hinten aber Schwimmfüsse.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 6th Chapter: Amphibien, I. REPTILES., 2.
+
+Ruthenus. Der Sterlet. A. cirris 4. squamis dorsalibus 15. * In Rußland, Schweden ꝛc. Ist weit kleiner aber von ungleich delicaterm Fleisch als der Stör Aus den Eyern dieser und der folgenden Gattung wird der Caviar bereitet.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 6th Chapter: Amphibien, Ist im Europäischen Ocean zu Hause: hat drey, 2.
+
+Rostratus. C. cauda integra, spinis pinnae dorsalis 9, maculaque ocellari, rostro cylindrico. * Philos. Trans. 1765. tab. IX In Ostindien. Hat so wie die verwandten Gattungen dieses Geschlechts vortrefliche Farben Der Oberkiefer endigt sich in eine Röhre, wodurch das Thier die Insecten die über dem Wasser schweben bespritzt, daß sie herabfallen und ihm zur Speise werden müssen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 7th Chapter: Fische, III. THORACICI., 1.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:13:45.776383   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+Follow the INSTRUCTION. The CONTEXT is an eighteen-century textbook on natural history by J. F. Blumenbach.
+INSTRUCTION: {instruction}
+CONTEXT: {context}  
+
+QUESTION OR INSTRUCTION:
+Summarize the state of scientific knowledge about rodents presented in the CONTEXT.
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The scientific knowledge about rodents presented in the context includes information about the marmot and the hamster. The marmot is described as a lively and cute animal that lives in mountainous regions in the northern hemisphere. It digs deep burrows in the earth, feeds on plants, roots, and milk, and hibernates during cold weather. The hamster, on the other hand, is described as a more aggressive and less tameable animal that lives in northern regions and flat lands. It feeds on small animals, young plants, and grains, storing large amounts of food in its cheek pouches. The context also mentions the physical characteristics and behaviors of these rodents, as well as their habitats and diets.
+
+COMMENT: better to provide examples in the topic
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:17:13.809884   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+Follow the INSTRUCTION. The CONTEXT is an eighteen-century textbook on natural history by J. F. Blumenbach.
+INSTRUCTION: {instruction}
+CONTEXT: {context}  
+
+QUESTION OR INSTRUCTION:
+Analyze how did Blumenbach write about rodents. Which aspect were important for him?
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Blumenbach writes about rodents, specifically the Murmelthiere (marmots) and the Hamster, in a detailed and descriptive manner. He highlights their physical characteristics, habitats, behaviors, and diet. Blumenbach mentions that the Murmelthiere make deep burrows in the earth, line them with hay and moss, and feed on various plants and roots, with a preference for milk-based foods. He describes how they hibernate in cold weather and emerge to play and interact when the sun shines. Blumenbach also notes that their flesh is edible and tasty, and they can become quite fat before winter. 
+
+In contrast, Blumenbach describes the Hamster as a more aggressive and less tameable creature. He mentions that they live in northern regions and flat lands, unlike the Murmelthiere which are found in southern and mountainous areas. The Hamster is depicted as a voracious eater, feeding on small animals, young plants, and especially grains, which they store in their cheek pouches. Blumenbach also discusses the Hamster's breeding habits and the variations in color among the species.
+
+Overall, Blumenbach's writing about rodents focuses on their physical characteristics, habitats, behaviors, diet, and differences between species. He provides a detailed and informative account of these animals, highlighting their unique traits and behaviors.
+
+COMMENT: This is more a summary than an analysis...
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:19:56.500532   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+Follow the INSTRUCTION. The CONTEXT is an eighteen-century textbook on natural history by J. F. Blumenbach.
+INSTRUCTION: {instruction}
+CONTEXT: {context}  
+
+QUESTION OR INSTRUCTION:
+Analyze Blumenbach's writing about rodents. Which aspect were important for him?
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Blumenbach's writing about rodents focuses on the characteristics and behaviors of the animals. He describes the habits of rodents such as the marmot and the hamster, detailing their diet, hibernation patterns, and physical attributes. Blumenbach also compares and contrasts different rodent species, noting their habitats and temperaments. He emphasizes the importance of understanding the unique traits of each rodent species, highlighting their role in the natural world. Additionally, he mentions the economic impact of rodents, such as the damage they can cause to crops. Overall, Blumenbach's writing underscores the significance of rodents in the ecosystem and the need to study and appreciate their diversity.
+
+COMMENT: a nice answer
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:25:14.575330   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which is an eighteenth-century textbook on natural history by J. F. Blumenbach. Follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context}  
+
+QUESTION OR INSTRUCTION:
+Analyze Blumenbach's writing about rodents.
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Blumenbach's writing about rodents in the eighteenth-century textbook on natural history provides interesting insights into the behavior and characteristics of these animals. He describes the marmots, also known as Murmelthiere, as lively and sociable creatures that make deep burrows in the earth, lining them with hay and moss. They feed on various plants and roots but have a particular fondness for milk-based foods, often burrowing into Swiss Alpine huts. Blumenbach notes that marmots hibernate during cold weather, emerging from their burrows to play and interact with each other when the sun shines. Their flesh is described as edible and tasty, and they can grow quite fat in preparation for winter, with some weighing up to 20 pounds. The author also mentions that marmots are found in the Swiss Alps, Savoy, Egypt, and the Tatar region, and play a role in propagating rhubarb in the Tatar region.
+
+Blumenbach contrasts the marmots with another rodent, the hamster, or Cricetus. He notes that while both animals share similarities in their body structure and lifestyle, such as living in burrows, they differ in their habitats and temperament. The hamster is described as inhabiting more northern regions and flat lands, while the marmot is found further south in mountainous areas. The hamster is portrayed as aggressive and difficult to tame, with a penchant for biting and hoarding grain in its cheek pouches. Blumenbach mentions that hamsters can reproduce rapidly, with thousands being killed in a single year in certain regions. The author also highlights variations in hamster coloration, including all-black individuals and white hamsters with pink eyes.
+
+Overall, Blumenbach's writing on rodents provides a detailed and colorful depiction of these animals, highlighting their behaviors, habitats, and interactions with humans. The text offers valuable historical insights into the study of natural history in the eighteenth century and sheds light on the
+
+COMMENT: very descriptive
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:28:30.945471   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which is an eighteenth-century textbook on natural history by J. F. Blumenbach. First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context}  
+
+QUESTION OR INSTRUCTION:
+Critically analyze Blumenbach's writing about rodents.
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves interpreting and understanding historical sources in their context, taking into account the biases, perspectives, and intentions of the author. It also involves critically analyzing the content of the source to uncover underlying meanings and implications.
+
+Blumenbach's writing about rodents in the eighteenth-century textbook on natural history provides insight into the scientific knowledge and cultural perceptions of the time. His description of rodents such as the Murmelthiere (marmots) and Hamster reflects a mix of scientific observation and cultural beliefs. Blumenbach notes the habits, diet, and physical characteristics of these rodents, highlighting their behavior in different environments and their interactions with humans.
+
+However, it is important to critically analyze Blumenbach's writing about rodents in the context of the time period. His descriptions may be influenced by prevailing cultural attitudes towards animals, as well as limited scientific knowledge compared to modern standards. Additionally, the language and terminology used by Blumenbach may reflect biases or stereotypes that were common in the eighteenth century.
+
+Overall, a critical analysis of Blumenbach's writing about rodents can provide valuable insights into the historical understanding of natural history and the relationship between humans and animals in the eighteenth century. By examining the text with a critical eye, historians can uncover hidden meanings, biases, and cultural influences that may not be immediately apparent.
+
+COMMENT: Role-playing and generated knowledge about historical hermeneutics. Nice, but the model often writes "may" (e.g. "may reflect biases or stereotypes") instead of evaluate whether it is the case 
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:32:34.059591   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which is an eighteenth-century textbook on natural history by J. F. Blumenbach. First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction} Provide details and examples from the SOURCE.
+SOURCE: {context}  
+
+QUESTION OR INSTRUCTION:
+Critically analyze Blumenbach's writing about rodents.
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics refers to the study of interpreting historical texts and sources in order to understand the context, meaning, and significance of the information they provide. It involves analyzing the language, cultural references, and biases present in the text to uncover the author's intentions and perspectives.
+
+In Blumenbach's writing about rodents, he provides detailed descriptions of the behavior and characteristics of different species. For example, he describes the Murmelthiere (marmots) as lively and playful animals that hibernate during cold weather and emerge to bask in the sun. He notes their preference for milk-based foods and their habit of digging deep burrows in the earth. Blumenbach also contrasts the Murmelthiere with the Hamster, highlighting their different habitats and temperaments. The Hamster is portrayed as aggressive and voracious, known for attacking humans and other animals. Blumenbach also mentions the unique physical features of these rodents, such as the Hamster's ability to carry large amounts of grain in its cheek pouches.
+
+Overall, Blumenbach's writing on rodents reflects a detailed observation of their behavior, diet, and physical characteristics. He provides insights into the natural history of these animals and highlights the differences between species based on their habitats and behaviors. His descriptions offer a glimpse into the scientific understanding of rodents in the eighteenth century and demonstrate the importance of careful observation and classification in the study of natural history.
+
+COMMENT: The generation got worse after adding "Provide details and examples from the SOURCE."
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:37:16.592764   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which is an eighteenth-century textbook on natural history by J. F. Blumenbach. First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction} Provide references from the source.
+SOURCE: {context}  
+
+QUESTION OR INSTRUCTION:
+Critically analyze Blumenbach's writing about rodents. Report any description that is untypical.
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves interpreting and understanding historical sources within their historical context, taking into account the biases, perspectives, and intentions of the author. It also involves analyzing the language, symbols, and cultural references used in the source to gain a deeper understanding of the past.
+
+In Blumenbach's writing about rodents, he describes the behavior and characteristics of the Murmelthiere (marmots) and the Hamster. One untypical description is his characterization of the Hamster as a "beissiges boshaftes Thier" (biting malicious animal) that is aggressive towards humans and other animals. This contrasts with the typical portrayal of rodents as timid or harmless creatures. Blumenbach also notes the high reproductive rate of the Hamster, with over 27,000 being killed in one year in the Gothaischen region. This excessive killing of rodents reflects a different attitude towards wildlife management compared to modern conservation efforts.
+
+Blumenbach, J. F. (1779). Einleitung in die Naturgeschichte. Göttingen.
+
+COMMENT: The model misinterpreted the instruction to provide references, otherwise very good!
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 14:40:50.293135   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which is an eighteenth-century textbook on natural history by J. F. Blumenbach. First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction} Provide quotes from the source to support your reply.
+SOURCE: {context}  
+
+QUESTION OR INSTRUCTION:
+Critically analyze Blumenbach's writing about rodents. Report any description that is untypical.
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics is the study of how historical texts are interpreted and understood in their historical context, taking into account the biases, perspectives, and intentions of the author. It involves analyzing the language, structure, and content of the text to uncover its meaning and significance.
+
+In Blumenbach's writing about rodents, he describes the behavior and characteristics of the Murmelthiere (marmots) and the Hamster. One untypical description is the contrast he draws between the two animals in terms of their character. Blumenbach states that the Murmelthier is "kirre, sehr leicht zu zähmen" (docile, very easy to tame) and has good qualities, while the Hamster is described as "ein beissiges boshaftes Thier" (a biting, malicious animal) with no good qualities. This characterization of the Hamster as aggressive and lacking positive traits is not commonly found in natural history texts, which often focus on the physical characteristics and behaviors of animals rather than their personalities.
+
+Blumenbach also mentions the Hamster's habit of storing grain in its cheek pouches and underground burrows, which is a typical behavior for this species. He notes that the Hamster is voracious and reproduces rapidly, leading to large numbers being killed in certain regions. Blumenbach's detailed description of the Hamster's habits and impact on agriculture provides insight into the historical perception of this animal as a pest.
+
+Overall, Blumenbach's writing on rodents provides a mix of typical and untypical descriptions, with a focus on both physical characteristics and behavioral traits. His characterization of the Hamster as aggressive and destructive stands out as a departure from the usual scientific tone of natural history texts.
+
+COMMENT: Perfect
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 16:40:04.351542   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which is an eighteenth-century textbook on natural history by J. F. Blumenbach. First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction} Provide relevant quotes from the SOURCE.
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Find fragments from the SOURCE that oppose or agree with the thesis that hamsters are benefitial to humans.
+
+TOPIC (used for retrieval):
+Hamsters are benefitial to humans.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves interpreting historical sources in their context, considering the biases and perspectives of the author, and understanding the cultural and societal influences that may have shaped the text.
+
+In the eighteenth-century textbook on natural history by J. F. Blumenbach, the author describes hamsters as aggressive and harmful creatures. He states that hamsters are vicious and easily angered, attacking humans, horses, and dogs. Blumenbach notes that hamsters primarily feed on small animals, young plants, and especially grains, storing large amounts in their cheek pouches. He also mentions that hamsters reproduce rapidly, with over 27,000 hamsters being killed in one year in the region of Gotha. The author emphasizes the negative characteristics of hamsters, portraying them as destructive pests rather than beneficial animals.
+
+On the other hand, Blumenbach highlights the benefits of amphibians to humans in the same textbook. He mentions that amphibians help in controlling harmful insects and are used as food sources. The author also notes that various amphibians, such as turtles, frogs, and salamanders, have uses in medicine and industry. Blumenbach presents a more positive view of amphibians compared to his portrayal of hamsters, suggesting that they have significant value to humans.
+
+In conclusion, based on the excerpts from the source, Blumenbach's perspective on hamsters contradicts the thesis that hamsters are beneficial to humans. He portrays hamsters as aggressive and destructive creatures, emphasizing their negative impact on agriculture and livestock. In contrast, the author acknowledges the usefulness of amphibians in controlling pests and providing food and materials for various purposes. This demonstrates the importance of considering different perspectives and biases when analyzing historical sources.
+
+COMMENT: Fragment about amphibians completely off-topic, but otherwise very good 
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Der Nutzen der Amphibien fürs Menschengeschlecht ist einfach, aber theils sehr beträchtlich. Erstens vertilgen sie doch viel schädliche Insecten, Schnecken ꝛc. sodann werden viele zur Speise verwandt. Vorzüglich unzälige Schildkröten und ihre Eyer so auch verschiedene Frösche und Eidexen, Neunaugen, Störe, Rochen
+ꝛc. Schildplatt und Hausenblasen werden zu Kunstsachen verarbeitet. Arzneyen gibt diese Classe wenig. Vielleicht sind Kröten ein wichtiges Mittel gegen den Krebs. Froschlaich wird zu Pflaster, Ottern- und Natter-Fette ehedem zu Augensalbe, und der Stincus zu andern Zwecken verbraucht.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 110.
+
+Die Alten, die den Gebrauch der Mikroskope verkannten, und denen so viele andre von unsern Subsidien mangelten, nahmen bey der Zeugung kleiner organisirter Körper, zumal des sogenannten Ungeziefers, ihre Zuflucht zur Entstehung aus Fäulniß, zur generatio aequivoca. Die bekannte Erfahrung, daß Fäulniß die Vermehrung solcher Thiere, auch des Schimmels ꝛc befördere, konnte sie freylich auf diesen Fehlschluß leiten. So verfänglich es nun zwar heutiges Tages ist, und so wenig wir also geneigt sind, der generatio aequivoca das Wort zu reden so dünkt sie uns doch öfterer verlacht als gründlich widerlegt zu seyn. Die gewisse Wahrheit daß manche Gattungen von Würmern sich blos in andern thierischen Körpern finden; und daß sie gänzlich von denen verschieden sind, die sich auch ausser andern Thieren im Wasser aufhalten ist uns immer aus dieser Rücksicht bedenklich gewesen. Am wenigsten wissen wir uns die Erzeugung der kleinen Spulwürmer zu erklären, die Bald. Ronßeus und der seel. Brendel bey ungebohrnen Thieren vorgefunden haben. Wir selbst haben junge Hunde, wenige Stunden nach ihrer Geburt zergliedert, und ihren ganzen Darmkanal mit unzähligen Bandwürmern gefüllt gesehn.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 13.
+
+Der Schade der Amphibien steht mit ihrem Nutzen in ziemlichem Verhältnis. Der gröste Nachtheil ist wol der, daß sie andere nuzbare Thiere, Fische und deren Eyer ꝛc. vertilgen, Pflanzen – Wurzeln abfressen u. s. w Gegen die fürchterlich grossen Amphibien oder gegen das Gift der kleinern hat Vorsicht und Erfarung die Menschen sich ziemlich sichern gelehrt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 111.
+
+Gammarus, der Hummer. C. macrourus thorace laevi, rostro lateribus dentato: basi supra dente duplici. * In den Meeren der nördlichen Erde: wo er wie manche Fische zu gewissen Jahreszeiten hin und her zieht. Er ist sehr gefrässig, und hat einen geräumigen Magen, der durch besondre Grätenförmige Knochen ausgespannt und unterstützt wird.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, Verwandlung, als daß sie sich meist einigemal, 4.
+
+Die Weisheit des Schöpfers hat gewollt baß Nutze und Schade der verschiednen Thierclassen in einigem Verhältnis stehe: und so ist auch hier der Nachtheil, den die Insecten anrichten, zwar mit ihrem unermeßlichen Nutzen in keinen Vergleich zu bringen, aber doch im Ganzen genommen, importanter als bey andern Thieren. Sehr viele Insecten sind den Feldfrüchten überhaupt gefährlich, verursachen Miswachs, und verheeren, wie die grossen Heuschrecken, junge Saat, und alles, wo sie auffallen. Manche sind besonders dem Getraide nachtheilig; andere, wie so viele Raupen, Erdflöhe, Engerlinge ꝛc. den Gartengewächsen; andre Raupen, und Käferlarven ꝛc den Obstbäumen; die Schildläuse besonders der Orangerie: die Larven von Speckkäfern und Holzraupen den Holzungen: die Ameisen den Wiesen: die Kakerlacken, die Wanzen, die weissen Ameisen ꝛc. dem Hausgeräthe: die Larven vieler kleiner Käfergen den Büchern und Naturaliensammlungen. Endlich werden auch einige Arten von sogenanntem Ungeziefer den Menschen selbst, so wie den Pferden Schaafen, Hünern und andern Hausthieren, ja so gar verschiednen nutzbaren Insecten, den Bienen, Seidenwürmern ꝛc. auf eine sehr unmittelbare Weise lästig, und andre, wie die Skorpione ꝛc. durch ihr Gift, furchtbar.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 151.
+
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-19 17:15:00.754163   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which is an eighteenth-century textbook on natural history by J. F. Blumenbach. First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction} Provide quotes from the source to support your reply.
+SOURCE: {context}  
+
+QUESTION OR INSTRUCTION:
+Find incoherences in the SOURCE.
+
+TOPIC (used for retrieval):
+hamster, marmot and other small animals
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves the interpretation and understanding of historical sources within their historical context, taking into account the biases, perspectives, and limitations of the author. It also involves analyzing the language, symbols, and cultural references used in the source to uncover deeper meanings and implications.
+
+In the eighteenth-century textbook on natural history by J. F. Blumenbach, there are several incoherences that can be identified. One inconsistency is the classification of animals, where the author mixes different categories and orders without clear distinctions. For example, in the passage about amphibians, the author mentions three orders but then introduces a fourth order without clear justification: "Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat..." This inconsistency in classification undermines the clarity and accuracy of the information presented.
+
+Another inconsistency in the source is the contradictory descriptions of animal behavior and characteristics. For instance, in the passage about the Hamster, the author describes it as a vicious and aggressive animal that attacks humans and other animals, yet later mentions that it is easily tamed and has good qualities: "Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat." This conflicting portrayal of the Hamster's behavior raises questions about the reliability of the information provided.
+
+Overall, these incoherences in the source highlight the importance of critically analyzing historical texts and considering the context in which they were written to uncover potential biases, inaccuracies, and inconsistencies.
+
+COMMENT: Mistook a marmot for a hamster, but better answer about incoherences than was the case with human races 
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+u. f Ein muntres possierliches Thier, was in gebürgichten Gegenden der nordlichen Erde, besonders in den Schweizer-Alpen, in Savoyen Aegypten, und in der grossen Tattarey zu Hause ist. Es macht sich tiefe Hölen in die Erde, die es mit Heu und Moos ausfüttert, nährt sich von allerhand Pflanzen und Wurzeln; liebt aber vorzüglich Milchspeisen, daher es sich in den Schweizeralpen haüfig in die Sennhütten eingräbt. Bey kaltem Wetter schlafen die Murmelthiere; sobald aber die Sonne scheint, kommen sie aus ihren Hölen hervor, balgen sich und spielen mit einander. Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 288.
+
+Die Amphibien lassen sich am schicklichsten nach dem Plane ordnen, den der Ritter Linné dem man überhaupt die Bestimmung der ganzen Classe schuldig ist, darüber entworfen hat. Er ist auf dem ganzen Habitus dieser Thiere gegründet, und begreift nur drei Ordnungen. 
+
+I. Reptiles. Die Amphibien mit Füssen Schildkröten, Frösche, Eidexen II. Serpentes. Die Schlangen. Ohne Füsse, Floßfedern oder andere äussere Gliedmaaßen; sie haben einen cylindrischen langgestreckten Körper, kriechen auf dem Bauche, und bewegen sich wellenförmig III. Nantes. Die Amphibien mit Floßfedern, mittelst deren sie wie die Fische im Wasser schwimmen Die Siren lacertina aus Süd-Carolina, die Linné doch erst spät und mit eigenem Gefühl von Zweifel und Ungewißheit, in eine besondere vierte Ordnung (meantes) gesetzt hat, ist nach der Analogie zu schließen, besonders auch der Ohrkiefern (§. 
+105.) wegen, doch wol nur ein noch unvollkommenes Geschöpf, eine Larve I. REPTILES Alle Thiere dieser Ordnung sind, wenigstens wenn sie ihre vollkommne Gestalt erlangt haben mit vier Fußen versehn, die nach dem verschiednen Aufenthalt dieser Thiere entweder freye, oder durch eine Schwimmhaut verbundene, oder gar wie in eine Flosse verwachsene Zehen haben. Sie legen sämmtlich Eyer, und manche von ihnen sind überaus fruchtbar. 
+1. testudo. Schildkröte. Corpus testa obtectum, cauda brevis, os mandibulis nudis edentulis Die Schildkröten sind wol die trägsten phlegmanschten Geschöpfe in der Natur.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.
+
+Dromedarius. das gemeine Kameel, Büffons Dromedaire. C. topho dorsi unico. * Ein Blatt von van Schley, nach Herrn Campers Zeichnung. Kopf und Füße des Thiers Die Klauen sind, zumal bey dieser und der folgenden Gattung, nicht durchaus, sondern nur vorne gespalten. Allein die Beschaffenheit der Schaalen, des Fußes selbst, und die ganze Oekonomie dieser Thiere, rechtfertigen den Platz, den wir ihnen unter andern bisulcis anweisen. Das Kameel findet sich noch hin und wieder in Asien wild ist aber für den ganzen Orient das wichtigste Hausthier. Es ist im Stande, funfzehn Centner zu tragen, und in einem sanften Trabe achtzehn Meilen in einem Tage zurückzulegen. Es kann lange hungern, und frißt wie der Esel unnützes Futter, nemlich dornichtes Buschwerk, was in den Wüsten in Menge wächst, für kein anderes Säugethier zur Nahrung taugt, und nur dem Kameele, das deshalb mit hornichten Lippen versehen ist, geniesbar wird. Auch den Durst kann dieses Thier mehrere Tage lang erdulden säuft aber dafür ungeheuer viel auf einmal, und behält gleichsam zum Vorrath eine Menge Wasser in besondern Zellen seines Magens. Es ist ein sanftmüthiges folgsames Thier, was doch zur Brunstzeit leicht wütend wird, und dann selbst seine Führer und Herren verkennt.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, IX. BISULCA., 1.
+
+Kleine Vögel, mit kurzen schlanken Füssen und kegelförmigem scharf zugespitztem Schnabel von verschiedner Grösse und Bildung. Sie leben in Monogamie, nären sich von Insecten und Pflanzen. Saamen, und füttern mehrentheils ihre Jungen aus dem Kropfe. Sie haben ein zartes schmackhaftes Fleisch, und die meisten von ihnen singen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 5th Chapter: Vögeln, IX. PASSERES.
+
+† Lunaris. S. exscutellatus, thorace bicorni: intermedio obtuso bifido, capitis cornu erecto, clypeo emarginato.* Hat die Grösse vom gemeinen Mistkäfer: ist vorzüglich hart, ganz schwarz, glänzend, und überaus artig gebildet. Das Männgen hat ein längeres Horn auf der Stirne als das Weibchen: und sein Brustschild ist sehr regelmässig ausgeschweift, zackigt Er lebt auf Wiesen und Viehweiden, vorzüglich im Ruhmist: aus dem er, wie andre verwandte Käferarten, hole Kugeln formt; die er einzeln unter die Erde verscharrt, an Graswurzeln befestigt, und in jede ein einziges Ey legt; damit die künftig daraus kriechende Larve aus dem Miste Nahrung, und bis zu ihrer Verwandlung sichern Aufenthalt habe.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 8th Chapter: Insecten, I. COLEOPTERA., 3.
+
+
+
+

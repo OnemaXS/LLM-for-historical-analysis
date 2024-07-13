@@ -1,0 +1,103 @@
+This is a trial with BAAI/llm-embedder and without register
+
+
+Question: How do hamsters compare with marmots?
+
+Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba).
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 42.'})
+
+Noch sind am Körper einiger Thiere besondere Beutel von verschiedner Bestimmung zu merken. So haben manche Meerkatzen, der Hamster, die Ziselmaus u. a. Backentaschen um Proviant darin einschleppen zu können. Das Weibchen der Beutelratte hat eine Tasche über ihre Zitzen am Bauche, in welche sich die saugenden Jungen verkriechen, können. Der Orangutang und das Rennthier haben einen Beutel am Halse, der sich in die Kehle öffnet, und zur Verstärkung der Stimme dient. Der Biber, die Zibetkatze, das Bisamthier, der Dachs u. a.m haben verschiedne Beutel (Folliculos) am Nabel, beym After ꝛc. in welche sich eine schmierichte starkriechende Fettigkeit sammlet u. s. w.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 49.'})
+
+Sie verkriechen sich wenn diese Zeit kommt, an sichre schaurige Orte wie die Murmelthiere, Hamster, Ameisen ꝛc in ihre Nester, die Fledermäuse in Hölen, die Frösche und einige Fische in Sümpfe, die Uferschwalben ins Schilf, die Schlangen und Schnecken ins Gebüsch u. s. w. und fallen mit einbrechender Kälte in eine Art von Erstarrung, aus der sie erst durch die erwärmenden Blicke der Frühlingssonne wieder erweckt werden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 33.'})
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 42.'})
+
+Man nimmt das beste Schildpatt von ihr, und die Wilden brauchen ihr Fett als Arzney. 
+3. Mydas. T. pedibus pinniformibus, unguibus palmarum binis, plantarum solitariis testa ovata. * 
+Die gröste und stärkste Schildkröte, die wol mit Lasten von sechs und mehrern Centnern, die man ihr auf den Rücken legt, fortkriecht. Sie ist vorzüglich auf den Inseln der Oceane zu Hause und wird wegen ihres schmackhaften Fleisches und ihrer zalreichen Eyer, besonders für die Seefarenden wichtig. 
+4. Geometrica. T. pedibus posticis palmatis testae scutellis elevatis truncatis. *
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 112.'})
+
+
+Question: Which animals are the most beautiful?
+
+Jedes natürliche System sollte eigentlich eine Art Bonnetischer Leiter seyn, und das ganze Studium der Naturgeschichte würde ungemein gewinnen würde gar sehr erleichtert werden, wenn die Systematiker nach diesem Plane arbeiteten, sich weniger willkürliche Charaktere abstrahirten, nach welchen sie die Naturalien rangiren ꝛc. Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 7.'})
+
+Alle Thiere haben dergleichen Triebe in ihrer Natur, nur freylich jedes nach seiner Bestimmung, Instincte verschiedener Art und in verschiedenem Maaße. Die allgemeinsten Natur-Triebe, wie z. B. die zur Begattung, sind bey der einen Thierart stärker, bey der andern schwächer; und Montesquieu derivirt schon aus diesem verschiedentlich bestimmten Maaße von Instinct, das unveränderliche Gleichgewicht, was sich bey der Vermehrung jeder Gattung von Thieren zeigt. Die Erde könnte für die Elephanten zu klein, und das Menschengeschlecht gegen die Löwen zu schwach werden, wenn diese grossen und fürchterlichen Thiere den unersättlichen Liebestrieb der Caninchen oder Meerschweinchen besässen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 35.'})
+
+Die natürliche Farbe des Chamäleons ist stahlgrau, zuweilen wird es aber gelb, schwarz, auch gefleckt ꝛc. und das zwar ohne alle Beziehung auf die Farbe der benachbarten Gegenstände, sondern theils von freyen Stücken, am sichtbarsten aber wenn das Thier gereizt und bös gemacht wird. Am füglichsten kan man dieses Phänomen auf Rechnung der Galle schreiben, und es mit der Gelbsucht vergleichen. 
+6. Gecko. L. cauda tereti mediocri, digitis muticis subtus lamellatis, corpore verrucoso, auribus concavis. * 
+Der Gecko hat meist das gleiche Vaterland mit dem Chamäleon, und ist auch hin und wieder im südlichen Europa, z. B. im Neapolitanischen einheimisch.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 112.'})
+
+Den mehresten Amphibien ist, wie schon die Benennung der ganzen Classe andeutet Wasser und Land zum gemeinschaftlichen Aufenthalt angewiesen. Die meisten gehen willkührlich in beiden Elementen ihren Geschäften und ihrer Nahrung nach. Manche bringen hingegen entweder eine bestimmte Periode ihres Gebens, oder gewisse Jahrszeiten blos in einem von beiden zu; und andere heissen endlich abusive Amphibien, da sie blos fürs Land, oder blos fürs Wasser und nicht für beides zugleich bestimmt sind.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 97.'})
+
+Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba).
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 42.'})
+
+
+Question: Which body parts of birds make them capable of flight?
+
+Die mehresten Ornithologen haben daher auch ihre Classification auf die Verschiedenheit des einen oder des andern von den genannten Theilen gegründet: Klein z. B. auf die Bildung der Zehen, Möhring auf die Bedeckung der Füße, Brißon auf beides in Verbindung mit der Beschaffenheit des Schnabels u. s. w. Linné nimmt in dem Plane seines Systems der Vögel auch auf die Bildung mehrerer Theile zugleich, und so ziemlich auf den ganzen Habitus, Rücksicht: nur scheint er sich in der Ausführung zuweilen vergessen zu haben: wenigstens begreift man nicht, wie Papagey, Colibri und Krähe bey ihm eine Ordnung verbunden, hingegen der Dudu und Casuar in zwey Ordnungen von einander gerissen, und mehr Verbindungen oder Trennungen dieser Art zugelassen werden durften.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 90.'})
+
+Die systematische Anordnung wird bey dieser Classe durch die zahllose Menge der darin begriffenen Thiere, und durch ihre so sehr verschiedne Bildung, erschwehrt. Wir folgen indeß auch hier dem scharssinnigen Entwurf des R. Linné, dessen Classification der Insecten sich am meisten auf den ganzen Habitus derselben gründet, und wegen der wenigen Ordnungen auch den Vorzug der Faßlichkeit fürs Gedächtnis hat. Es versteht sich, daß die Charactere allemal vom vollkommen reifen Insect hergenommen sind I. Ordn. Coleoptera. Käfer.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 152.'})
+
+Von der einen Seite kennen wir sehr viele Pflanzen, die nichts weniger als eingewurzelt sind; und von der andern sehr viele Thiere, die eben so wenig auf locomotivitas Anspruch machen können. Eine Wasserlinse würde im Fall sie willkürliche Bewegung besäße, sehr leicht ihren Aufenthalt ändern können, da hingegen eine See-Tulpe (Lepas balanus) so wie viele andere Thiere aus der Classe der Würmer ihren einmal eingenommenen Platz nie von selbst wieder verlassen kann.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 5.'})
+
+Es versteht sich, daß die Charactere allemal vom vollkommen reifen Insect hergenommen sind I. Ordn. Coleoptera. Käfer. Insecten mit hornigem Körper, deren Flügel in der Ruhe sich zusammen falten, und mit zwey hornartigen Decken oder Scheiden belegt werden, die sich in der Mitte in gerader Linie an einander schliefen. 
+
+II. Hemiptera. meist mit einem hornichten spitzen Rüssel, der vorn an der Brust hinab liegt: und mit vier meist kreuzweis zusammengelegten zur Hälfte harten Pergamentänlichen Flügeln III. Lepidoptera. Schmetterlinge. Mit weichem behaarten Körper, und vier ausgespannten Flügeln, die mit bunten Schuppen bedeckt sind IV. Nevroptera.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 152.'})
+
+Man hat sonst die Thiere und Pflanzen durch andere als die angezeigten Charaktere zu unterscheiden gemeint. Die Pflanzen, sagte man sind organisirte Körper die den Ort ihres Aufenthalts nicht verändern können, weil sie eingewurzelt sind; da hingegen die Thiere allerdings diese Fähigkeit ihren Standpunkt zu wechseln (locomotivitas) besitzen. Allein diese Kennzeichen sind unzulänglich. Von der einen Seite kennen wir sehr viele Pflanzen, die nichts weniger als eingewurzelt sind; und von der andern sehr viele Thiere, die eben so wenig auf locomotivitas Anspruch machen können.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 5.'})
+
+
+Question: Where do hamsters live?
+
+Sie verkriechen sich wenn diese Zeit kommt, an sichre schaurige Orte wie die Murmelthiere, Hamster, Ameisen ꝛc in ihre Nester, die Fledermäuse in Hölen, die Frösche und einige Fische in Sümpfe, die Uferschwalben ins Schilf, die Schlangen und Schnecken ins Gebüsch u. s. w. und fallen mit einbrechender Kälte in eine Art von Erstarrung, aus der sie erst durch die erwärmenden Blicke der Frühlingssonne wieder erweckt werden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 33.'})
+
+zu ihrem Aufenthalt, zur Sicherheit für ihre Jungen, zum Fang ihres Raudes, und zu tausend andern Zwecken zu verfertigen wissen. Der Bau der Biber, die Hölen der Hamster, der Murmelthiere; die Nester der Eichhörnchen, der Vögel, der Insecten; die Spinneweben, die Fallgruben des Ameisenlöwen; ferner die Auswahl der Bau-Materialien, da die eine Gattung von Insecten ihre Zellen aus Wachs, eine andre verwandte Art die ihrigen aus Stein, eine dritte ans Holzspänchen, eine vierte aus Rosenblättern verfertigt die regelmäßige, aber ewig einförmige, Gestalt dieser Wohnungen u. s. w. geben unerschöpflich zahlreiche Beweise von der Grösse und Mannichfaltigkeit dieser unbegreiflichen Naturtriebe.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 36.'})
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 42.'})
+
+Noch sind am Körper einiger Thiere besondere Beutel von verschiedner Bestimmung zu merken. So haben manche Meerkatzen, der Hamster, die Ziselmaus u. a. Backentaschen um Proviant darin einschleppen zu können. Das Weibchen der Beutelratte hat eine Tasche über ihre Zitzen am Bauche, in welche sich die saugenden Jungen verkriechen, können. Der Orangutang und das Rennthier haben einen Beutel am Halse, der sich in die Kehle öffnet, und zur Verstärkung der Stimme dient. Der Biber, die Zibetkatze, das Bisamthier, der Dachs u. a.m haben verschiedne Beutel (Folliculos) am Nabel, beym After ꝛc. in welche sich eine schmierichte starkriechende Fettigkeit sammlet u. s. w.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 49.'})
+
+Er hält sich oft blos auf den Vorderfüssen, indem er den Hinterleib in die Höhe richtet; und ist wol der ware Stellio und Saurus der Alten. 7. Stincus. L. cauda tereti mediocri, apice compressa, digitis muticis lobato-squamosis marginatis. * 
+Der Stincus findet sich im steinichten Arabien, Ober-Aegypten ꝛc. und war weiland als ein Stärkungsmittel besonderer Art berufen; wird auch noch jezt wenigstens in seiner Heimat in dieser Absicht verbraucht. 
+8. Iguana. Der Leguan. L. cauda tereti longa, sutura dorsali dentata, crista gulae denticulata. * 
+Ist in America zu Hause.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 112.'})
+
+
+Question: Is there a connection between climate and animal coloration?
+
+Wir haben hie warmblütigen Thiere nunmehr absolvirt, und gehen zu den kaltblütigen über von denen die in den beiden nächsten Classen nemlich die Amphibien und Fische, ebenfalls rothes Blut haben, was sich blos durch seine Kälte vom Blut der Säugthiere und Vögel auszeichnet. (§. 40) Dahingegen die Insecten und Würmer nur einen weissen Saft in ihrem Körper füren, der kaum noch den Namen von Blut verdient.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 92.'})
+
+Ihre Nester würden sie zumal bey den entblätterten Bäumen nicht sattsam gegen die tödtlichen Folgen des Frostes schützen; die gefrornen Gewässer, die hart gefrorne Erde würde sie verhindern, ihrer Nahrung nachgehn zu können; und da ohnedem auch die Insecten sich im Winter verkriechen, und keine Beeren und Körner von Früchten in dieser Jahreszeit mehr zu sehen sind, so müßten unzälige Vögel verhungern, wenn sie nicht vom innern Instinct getrieben, noch vor Einbruch der strengen Kälte, unsere Gegenden verliessen, und bis zur Widerkehr der wärmern Tage, südliche Himmelsstriche besuchten.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 67.'})
+
+Jedes natürliche System sollte eigentlich eine Art Bonnetischer Leiter seyn, und das ganze Studium der Naturgeschichte würde ungemein gewinnen würde gar sehr erleichtert werden, wenn die Systematiker nach diesem Plane arbeiteten, sich weniger willkürliche Charaktere abstrahirten, nach welchen sie die Naturalien rangiren ꝛc. Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 7.'})
+
+Die Insecten haben so zuverlässige und faßliche, die Würmer hingegen so wenig allgemein positive Charactere, daß man die leztern vielleicht am kürzesten durch diejenigen kaltblütigen Thiere definiren könnte, die keine Insecten sind. Doch wollen wir versuchen, die auszeichnenden Eigenschaften dieser äuserst merkwürdigen Geschöpfe, mit welchen wir die Thiergeschichte beschließen, zusammen zu lesen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 153.'})
+
+Die Thiere werden von der einen Seite durch die unerträglichen Gefühle des Hungers und Durstes, und von der andern durch die angenehmen Reitze des Appetits getrieben, diese ihre Nahrungsmittel zu sich zu nehmen und dadurch ihre Erhaltung zu bewürken. Die kaltblütigen Thiere können indeß doch überhaupt länger, als die warmblütigen, und manche von ihnen zum Erstaunen lange hungern. Auch nehmen einige zumal aus der Classe der Insecten, in einer gewissen Epoche ihres Lebens; viele andre aber im Winter, den sie theils durchschlafen, gar keine Speise zu sich.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 26.'})

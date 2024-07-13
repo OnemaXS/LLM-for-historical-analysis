@@ -1,0 +1,128 @@
+QUESTION 2: Which animals are the most beautiful? (using db_1500_without_reg)
+
+
+============================================
+k = 3
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen. Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc. sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 63.
+
+
+Der Kaiman findet sich im mittlern America und wird gewönlich nur für eine Spielart des Nil-Crocodils ausgegeben, von dem er sich aber theils durch seine kleinere Statur, vorzüglich aber durch die Bildung seines Körpers und Schwanles, auszeichnet, die beide nicht mit so scharf hervorstehenden starken Schildern, wie bey jenem Thier, sondern mit weit flackern Erhabenheiten besetzt sind. Dieser ganz specifike Unterschied fällt zumal bey den Exemplaren beider Thiere, die im akademischen Museum von gleicher Grösse befindlich sind, sehr sichtlich in die Augen. 
+3. Monitor. Die Sauvegarde. L. cauda carinata, corpore mutico maculis ocellatis. * 
+Ein überaus schönes schwarz und weiß marmorirtes Thier, was ohngefär anderthalb Elen lang wird, und sich meist in Gesellschaft des Crocodils aufhalten, und durch den pfeifenden Laut, den es von sich giebt, seinen furchtbaren Gefährten verrathen soll. 
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch. der Frösche, Titelkupf Die schönste hieländische Eidexe, die sich über-
+Haupt im wärmern Europa und in Ostindien findet. Am Bauche ist sie zuweilen ganz kupferfarben, und das Grüne am Kopf, Rücken und Schwanz ist unverbesserlich. Dabey ist das Thierchen überaus flink, lebhaft, wohnt in trocknen Gegenden, auf Felsen, in Mauerritzen, sommert sich gern an der Sonne, und ist eben so unschuldig als alle übrige deutsche Eidexen. 
+5. Chamaeleon.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+============================================
+k = 5
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen. Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc. sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 63.
+
+
+Der Kaiman findet sich im mittlern America und wird gewönlich nur für eine Spielart des Nil-Crocodils ausgegeben, von dem er sich aber theils durch seine kleinere Statur, vorzüglich aber durch die Bildung seines Körpers und Schwanles, auszeichnet, die beide nicht mit so scharf hervorstehenden starken Schildern, wie bey jenem Thier, sondern mit weit flackern Erhabenheiten besetzt sind. Dieser ganz specifike Unterschied fällt zumal bey den Exemplaren beider Thiere, die im akademischen Museum von gleicher Grösse befindlich sind, sehr sichtlich in die Augen. 
+3. Monitor. Die Sauvegarde. L. cauda carinata, corpore mutico maculis ocellatis. * 
+Ein überaus schönes schwarz und weiß marmorirtes Thier, was ohngefär anderthalb Elen lang wird, und sich meist in Gesellschaft des Crocodils aufhalten, und durch den pfeifenden Laut, den es von sich giebt, seinen furchtbaren Gefährten verrathen soll. 
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch. der Frösche, Titelkupf Die schönste hieländische Eidexe, die sich über-
+Haupt im wärmern Europa und in Ostindien findet. Am Bauche ist sie zuweilen ganz kupferfarben, und das Grüne am Kopf, Rücken und Schwanz ist unverbesserlich. Dabey ist das Thierchen überaus flink, lebhaft, wohnt in trocknen Gegenden, auf Felsen, in Mauerritzen, sommert sich gern an der Sonne, und ist eben so unschuldig als alle übrige deutsche Eidexen. 
+5. Chamaeleon.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Die mehresten Würmer haben unansehnliche Farben. Doch sind auch einige, wie die Seeanemonen, Seefedern, Aphroditen, und viele Conchylien von auserordentlicher Schönheit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 159.
+
+
+Ein artiges kleines Thier, was wir aus Guiana erhalten haben, und von den bisher bekannten weichschaalichten Schildkröten verschieden ist. 
+2. Imbricata. Die Carette. T. pedibus pinniformibus, testacordata subcarinata, margine serrato: scutellis imbricatis latiusculis, cauda squamata. * 
+Findet sich in beiden Indien; zumal häufig an den Antillen. Man nimmt das beste Schildpatt von ihr, und die Wilden brauchen ihr Fett als Arzney. 
+3. Mydas. T. pedibus pinniformibus, unguibus palmarum binis, plantarum solitariis testa ovata. * 
+Die gröste und stärkste Schildkröte, die wol mit Lasten von sechs und mehrern Centnern, die man ihr auf den Rücken legt, fortkriecht. Sie ist vorzüglich auf den Inseln der Oceane zu Hause und wird wegen ihres schmackhaften Fleisches und ihrer zalreichen Eyer, besonders für die Seefarenden wichtig. 
+4. Geometrica. T. pedibus posticis palmatis testae scutellis elevatis truncatis. * 
+Ein kleines Thier, ohngefähr von der Grösse einer flachen Hand: es lebt in Ostindien, und hat wegen seines regelmäßigen schwarz und gelb gezeichneten Rückenschilds, ein sehr artiges Ansehn. 
+2. rana. Frösche und Kröten. Corpus nudum, pedibus quatuor, posticis longioribus Die Thiere dieses Geschlechts haben einen kürzern Körper und breitern dickern Kopf als die Eidexen. Eine einzige Gattung ausgenommen sind die übrigen ungeschwänzt. Die mehresten haben an den Vorderfüssen freie Zehen, hinten aber Schwimmfüsse. 
+1. Pipal, die Pipa, Tedo.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+============================================
+k = 7
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen. Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc. sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 63.
+
+
+Der Kaiman findet sich im mittlern America und wird gewönlich nur für eine Spielart des Nil-Crocodils ausgegeben, von dem er sich aber theils durch seine kleinere Statur, vorzüglich aber durch die Bildung seines Körpers und Schwanles, auszeichnet, die beide nicht mit so scharf hervorstehenden starken Schildern, wie bey jenem Thier, sondern mit weit flackern Erhabenheiten besetzt sind. Dieser ganz specifike Unterschied fällt zumal bey den Exemplaren beider Thiere, die im akademischen Museum von gleicher Grösse befindlich sind, sehr sichtlich in die Augen. 
+3. Monitor. Die Sauvegarde. L. cauda carinata, corpore mutico maculis ocellatis. * 
+Ein überaus schönes schwarz und weiß marmorirtes Thier, was ohngefär anderthalb Elen lang wird, und sich meist in Gesellschaft des Crocodils aufhalten, und durch den pfeifenden Laut, den es von sich giebt, seinen furchtbaren Gefährten verrathen soll. 
+4. † Agilis. Die grüne Eidexe, Kupfer-Eidexe. L. cauda verticillata longiuscula, squamis acutis, collari subtus squamis constricto. * 
+Rösel Gesch. der Frösche, Titelkupf Die schönste hieländische Eidexe, die sich über-
+Haupt im wärmern Europa und in Ostindien findet. Am Bauche ist sie zuweilen ganz kupferfarben, und das Grüne am Kopf, Rücken und Schwanz ist unverbesserlich. Dabey ist das Thierchen überaus flink, lebhaft, wohnt in trocknen Gegenden, auf Felsen, in Mauerritzen, sommert sich gern an der Sonne, und ist eben so unschuldig als alle übrige deutsche Eidexen. 
+5. Chamaeleon.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Sie sind schlau und muthig, so daß sie über weit grössere Thiere Herr werden (§. 100.), und sind ohne Besorgniß zu essen. Zur Begattungszeit bekommen die Männchen von dieser und der vorigen Gattung schwarze warzichte Knollen an den Danwen der Vorderfüsse, womit sie sich äusserst fest um ihrer Weibchen Brust klammern können. 
+8. † Arborea. Der Laubfrosch (Calamites). 
+R. corpore laevi, subtus granulato, pedibus fissis, unguibus lenticulatis. * 
+Rösel Taf. 9 Ein anmuthiges Thier, was fast in ganz Europa (doch nicht in England, aber desto häufiger in Italien) und in Nordamerica zu Hanse ist Ist mit einem klebrichten Schleim, wie die Schnecken überzogen, der ihm bey seinem Aufenthalt am Laub der Bäume, zum Anhängen zu passe kommt Die Männchen haben eine laute Stimme, die sie wenn es regnen will, besonders aber zur Paarungszeit, und zwar alsdann so laut von sich geben daß man sie wol Meilen weit hören kann. Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Die mehresten Würmer haben unansehnliche Farben. Doch sind auch einige, wie die Seeanemonen, Seefedern, Aphroditen, und viele Conchylien von auserordentlicher Schönheit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 159.
+
+
+Ein artiges kleines Thier, was wir aus Guiana erhalten haben, und von den bisher bekannten weichschaalichten Schildkröten verschieden ist. 
+2. Imbricata. Die Carette. T. pedibus pinniformibus, testacordata subcarinata, margine serrato: scutellis imbricatis latiusculis, cauda squamata. * 
+Findet sich in beiden Indien; zumal häufig an den Antillen. Man nimmt das beste Schildpatt von ihr, und die Wilden brauchen ihr Fett als Arzney. 
+3. Mydas. T. pedibus pinniformibus, unguibus palmarum binis, plantarum solitariis testa ovata. * 
+Die gröste und stärkste Schildkröte, die wol mit Lasten von sechs und mehrern Centnern, die man ihr auf den Rücken legt, fortkriecht. Sie ist vorzüglich auf den Inseln der Oceane zu Hause und wird wegen ihres schmackhaften Fleisches und ihrer zalreichen Eyer, besonders für die Seefarenden wichtig. 
+4. Geometrica. T. pedibus posticis palmatis testae scutellis elevatis truncatis. * 
+Ein kleines Thier, ohngefähr von der Grösse einer flachen Hand: es lebt in Ostindien, und hat wegen seines regelmäßigen schwarz und gelb gezeichneten Rückenschilds, ein sehr artiges Ansehn. 
+2. rana. Frösche und Kröten. Corpus nudum, pedibus quatuor, posticis longioribus Die Thiere dieses Geschlechts haben einen kürzern Körper und breitern dickern Kopf als die Eidexen. Eine einzige Gattung ausgenommen sind die übrigen ungeschwänzt. Die mehresten haben an den Vorderfüssen freie Zehen, hinten aber Schwimmfüsse. 
+1. Pipal, die Pipa, Tedo.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln. Im übrigen Körperbau äneln sie der gemeinen Eidexe Vermutlich haben diese Thiere den Stoff zu den Fabeln von Drachen, Basilisken u. s. w. gegeben. 
+4. lacerta. Eidexe. Corpus elongatum pedibus quatuor aequalibus. 
+1. Crocodilus. Der Nil Crocodil. ( Hiobs Leviathan.) L. capite cataphracto, nucha carinata, cauda superne cristis binis lateralibus horrida. * 
+Der Crocodil ist das größte Thier dieser Ordnung, was wol eine Länge von 25 Fus erreicht und hauptsächlich im Nil, dock auch in Ostindien zu Hause ist. Seine Grosse, seine Schnelligkeit und sein unersättlicher Appetit machen ihn für die Gegenden, wo er sich findet, fürchterlich Er tödtet Menschen und grössere Thiere, und verschluckt zugleich, wie manche Vögel (§. 69.), 
+Kieselsteine, um die Verdauung zu befördern. Auch wacht er ausserdem die Fahrt auf den Flüssen gefärlich, da er leicht Bote umschmeist, in die Fischer – Netze färt ꝛc. Dabey ist seine Haut zumal auf dem Rücken so harsch, daß sie Flinten-Kugeln widersteht, und er kaum anders als am Bauche zu verwunden ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.

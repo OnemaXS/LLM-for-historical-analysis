@@ -1,0 +1,765 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-26 13:26:21.710085   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which are fragments from the 1st and the 12th edition of a historical textbook on natural history by J. F. Blumenbach. 
+Each fragment is described by metadata. 
+For example, if metadata include "Register 6th Chapter: Amphibien, I. REPTILES", the fragment is about the class amphibian and subclass reptiles.
+For example, if metadata include "Register 13th Chapter: Saltze, I. ACIDA", the fragment is about the class of salts, subclass of acid salts.
+First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Summarize information about silver.
+
+TOPIC (used for retrieval):
+description of noble metals, gold, silver etc.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves interpreting and analyzing historical sources to understand the context, meaning, and significance of the information presented. In this case, analyzing fragments from J.F. Blumenbach's historical textbook on natural history provides insight into the classification and properties of metals, including silver.
+
+The fragments discuss the classification of metals into noble and base metals, with gold and silver being considered noble due to their greater resistance to fire. The text also mentions the three main components found in metals: phlogiston, salt, and earth, which contribute to their metallic properties. Additionally, the fragments mention the classification of minerals into categories such as earth and stones, salts, resins, metals, and fossils.
+
+Specifically regarding silver, the text describes it as a valuable metal that is often found in a native state, similar to gold. It mentions the various forms in which silver can be found, such as crystalline or in nugget form. The text also discusses the properties of silver, its importance in various applications, and its presence in the human body, particularly in bones and blood.
+
+Overall, the fragments provide a comprehensive overview of the classification, properties, and significance of metals, including silver, within the context of natural history.
+
+COMMENT: ok
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+Man theilt die Metalle überhaupt in Ganze- oder eigentlich so genannte Metalle, und Halbmetalle, und begreift unter der lezten Abtheilung diejenigen, die nicht so geschmeidig als die erstern sind, und im Feuer größtentheils verflüchtigen. Von jenen hat man das Gold und Silber wegen ihrer größern Feuerbeständigkeit Edle und die übrigen Unedle Metalle genannt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 242.
+
+So verschieden die Gestalten sind, unter denen sich die Metalle zeigen, so lassen sie sich doch am kürzesten auf zwey Hauptgattungen zurück bringen. Entweder nemlich finden sich die Erzte gediegen (metallum nudum s. natiuum) d. h in aller ihrer wahren metallischen Substanz und Ansehen, so daß sie ohne weitere Scheidung u. s. w sogleich verarbeitet werden könnten; oder aber vererzt, (mineralisatum) so daß ihnen der Mangel eines ihrer eigenthümlichen Bestandtheile, oder die innige Beymischung einer fremden Säure von Schwefel u. s. w. mehr oder weniger von ihrem eigentlichen Ansehen benimmt, ihre Gestalt verändert ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 243.
+
+Die Metalle sind im Grunde sehr gemischte Körper, und haben wohl ohne Ausnahme einen dreyfachen Grundstoff in sich: ein Phlogiston nemlich, ein Salz und eine Erde Des erstern, des brennbaren Wesens, ist schon im vorigen Abschnitt (§. 239.) Erwähnung geschehen. Die Erzte erhalten durch dieses Phlogiston ihr ganzes metallisches Ansehen Geschmeidigkeit ꝛc. die sie sogleich verlieren, so bald ihnen dasselbe entzogen wird. Das Salz und die Erde, die die beyden andern Bestandtheile des Metalls ausmachen, sind von ganz eigner Art, und man muß über ihre wahre Natur erst noch eine nähere Ausklärung erwarten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 241.
+
+Alle Mineralien lassen sich sehr füglich unter folgende Classen bringen:
+
+I. Erden und Steine II. Salze III. Erdharze IV. Metalle und Halbmetalle denen wir als eine Zugabe V. die Versteinerungen beygefügt haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 233.
+
+Und zwar auf zweyerley Weise. Erstens nemlich derb in Gestein; auch zuweilen, aber höchst selten, crystallinisch, wie wir dergleichen (in eben der Form, wie das crystallisirte Gold und Silber) in Zeolithnieren von der Insel Feroe besitzen: meist aber ohne bestimmte Form wie bey Cammsdorf ꝛc. Vor Alters wohl in Menge, und an vielen Orten, wie sich schon daraus muthmassen läßt, daß so viele alte Völker der Erde in der frühsten Kindheit ihrer Cultur sich kupferne Waffen verfertigt, da man ihnen schwerlich Metallurgie genug zutrauen darf, daß sie das Erzt aus Minern zu gewinnen, verstanden hätten Die zweyte Art gediegnes Kupfer, ist das aus Kupfervitriol, (anstatt des Eisens, das er angetroffen und aufgelößt hat), abgesetzte: dieß ist das Cämentkupfer, das im Rammelsberg und bey Neusol in Ungarn, und anderwerts sich findet, und durch altes Eisen, das man dem Vitriolwasser in Weg legt, gewonnen wird.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 1. Nativum. Gediegen.
+
+Ebenfalls ein flüchtiges und zugleich räuberisches Erzt, das ausser dem Gold und der Platina die übrigen Erzte mit sich fort nimmt; aber in der Arzney, und in der Metallurgie zur Reinigung des Goldes; auch für einige Handwerker, z. E für Schriftgiesser von wichtigem Nutzen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 11. antimonivm, Spießglas, (Stibium albidum, fibrosum, friabile.
+
+Das nutzbarste wichtigste von allen Metallen das selbst, wenn es innerlich genossen wird, gesund und stärkend ist, das die Vorsehung deshalb auch über die ganze Erde verbreitet hat; das bey aller seiner Härte und schwehren Schmelzbarkeit doch sehr leicht von den unmerklichen überall verbreiteten Säuren (§. 229.) aufgelöst wird, und folglich durch die Nahrung in Thiere und Gewächse gebracht, und ihren Säften beygemischt wird. Die Knochen und das Blut des Menschen enthalten Eisen, und zwar in grösserer Proportion als das Blut irgend eines andern Thiers.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 6. perrvm, Eisen, nigrescens, durissimum, magneti adhaerens.
+
+Die erste und bey weiten ansehnlichste Classe begreift alle Mineralien, die sich weder wie die Salze in Wasser, noch wie die Erdharze in Oel auflösen, auch sich nicht wie die Erzte ohne zu zerspringen, hämmern und breit schlagen lassen. Die ältern Mineralogen haben die Erden und Steine von einander abgesondert und in zwey besondere Classen zertheilt. Allein der beständigen Wiederholungen zu geschweigen die bey dieser Absonderung unvermeidlich sind so beruht überhaupt der ganze Unterschied auf der sehr unbestimmten blos relativen Cohäsion die, wenn sie locker ist, Erden, und wenn sie feste wird, Steine constituiren soll.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 234.
+
+Man hat neuerlich bezweifeln wollen, ob sich die unedlen Metalle (§. 242.) würklich gediegen fänden. Nun haben wir zwar selbst erinnert
+(§. 229.), daß sie aus den angegebenen Ursachen leicht, und immer mehr und mehr vererzet würden, und es ist auch bekannt, wie leicht einige von ihnen z. E. Zinn und Bley ꝛc. aus ihren Minen ausschmelzen können. Allein dieses alles zugegeben, so kann deswegen die Existenz des wirklich gediegnen Kupfers, Eisens, Zinns ꝛc noch nicht abgeleugnet werden, wenn man sich nicht einen sonderbar eingeschränkten, und dem unsrigen (§. 1.) sehr widersprechenden Begriff von Naturalien bilden wollte, da man denn aber auch hundert andre Mineralien nicht dafür erkennen, sondern aus der Naturgeschichte verbannen müßte.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 244.
+
+Ein sonderbares Erzt von Silberfarbe, aber von der Schwehre des Goldes, das aus kleinen gefletschten Körnchen wie Hammerschlag besteht wovon der Magnet einen Theil zieht; die überaus spröde, hart, und strengflüssig sind, und die seit 1736. bey Quito und Carthagena hin und wieder zerstreut gefunden werden. Vielleicht wie Herr Margraf glaubt, ein Hüttenproduct ein Abgang einer vor Zeiten in jenen Gegenden vorgenommenen Quickarbeit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 7. platina, Weisses Gold, alba, ponderosissima, granulata.
+
+Sehr selten crystallisirt: in der gleichen Form wie das Gold: doch theils in ansehnlichen Crystallen, wie an einer Norwegischen Stufe im Museum Auserdem aber in sehr mannichfaltiger Gestalt nachdem verschiednen Grad der Reinigkeit und Geschmeidigkeit, z. E. in derben Stücken, wie der gediegne Silberblock im Museum, der vor 50. Jahren auf dem St. Andreas zum Andreasberge am Harz gebrochen, gegen 200. Mark am Gewicht, und 1644. Thaler am innern Werth hält; oder aber in Zacken wie Zähne, oder in Bäumgen dendritisch, asticht, oder wie Drat wie Filigrainearbeit u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., A. Edle., 2. argentvm, Silber, album, leuius ductile., 1. Natiuum, gediegen.
+
+Die Eigenschaften der Mineralien, ihre Bildung, Dauer u. s. w. ist so sehr verschieden, und ihre Nutzbarkeit so überaus mannichfaltig, daß sich hier nichts allgemeines darüber sagen läßt, sondern unten bey der Anzeige der Arten angeführt werden muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 232.
+
+Kupferfahlerzt Stahlfarb. Im Grund dasselbe, dessen wir so eben beym Silber gedacht haben: nur ärmer an Silber, und hingegen mehr kupferhaltig Dahin gehört auch das Kupferglaserzt, das von schwärzerer Farbe, als anderes Fahlerzt und zuweilen mit dunklen bunten Farben angeflogen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., b) 
+
+Diese lezte Classe der eigentlichen Mineralien begreift die Erzte, die sich, wenn sie rein sind durch ihre ausnehmende Schwehre, und durch ihr glänzendes Ansehen auszeichnen. Sie werden theils leichter theils schwehrer im Feuer zum Fluß gebracht, und nehmen erst beym Erkalten ihre vorige Festigkeit wieder an. Die mehresten sind so geschmeidig, daß sie sich, ohne zu zerspringen, unter dem Hammer ausdehnen und breit schlagen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 240.
+
+Bleyglanz. Galena Das allergemeinste Bleyerzt, und fast durchgehends mehr oder weniger silberhaltig, so daß wie schon erinnert worden, auch das mehrste Silber daraus gewonnen wird. Die Gestalt des Bleyglanzes ist meist in Würfeln, zuweilen von 20 Cubiczoll, glänzend auf dem Bruche, von gröbern oder feinern Gefüge (grobspeisig und klarspeisig): theils stralicht Bleyschweif.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 5. plvmbvm, Bley, liuidum, mollissimum, ponderosum., 2. Mineralisatum, vererzt., a) 
+
+Das Kupfer wird von alten Salzen, und zwar sehr leicht aufgelößt, färbt die Solution grün oder blau, und wird giftig: daher sich die Gefahr bey unvorsichtigen Gebrauch kupferner Küchengeschirre erklärt. Das beste Kupfer kommt aus Japan und Schweden. Durch Beymischung von Gold, Silber, Zinn, am meisten aber von Zink werden aus dem Kupfer die gemischten Metalle, weiß Kupfer, Glockengut, Canonenmetall, Messing, Tomback, Prinzmetall, Pinschbak, Pakfong, Similor und Mannheimer Gold verfertigt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^
+
+Kupferkies Das allergemeinste Kupfererze, das, wie schon oben gesagt worden, zugleich Schwefel und Eisen, nur in verschiedner Proportion, enthält Je reicher es an Kupfer ist, desto dunkler goldgelber ist es. Zuweilen mit schönen blauen rothen ꝛc. Farben angeflogen, und heißt dann Pfauenschweifig oder Taubenhälsig.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., a) 
+
+Man ist zwey Wege eingeschlagen, die Mineralien dieser, und überhaupt auch der übrigen Classen in systematische Ordnung zu bringen. Entweder nemlich werden sie nach ihrer äussern Bildung, oder aber nach der Mischung ihrer Bestandtheile angeordnet. Jenes blos nach dem Augenschein und Ansehen. Dieses mittelst der chimischen Auflösung. Man hat den letztern Weg vielleicht mit nicht bessern Grunde für untrüglich angepriesen, als man den erstern für völlig ungewiß zu verschreyen gesucht hat. Wir lassen jeden in seinen Würden, folgen aber dem erstern, so wie wir auch oben die Thiere blos nach ihrer äussern Bildung und nicht nach ihrem innern anatomischen Bau angeordnet haben: und so lassen sich denn alle Erd- und Steinarten füglich unter folgende drey Ordnungen bringen I. Calcariae. Kalkarten II. Argillaceae. Thonarten III. Siliceae s. vitrescibiles. Kieselarten Nach dem was wir oben von der Entstehung der Mineralien gesagt haben, so braucht es kaum wieder erinnert zu werden, daß sich diese dreyerley Erdarten nicht immer rein, sondern sehr häufig zwey oder alle drey unter einander gemischt finden: daß sich aber auch diese unreinen Erden sehr leicht in derjenigen Ordnung mit der sie die mehreste Gleichheit haben, unterbringen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 235.
+
+Sogenanntes Jungfernquecksilber.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 9. mercvrivs, Quecksilber, (Argentum viuum, Hydrargyrum), liquidus., 1. Natiuus, gediegen.
+
+Ein wichtiges Erzt, das, wie schon oben angezeigt worden, das Kupfer zu Messing ꝛc. macht Der Zink schmilzt mit einer blaulicht grünen Flamme, und gibt verschiedne Arten von brauchbaren Galmeyarten oder Zinkkalken, wie die Turie, das Hüttennichts (Nihilum album) den Ofenbruch (Cadmia fornacum) ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 12. zincvm, Zink, Tuttanego, Conterfait, Spiauter, cinereum, micaceum tenax.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-26 13:31:48.351081   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which are fragments from the 1st and the 12th edition of a historical textbook on natural history by J. F. Blumenbach. 
+Each fragment is described by metadata. 
+For example, if metadata include "Register 6th Chapter: Amphibien, I. REPTILES", the fragment is about the class amphibian and subclass reptiles.
+For example, if metadata include "Register 13th Chapter: Saltze, I. ACIDA", the fragment is about the class of salts, subclass of acid salts.
+First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Based on the SOURCE, compare silver and copper.
+
+TOPIC (used for retrieval):
+description of metals, gold, silver, etc.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves interpreting and analyzing historical sources to understand the context, meaning, and significance of the information presented. By examining primary sources such as historical textbooks, historians can gain insights into the beliefs, knowledge, and perspectives of past societies.
+
+Based on the fragments from J.F. Blumenbach's historical textbook on natural history, it is evident that metals are classified into noble and base metals, with silver and copper falling into the latter category. Silver is described as a valuable metal that is easily dissolved by acids and used in various applications, while copper is highlighted for its importance in metallurgy and alloy production. Both metals have unique properties and uses, with copper being more commonly found in nature compared to silver.
+
+In comparing silver and copper, it is clear that both metals have distinct characteristics and applications. Silver is valued for its beauty and versatility, while copper is essential for various industrial processes. Despite their differences, both metals play crucial roles in human history and continue to be important resources in modern society.
+
+COMMENT: Blumenbach categorised silver as a noble, not a base metal
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+Man theilt die Metalle überhaupt in Ganze- oder eigentlich so genannte Metalle, und Halbmetalle, und begreift unter der lezten Abtheilung diejenigen, die nicht so geschmeidig als die erstern sind, und im Feuer größtentheils verflüchtigen. Von jenen hat man das Gold und Silber wegen ihrer größern Feuerbeständigkeit Edle und die übrigen Unedle Metalle genannt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 242.
+
+So verschieden die Gestalten sind, unter denen sich die Metalle zeigen, so lassen sie sich doch am kürzesten auf zwey Hauptgattungen zurück bringen. Entweder nemlich finden sich die Erzte gediegen (metallum nudum s. natiuum) d. h in aller ihrer wahren metallischen Substanz und Ansehen, so daß sie ohne weitere Scheidung u. s. w sogleich verarbeitet werden könnten; oder aber vererzt, (mineralisatum) so daß ihnen der Mangel eines ihrer eigenthümlichen Bestandtheile, oder die innige Beymischung einer fremden Säure von Schwefel u. s. w. mehr oder weniger von ihrem eigentlichen Ansehen benimmt, ihre Gestalt verändert ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 243.
+
+Die Metalle sind im Grunde sehr gemischte Körper, und haben wohl ohne Ausnahme einen dreyfachen Grundstoff in sich: ein Phlogiston nemlich, ein Salz und eine Erde Des erstern, des brennbaren Wesens, ist schon im vorigen Abschnitt (§. 239.) Erwähnung geschehen. Die Erzte erhalten durch dieses Phlogiston ihr ganzes metallisches Ansehen Geschmeidigkeit ꝛc. die sie sogleich verlieren, so bald ihnen dasselbe entzogen wird. Das Salz und die Erde, die die beyden andern Bestandtheile des Metalls ausmachen, sind von ganz eigner Art, und man muß über ihre wahre Natur erst noch eine nähere Ausklärung erwarten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 241.
+
+Alle Mineralien lassen sich sehr füglich unter folgende Classen bringen:
+
+I. Erden und Steine II. Salze III. Erdharze IV. Metalle und Halbmetalle denen wir als eine Zugabe V. die Versteinerungen beygefügt haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 233.
+
+Und zwar auf zweyerley Weise. Erstens nemlich derb in Gestein; auch zuweilen, aber höchst selten, crystallinisch, wie wir dergleichen (in eben der Form, wie das crystallisirte Gold und Silber) in Zeolithnieren von der Insel Feroe besitzen: meist aber ohne bestimmte Form wie bey Cammsdorf ꝛc. Vor Alters wohl in Menge, und an vielen Orten, wie sich schon daraus muthmassen läßt, daß so viele alte Völker der Erde in der frühsten Kindheit ihrer Cultur sich kupferne Waffen verfertigt, da man ihnen schwerlich Metallurgie genug zutrauen darf, daß sie das Erzt aus Minern zu gewinnen, verstanden hätten Die zweyte Art gediegnes Kupfer, ist das aus Kupfervitriol, (anstatt des Eisens, das er angetroffen und aufgelößt hat), abgesetzte: dieß ist das Cämentkupfer, das im Rammelsberg und bey Neusol in Ungarn, und anderwerts sich findet, und durch altes Eisen, das man dem Vitriolwasser in Weg legt, gewonnen wird.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 1. Nativum. Gediegen.
+
+Das nutzbarste wichtigste von allen Metallen das selbst, wenn es innerlich genossen wird, gesund und stärkend ist, das die Vorsehung deshalb auch über die ganze Erde verbreitet hat; das bey aller seiner Härte und schwehren Schmelzbarkeit doch sehr leicht von den unmerklichen überall verbreiteten Säuren (§. 229.) aufgelöst wird, und folglich durch die Nahrung in Thiere und Gewächse gebracht, und ihren Säften beygemischt wird. Die Knochen und das Blut des Menschen enthalten Eisen, und zwar in grösserer Proportion als das Blut irgend eines andern Thiers.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 6. perrvm, Eisen, nigrescens, durissimum, magneti adhaerens.
+
+Ebenfalls ein flüchtiges und zugleich räuberisches Erzt, das ausser dem Gold und der Platina die übrigen Erzte mit sich fort nimmt; aber in der Arzney, und in der Metallurgie zur Reinigung des Goldes; auch für einige Handwerker, z. E für Schriftgiesser von wichtigem Nutzen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 11. antimonivm, Spießglas, (Stibium albidum, fibrosum, friabile.
+
+Man hat neuerlich bezweifeln wollen, ob sich die unedlen Metalle (§. 242.) würklich gediegen fänden. Nun haben wir zwar selbst erinnert
+(§. 229.), daß sie aus den angegebenen Ursachen leicht, und immer mehr und mehr vererzet würden, und es ist auch bekannt, wie leicht einige von ihnen z. E. Zinn und Bley ꝛc. aus ihren Minen ausschmelzen können. Allein dieses alles zugegeben, so kann deswegen die Existenz des wirklich gediegnen Kupfers, Eisens, Zinns ꝛc noch nicht abgeleugnet werden, wenn man sich nicht einen sonderbar eingeschränkten, und dem unsrigen (§. 1.) sehr widersprechenden Begriff von Naturalien bilden wollte, da man denn aber auch hundert andre Mineralien nicht dafür erkennen, sondern aus der Naturgeschichte verbannen müßte.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 244.
+
+Die erste und bey weiten ansehnlichste Classe begreift alle Mineralien, die sich weder wie die Salze in Wasser, noch wie die Erdharze in Oel auflösen, auch sich nicht wie die Erzte ohne zu zerspringen, hämmern und breit schlagen lassen. Die ältern Mineralogen haben die Erden und Steine von einander abgesondert und in zwey besondere Classen zertheilt. Allein der beständigen Wiederholungen zu geschweigen die bey dieser Absonderung unvermeidlich sind so beruht überhaupt der ganze Unterschied auf der sehr unbestimmten blos relativen Cohäsion die, wenn sie locker ist, Erden, und wenn sie feste wird, Steine constituiren soll.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 234.
+
+Die Eigenschaften der Mineralien, ihre Bildung, Dauer u. s. w. ist so sehr verschieden, und ihre Nutzbarkeit so überaus mannichfaltig, daß sich hier nichts allgemeines darüber sagen läßt, sondern unten bey der Anzeige der Arten angeführt werden muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 232.
+
+Ein sonderbares Erzt von Silberfarbe, aber von der Schwehre des Goldes, das aus kleinen gefletschten Körnchen wie Hammerschlag besteht wovon der Magnet einen Theil zieht; die überaus spröde, hart, und strengflüssig sind, und die seit 1736. bey Quito und Carthagena hin und wieder zerstreut gefunden werden. Vielleicht wie Herr Margraf glaubt, ein Hüttenproduct ein Abgang einer vor Zeiten in jenen Gegenden vorgenommenen Quickarbeit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 7. platina, Weisses Gold, alba, ponderosissima, granulata.
+
+Kupferfahlerzt Stahlfarb. Im Grund dasselbe, dessen wir so eben beym Silber gedacht haben: nur ärmer an Silber, und hingegen mehr kupferhaltig Dahin gehört auch das Kupferglaserzt, das von schwärzerer Farbe, als anderes Fahlerzt und zuweilen mit dunklen bunten Farben angeflogen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., b) 
+
+Ein wichtiges Erzt, das, wie schon oben angezeigt worden, das Kupfer zu Messing ꝛc. macht Der Zink schmilzt mit einer blaulicht grünen Flamme, und gibt verschiedne Arten von brauchbaren Galmeyarten oder Zinkkalken, wie die Turie, das Hüttennichts (Nihilum album) den Ofenbruch (Cadmia fornacum) ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 12. zincvm, Zink, Tuttanego, Conterfait, Spiauter, cinereum, micaceum tenax.
+
+Das Kupfer wird von alten Salzen, und zwar sehr leicht aufgelößt, färbt die Solution grün oder blau, und wird giftig: daher sich die Gefahr bey unvorsichtigen Gebrauch kupferner Küchengeschirre erklärt. Das beste Kupfer kommt aus Japan und Schweden. Durch Beymischung von Gold, Silber, Zinn, am meisten aber von Zink werden aus dem Kupfer die gemischten Metalle, weiß Kupfer, Glockengut, Canonenmetall, Messing, Tomback, Prinzmetall, Pinschbak, Pakfong, Similor und Mannheimer Gold verfertigt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^
+
+Sehr selten crystallisirt: in der gleichen Form wie das Gold: doch theils in ansehnlichen Crystallen, wie an einer Norwegischen Stufe im Museum Auserdem aber in sehr mannichfaltiger Gestalt nachdem verschiednen Grad der Reinigkeit und Geschmeidigkeit, z. E. in derben Stücken, wie der gediegne Silberblock im Museum, der vor 50. Jahren auf dem St. Andreas zum Andreasberge am Harz gebrochen, gegen 200. Mark am Gewicht, und 1644. Thaler am innern Werth hält; oder aber in Zacken wie Zähne, oder in Bäumgen dendritisch, asticht, oder wie Drat wie Filigrainearbeit u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., A. Edle., 2. argentvm, Silber, album, leuius ductile., 1. Natiuum, gediegen.
+
+Ein giftiges Metall, dessen Dämpfe jammervolle Krankheiten, Hüttenkatze, Lähmungen u s. w. verursachen; das auch zum Verfälschen der Weine misgebraucht, Colik, und theils den Tod wirkt hat. Hingegen wird es ausser dem allgemein bekannten Gebrauch auch durch die daraus verfertigten Farben, Bleyweiß, Bleygelb, Mennige ꝛc. durch die Goldglätte, Silberglätte ꝛc nutzbar.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 5. plvmbvm, Bley, liuidum, mollissimum, ponderosum.
+
+Ein leichtes Metall, das, so wie das Bley eher schmelzt als glüht: auch leicht von Säuren angegriffen und aufgelößt wird, daher die zinnernen Eßgeschirre mit der gleichen Vorsicht als die küpfernen gebraucht werden müssen. Das Englische Zinn ist das beste: nächst diesem das von Malacca und von Siam. Einige Völker wie z. E. die Lappen kennen fast kein andres Metall;, sie ziehen es zu Dratfäden, und sticken ihre Pelze und ihr Rennthiergeschirr damit. Ausser allerhand Geräthe, das insgemein aus Zinn verfertigt wird, braucht man es vorzüglich zum Verzinnen des Eisenblechs, zu Spiegelfolie, Stanniol ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn, (plumbum candidum veter.) album, molle, leue, flexum crepans.
+
+Man ist zwey Wege eingeschlagen, die Mineralien dieser, und überhaupt auch der übrigen Classen in systematische Ordnung zu bringen. Entweder nemlich werden sie nach ihrer äussern Bildung, oder aber nach der Mischung ihrer Bestandtheile angeordnet. Jenes blos nach dem Augenschein und Ansehen. Dieses mittelst der chimischen Auflösung. Man hat den letztern Weg vielleicht mit nicht bessern Grunde für untrüglich angepriesen, als man den erstern für völlig ungewiß zu verschreyen gesucht hat. Wir lassen jeden in seinen Würden, folgen aber dem erstern, so wie wir auch oben die Thiere blos nach ihrer äussern Bildung und nicht nach ihrem innern anatomischen Bau angeordnet haben: und so lassen sich denn alle Erd- und Steinarten füglich unter folgende drey Ordnungen bringen I. Calcariae. Kalkarten II. Argillaceae. Thonarten III. Siliceae s. vitrescibiles. Kieselarten Nach dem was wir oben von der Entstehung der Mineralien gesagt haben, so braucht es kaum wieder erinnert zu werden, daß sich diese dreyerley Erdarten nicht immer rein, sondern sehr häufig zwey oder alle drey unter einander gemischt finden: daß sich aber auch diese unreinen Erden sehr leicht in derjenigen Ordnung mit der sie die mehreste Gleichheit haben, unterbringen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 235.
+
+Und endlich müssen auch alle von Menschen schon verarbeitete Producte aus allen drey Naturreichen hier in Anschlag gebracht werden die ohne Ausnahme doch endlich, jedes nach seiner Weise vermodern oder verrosten, kurz so gut wie die Naturalien selbst, aus denen sie verfertiget waren, zerstört werden, und theils wenn sie schon ins Mineralreich übergegangen sind, noch das leserliche Gepräge ihrer ehemaligen Bestimmung an sich tragen. So ist im academischen Musäum eine Eisensteinstufe aus dem Zweybrückischen in die ein halb verochertes aber doch noch ganz kenntliches Bergeisen fest eingewachsen ist. So besitzen wir selbst einen antiken Siegelring, an dem das Metall ganz und gar zu einer festen Eisen miner vererzt ist, aber doch seine ehemalige Form behalten und den gegrabenen Onyx noch fest eingeschloffen gleichsam in sich verwachsen hält.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 230.
+
+Kupferkies Das allergemeinste Kupfererze, das, wie schon oben gesagt worden, zugleich Schwefel und Eisen, nur in verschiedner Proportion, enthält Je reicher es an Kupfer ist, desto dunkler goldgelber ist es. Zuweilen mit schönen blauen rothen ꝛc. Farben angeflogen, und heißt dann Pfauenschweifig oder Taubenhälsig.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., a) 
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-26 13:33:30.321039   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which are fragments from the 1st and the 12th edition of a historical textbook on natural history by J. F. Blumenbach. 
+Each fragment is described by metadata. 
+For example, if metadata include "Register 6th Chapter: Amphibien, I. REPTILES", the fragment is about the class amphibian and subclass reptiles.
+For example, if metadata include "Register 13th Chapter: Saltze, I. ACIDA", the fragment is about the class of salts, subclass of acid salts.
+First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Based on the SOURCE, decide whether silver is a noble metal.
+
+TOPIC (used for retrieval):
+description of metals, gold, silver, etc.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves interpreting and understanding historical sources in their context to gain insights into the past. In this case, analyzing fragments from J.F. Blumenbach's historical textbook on natural history provides information on the classification and properties of metals and minerals. Based on the information provided in the fragments, it can be concluded that silver is considered a noble metal. This is evident from the description of silver as a valuable and important metal, resistant to fire, and found in a pure form like gold. Additionally, the mention of silver being used for various purposes, including in medicine and metallurgy, further supports its classification as a noble metal.
+
+COMMENT: no
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+Man theilt die Metalle überhaupt in Ganze- oder eigentlich so genannte Metalle, und Halbmetalle, und begreift unter der lezten Abtheilung diejenigen, die nicht so geschmeidig als die erstern sind, und im Feuer größtentheils verflüchtigen. Von jenen hat man das Gold und Silber wegen ihrer größern Feuerbeständigkeit Edle und die übrigen Unedle Metalle genannt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 242.
+
+So verschieden die Gestalten sind, unter denen sich die Metalle zeigen, so lassen sie sich doch am kürzesten auf zwey Hauptgattungen zurück bringen. Entweder nemlich finden sich die Erzte gediegen (metallum nudum s. natiuum) d. h in aller ihrer wahren metallischen Substanz und Ansehen, so daß sie ohne weitere Scheidung u. s. w sogleich verarbeitet werden könnten; oder aber vererzt, (mineralisatum) so daß ihnen der Mangel eines ihrer eigenthümlichen Bestandtheile, oder die innige Beymischung einer fremden Säure von Schwefel u. s. w. mehr oder weniger von ihrem eigentlichen Ansehen benimmt, ihre Gestalt verändert ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 243.
+
+Die Metalle sind im Grunde sehr gemischte Körper, und haben wohl ohne Ausnahme einen dreyfachen Grundstoff in sich: ein Phlogiston nemlich, ein Salz und eine Erde Des erstern, des brennbaren Wesens, ist schon im vorigen Abschnitt (§. 239.) Erwähnung geschehen. Die Erzte erhalten durch dieses Phlogiston ihr ganzes metallisches Ansehen Geschmeidigkeit ꝛc. die sie sogleich verlieren, so bald ihnen dasselbe entzogen wird. Das Salz und die Erde, die die beyden andern Bestandtheile des Metalls ausmachen, sind von ganz eigner Art, und man muß über ihre wahre Natur erst noch eine nähere Ausklärung erwarten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 241.
+
+Alle Mineralien lassen sich sehr füglich unter folgende Classen bringen:
+
+I. Erden und Steine II. Salze III. Erdharze IV. Metalle und Halbmetalle denen wir als eine Zugabe V. die Versteinerungen beygefügt haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 233.
+
+Und zwar auf zweyerley Weise. Erstens nemlich derb in Gestein; auch zuweilen, aber höchst selten, crystallinisch, wie wir dergleichen (in eben der Form, wie das crystallisirte Gold und Silber) in Zeolithnieren von der Insel Feroe besitzen: meist aber ohne bestimmte Form wie bey Cammsdorf ꝛc. Vor Alters wohl in Menge, und an vielen Orten, wie sich schon daraus muthmassen läßt, daß so viele alte Völker der Erde in der frühsten Kindheit ihrer Cultur sich kupferne Waffen verfertigt, da man ihnen schwerlich Metallurgie genug zutrauen darf, daß sie das Erzt aus Minern zu gewinnen, verstanden hätten Die zweyte Art gediegnes Kupfer, ist das aus Kupfervitriol, (anstatt des Eisens, das er angetroffen und aufgelößt hat), abgesetzte: dieß ist das Cämentkupfer, das im Rammelsberg und bey Neusol in Ungarn, und anderwerts sich findet, und durch altes Eisen, das man dem Vitriolwasser in Weg legt, gewonnen wird.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 1. Nativum. Gediegen.
+
+Das nutzbarste wichtigste von allen Metallen das selbst, wenn es innerlich genossen wird, gesund und stärkend ist, das die Vorsehung deshalb auch über die ganze Erde verbreitet hat; das bey aller seiner Härte und schwehren Schmelzbarkeit doch sehr leicht von den unmerklichen überall verbreiteten Säuren (§. 229.) aufgelöst wird, und folglich durch die Nahrung in Thiere und Gewächse gebracht, und ihren Säften beygemischt wird. Die Knochen und das Blut des Menschen enthalten Eisen, und zwar in grösserer Proportion als das Blut irgend eines andern Thiers.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 6. perrvm, Eisen, nigrescens, durissimum, magneti adhaerens.
+
+Ebenfalls ein flüchtiges und zugleich räuberisches Erzt, das ausser dem Gold und der Platina die übrigen Erzte mit sich fort nimmt; aber in der Arzney, und in der Metallurgie zur Reinigung des Goldes; auch für einige Handwerker, z. E für Schriftgiesser von wichtigem Nutzen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 11. antimonivm, Spießglas, (Stibium albidum, fibrosum, friabile.
+
+Man hat neuerlich bezweifeln wollen, ob sich die unedlen Metalle (§. 242.) würklich gediegen fänden. Nun haben wir zwar selbst erinnert
+(§. 229.), daß sie aus den angegebenen Ursachen leicht, und immer mehr und mehr vererzet würden, und es ist auch bekannt, wie leicht einige von ihnen z. E. Zinn und Bley ꝛc. aus ihren Minen ausschmelzen können. Allein dieses alles zugegeben, so kann deswegen die Existenz des wirklich gediegnen Kupfers, Eisens, Zinns ꝛc noch nicht abgeleugnet werden, wenn man sich nicht einen sonderbar eingeschränkten, und dem unsrigen (§. 1.) sehr widersprechenden Begriff von Naturalien bilden wollte, da man denn aber auch hundert andre Mineralien nicht dafür erkennen, sondern aus der Naturgeschichte verbannen müßte.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 244.
+
+Die erste und bey weiten ansehnlichste Classe begreift alle Mineralien, die sich weder wie die Salze in Wasser, noch wie die Erdharze in Oel auflösen, auch sich nicht wie die Erzte ohne zu zerspringen, hämmern und breit schlagen lassen. Die ältern Mineralogen haben die Erden und Steine von einander abgesondert und in zwey besondere Classen zertheilt. Allein der beständigen Wiederholungen zu geschweigen die bey dieser Absonderung unvermeidlich sind so beruht überhaupt der ganze Unterschied auf der sehr unbestimmten blos relativen Cohäsion die, wenn sie locker ist, Erden, und wenn sie feste wird, Steine constituiren soll.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 234.
+
+Die Eigenschaften der Mineralien, ihre Bildung, Dauer u. s. w. ist so sehr verschieden, und ihre Nutzbarkeit so überaus mannichfaltig, daß sich hier nichts allgemeines darüber sagen läßt, sondern unten bey der Anzeige der Arten angeführt werden muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 232.
+
+Ein sonderbares Erzt von Silberfarbe, aber von der Schwehre des Goldes, das aus kleinen gefletschten Körnchen wie Hammerschlag besteht wovon der Magnet einen Theil zieht; die überaus spröde, hart, und strengflüssig sind, und die seit 1736. bey Quito und Carthagena hin und wieder zerstreut gefunden werden. Vielleicht wie Herr Margraf glaubt, ein Hüttenproduct ein Abgang einer vor Zeiten in jenen Gegenden vorgenommenen Quickarbeit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 7. platina, Weisses Gold, alba, ponderosissima, granulata.
+
+Kupferfahlerzt Stahlfarb. Im Grund dasselbe, dessen wir so eben beym Silber gedacht haben: nur ärmer an Silber, und hingegen mehr kupferhaltig Dahin gehört auch das Kupferglaserzt, das von schwärzerer Farbe, als anderes Fahlerzt und zuweilen mit dunklen bunten Farben angeflogen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., b) 
+
+Ein wichtiges Erzt, das, wie schon oben angezeigt worden, das Kupfer zu Messing ꝛc. macht Der Zink schmilzt mit einer blaulicht grünen Flamme, und gibt verschiedne Arten von brauchbaren Galmeyarten oder Zinkkalken, wie die Turie, das Hüttennichts (Nihilum album) den Ofenbruch (Cadmia fornacum) ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 12. zincvm, Zink, Tuttanego, Conterfait, Spiauter, cinereum, micaceum tenax.
+
+Das Kupfer wird von alten Salzen, und zwar sehr leicht aufgelößt, färbt die Solution grün oder blau, und wird giftig: daher sich die Gefahr bey unvorsichtigen Gebrauch kupferner Küchengeschirre erklärt. Das beste Kupfer kommt aus Japan und Schweden. Durch Beymischung von Gold, Silber, Zinn, am meisten aber von Zink werden aus dem Kupfer die gemischten Metalle, weiß Kupfer, Glockengut, Canonenmetall, Messing, Tomback, Prinzmetall, Pinschbak, Pakfong, Similor und Mannheimer Gold verfertigt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^
+
+Sehr selten crystallisirt: in der gleichen Form wie das Gold: doch theils in ansehnlichen Crystallen, wie an einer Norwegischen Stufe im Museum Auserdem aber in sehr mannichfaltiger Gestalt nachdem verschiednen Grad der Reinigkeit und Geschmeidigkeit, z. E. in derben Stücken, wie der gediegne Silberblock im Museum, der vor 50. Jahren auf dem St. Andreas zum Andreasberge am Harz gebrochen, gegen 200. Mark am Gewicht, und 1644. Thaler am innern Werth hält; oder aber in Zacken wie Zähne, oder in Bäumgen dendritisch, asticht, oder wie Drat wie Filigrainearbeit u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., A. Edle., 2. argentvm, Silber, album, leuius ductile., 1. Natiuum, gediegen.
+
+Ein giftiges Metall, dessen Dämpfe jammervolle Krankheiten, Hüttenkatze, Lähmungen u s. w. verursachen; das auch zum Verfälschen der Weine misgebraucht, Colik, und theils den Tod wirkt hat. Hingegen wird es ausser dem allgemein bekannten Gebrauch auch durch die daraus verfertigten Farben, Bleyweiß, Bleygelb, Mennige ꝛc. durch die Goldglätte, Silberglätte ꝛc nutzbar.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 5. plvmbvm, Bley, liuidum, mollissimum, ponderosum.
+
+Ein leichtes Metall, das, so wie das Bley eher schmelzt als glüht: auch leicht von Säuren angegriffen und aufgelößt wird, daher die zinnernen Eßgeschirre mit der gleichen Vorsicht als die küpfernen gebraucht werden müssen. Das Englische Zinn ist das beste: nächst diesem das von Malacca und von Siam. Einige Völker wie z. E. die Lappen kennen fast kein andres Metall;, sie ziehen es zu Dratfäden, und sticken ihre Pelze und ihr Rennthiergeschirr damit. Ausser allerhand Geräthe, das insgemein aus Zinn verfertigt wird, braucht man es vorzüglich zum Verzinnen des Eisenblechs, zu Spiegelfolie, Stanniol ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn, (plumbum candidum veter.) album, molle, leue, flexum crepans.
+
+Man ist zwey Wege eingeschlagen, die Mineralien dieser, und überhaupt auch der übrigen Classen in systematische Ordnung zu bringen. Entweder nemlich werden sie nach ihrer äussern Bildung, oder aber nach der Mischung ihrer Bestandtheile angeordnet. Jenes blos nach dem Augenschein und Ansehen. Dieses mittelst der chimischen Auflösung. Man hat den letztern Weg vielleicht mit nicht bessern Grunde für untrüglich angepriesen, als man den erstern für völlig ungewiß zu verschreyen gesucht hat. Wir lassen jeden in seinen Würden, folgen aber dem erstern, so wie wir auch oben die Thiere blos nach ihrer äussern Bildung und nicht nach ihrem innern anatomischen Bau angeordnet haben: und so lassen sich denn alle Erd- und Steinarten füglich unter folgende drey Ordnungen bringen I. Calcariae. Kalkarten II. Argillaceae. Thonarten III. Siliceae s. vitrescibiles. Kieselarten Nach dem was wir oben von der Entstehung der Mineralien gesagt haben, so braucht es kaum wieder erinnert zu werden, daß sich diese dreyerley Erdarten nicht immer rein, sondern sehr häufig zwey oder alle drey unter einander gemischt finden: daß sich aber auch diese unreinen Erden sehr leicht in derjenigen Ordnung mit der sie die mehreste Gleichheit haben, unterbringen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 235.
+
+Und endlich müssen auch alle von Menschen schon verarbeitete Producte aus allen drey Naturreichen hier in Anschlag gebracht werden die ohne Ausnahme doch endlich, jedes nach seiner Weise vermodern oder verrosten, kurz so gut wie die Naturalien selbst, aus denen sie verfertiget waren, zerstört werden, und theils wenn sie schon ins Mineralreich übergegangen sind, noch das leserliche Gepräge ihrer ehemaligen Bestimmung an sich tragen. So ist im academischen Musäum eine Eisensteinstufe aus dem Zweybrückischen in die ein halb verochertes aber doch noch ganz kenntliches Bergeisen fest eingewachsen ist. So besitzen wir selbst einen antiken Siegelring, an dem das Metall ganz und gar zu einer festen Eisen miner vererzt ist, aber doch seine ehemalige Form behalten und den gegrabenen Onyx noch fest eingeschloffen gleichsam in sich verwachsen hält.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 230.
+
+Kupferkies Das allergemeinste Kupfererze, das, wie schon oben gesagt worden, zugleich Schwefel und Eisen, nur in verschiedner Proportion, enthält Je reicher es an Kupfer ist, desto dunkler goldgelber ist es. Zuweilen mit schönen blauen rothen ꝛc. Farben angeflogen, und heißt dann Pfauenschweifig oder Taubenhälsig.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., a) 
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-26 13:39:14.042838   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which are fragments from the 1st and the 12th edition of a historical textbook on natural history by J. F. Blumenbach. 
+Each fragment is described by metadata. 
+For example, if metadata include "Register 6th Chapter: Amphibien, I. REPTILES", the fragment is about the subclass of reptiles belonging to amphibian.
+For example, if metadata include "Register 13th Chapter: Saltze, I. ACIDA", the fragment is about the subclass of acid salts belonging to salts.
+For example, if metadata include "Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn", the fragment is about tin belonging to base metals, actual metals and metals.
+First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Summarize information about silver.
+
+TOPIC (used for retrieval):
+description of metals, gold, silver, etc.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves interpreting and analyzing historical sources to understand the context, meaning, and significance of the information presented. In this case, analyzing fragments from J.F. Blumenbach's historical textbook on natural history provides insight into the classification and properties of metals, including silver. The fragments discuss the classification of metals into noble and base metals, with gold and silver being considered noble due to their resistance to fire. Silver is described as a metal with properties similar to gold, being ductile and malleable. It is also mentioned that silver is found in various forms, including crystalline structures. Additionally, the fragments mention the use of silver in various applications, such as in medicine and metallurgy. Silver is highlighted for its importance and versatility, despite its toxic properties when inhaled as fumes. Overall, the analysis of these fragments provides valuable information about the properties, uses, and significance of silver as a metal.
+
+COMMENT: N/A
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+Man theilt die Metalle überhaupt in Ganze- oder eigentlich so genannte Metalle, und Halbmetalle, und begreift unter der lezten Abtheilung diejenigen, die nicht so geschmeidig als die erstern sind, und im Feuer größtentheils verflüchtigen. Von jenen hat man das Gold und Silber wegen ihrer größern Feuerbeständigkeit Edle und die übrigen Unedle Metalle genannt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 242.
+
+So verschieden die Gestalten sind, unter denen sich die Metalle zeigen, so lassen sie sich doch am kürzesten auf zwey Hauptgattungen zurück bringen. Entweder nemlich finden sich die Erzte gediegen (metallum nudum s. natiuum) d. h in aller ihrer wahren metallischen Substanz und Ansehen, so daß sie ohne weitere Scheidung u. s. w sogleich verarbeitet werden könnten; oder aber vererzt, (mineralisatum) so daß ihnen der Mangel eines ihrer eigenthümlichen Bestandtheile, oder die innige Beymischung einer fremden Säure von Schwefel u. s. w. mehr oder weniger von ihrem eigentlichen Ansehen benimmt, ihre Gestalt verändert ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 243.
+
+Die Metalle sind im Grunde sehr gemischte Körper, und haben wohl ohne Ausnahme einen dreyfachen Grundstoff in sich: ein Phlogiston nemlich, ein Salz und eine Erde Des erstern, des brennbaren Wesens, ist schon im vorigen Abschnitt (§. 239.) Erwähnung geschehen. Die Erzte erhalten durch dieses Phlogiston ihr ganzes metallisches Ansehen Geschmeidigkeit ꝛc. die sie sogleich verlieren, so bald ihnen dasselbe entzogen wird. Das Salz und die Erde, die die beyden andern Bestandtheile des Metalls ausmachen, sind von ganz eigner Art, und man muß über ihre wahre Natur erst noch eine nähere Ausklärung erwarten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 241.
+
+Alle Mineralien lassen sich sehr füglich unter folgende Classen bringen:
+
+I. Erden und Steine II. Salze III. Erdharze IV. Metalle und Halbmetalle denen wir als eine Zugabe V. die Versteinerungen beygefügt haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 233.
+
+Und zwar auf zweyerley Weise. Erstens nemlich derb in Gestein; auch zuweilen, aber höchst selten, crystallinisch, wie wir dergleichen (in eben der Form, wie das crystallisirte Gold und Silber) in Zeolithnieren von der Insel Feroe besitzen: meist aber ohne bestimmte Form wie bey Cammsdorf ꝛc. Vor Alters wohl in Menge, und an vielen Orten, wie sich schon daraus muthmassen läßt, daß so viele alte Völker der Erde in der frühsten Kindheit ihrer Cultur sich kupferne Waffen verfertigt, da man ihnen schwerlich Metallurgie genug zutrauen darf, daß sie das Erzt aus Minern zu gewinnen, verstanden hätten Die zweyte Art gediegnes Kupfer, ist das aus Kupfervitriol, (anstatt des Eisens, das er angetroffen und aufgelößt hat), abgesetzte: dieß ist das Cämentkupfer, das im Rammelsberg und bey Neusol in Ungarn, und anderwerts sich findet, und durch altes Eisen, das man dem Vitriolwasser in Weg legt, gewonnen wird.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 1. Nativum. Gediegen.
+
+Das nutzbarste wichtigste von allen Metallen das selbst, wenn es innerlich genossen wird, gesund und stärkend ist, das die Vorsehung deshalb auch über die ganze Erde verbreitet hat; das bey aller seiner Härte und schwehren Schmelzbarkeit doch sehr leicht von den unmerklichen überall verbreiteten Säuren (§. 229.) aufgelöst wird, und folglich durch die Nahrung in Thiere und Gewächse gebracht, und ihren Säften beygemischt wird. Die Knochen und das Blut des Menschen enthalten Eisen, und zwar in grösserer Proportion als das Blut irgend eines andern Thiers.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 6. perrvm, Eisen, nigrescens, durissimum, magneti adhaerens.
+
+Ebenfalls ein flüchtiges und zugleich räuberisches Erzt, das ausser dem Gold und der Platina die übrigen Erzte mit sich fort nimmt; aber in der Arzney, und in der Metallurgie zur Reinigung des Goldes; auch für einige Handwerker, z. E für Schriftgiesser von wichtigem Nutzen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 11. antimonivm, Spießglas, (Stibium albidum, fibrosum, friabile.
+
+Man hat neuerlich bezweifeln wollen, ob sich die unedlen Metalle (§. 242.) würklich gediegen fänden. Nun haben wir zwar selbst erinnert
+(§. 229.), daß sie aus den angegebenen Ursachen leicht, und immer mehr und mehr vererzet würden, und es ist auch bekannt, wie leicht einige von ihnen z. E. Zinn und Bley ꝛc. aus ihren Minen ausschmelzen können. Allein dieses alles zugegeben, so kann deswegen die Existenz des wirklich gediegnen Kupfers, Eisens, Zinns ꝛc noch nicht abgeleugnet werden, wenn man sich nicht einen sonderbar eingeschränkten, und dem unsrigen (§. 1.) sehr widersprechenden Begriff von Naturalien bilden wollte, da man denn aber auch hundert andre Mineralien nicht dafür erkennen, sondern aus der Naturgeschichte verbannen müßte.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 244.
+
+Die erste und bey weiten ansehnlichste Classe begreift alle Mineralien, die sich weder wie die Salze in Wasser, noch wie die Erdharze in Oel auflösen, auch sich nicht wie die Erzte ohne zu zerspringen, hämmern und breit schlagen lassen. Die ältern Mineralogen haben die Erden und Steine von einander abgesondert und in zwey besondere Classen zertheilt. Allein der beständigen Wiederholungen zu geschweigen die bey dieser Absonderung unvermeidlich sind so beruht überhaupt der ganze Unterschied auf der sehr unbestimmten blos relativen Cohäsion die, wenn sie locker ist, Erden, und wenn sie feste wird, Steine constituiren soll.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 234.
+
+Die Eigenschaften der Mineralien, ihre Bildung, Dauer u. s. w. ist so sehr verschieden, und ihre Nutzbarkeit so überaus mannichfaltig, daß sich hier nichts allgemeines darüber sagen läßt, sondern unten bey der Anzeige der Arten angeführt werden muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 232.
+
+Ein sonderbares Erzt von Silberfarbe, aber von der Schwehre des Goldes, das aus kleinen gefletschten Körnchen wie Hammerschlag besteht wovon der Magnet einen Theil zieht; die überaus spröde, hart, und strengflüssig sind, und die seit 1736. bey Quito und Carthagena hin und wieder zerstreut gefunden werden. Vielleicht wie Herr Margraf glaubt, ein Hüttenproduct ein Abgang einer vor Zeiten in jenen Gegenden vorgenommenen Quickarbeit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 7. platina, Weisses Gold, alba, ponderosissima, granulata.
+
+Kupferfahlerzt Stahlfarb. Im Grund dasselbe, dessen wir so eben beym Silber gedacht haben: nur ärmer an Silber, und hingegen mehr kupferhaltig Dahin gehört auch das Kupferglaserzt, das von schwärzerer Farbe, als anderes Fahlerzt und zuweilen mit dunklen bunten Farben angeflogen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., b) 
+
+Ein wichtiges Erzt, das, wie schon oben angezeigt worden, das Kupfer zu Messing ꝛc. macht Der Zink schmilzt mit einer blaulicht grünen Flamme, und gibt verschiedne Arten von brauchbaren Galmeyarten oder Zinkkalken, wie die Turie, das Hüttennichts (Nihilum album) den Ofenbruch (Cadmia fornacum) ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 12. zincvm, Zink, Tuttanego, Conterfait, Spiauter, cinereum, micaceum tenax.
+
+Das Kupfer wird von alten Salzen, und zwar sehr leicht aufgelößt, färbt die Solution grün oder blau, und wird giftig: daher sich die Gefahr bey unvorsichtigen Gebrauch kupferner Küchengeschirre erklärt. Das beste Kupfer kommt aus Japan und Schweden. Durch Beymischung von Gold, Silber, Zinn, am meisten aber von Zink werden aus dem Kupfer die gemischten Metalle, weiß Kupfer, Glockengut, Canonenmetall, Messing, Tomback, Prinzmetall, Pinschbak, Pakfong, Similor und Mannheimer Gold verfertigt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^
+
+Sehr selten crystallisirt: in der gleichen Form wie das Gold: doch theils in ansehnlichen Crystallen, wie an einer Norwegischen Stufe im Museum Auserdem aber in sehr mannichfaltiger Gestalt nachdem verschiednen Grad der Reinigkeit und Geschmeidigkeit, z. E. in derben Stücken, wie der gediegne Silberblock im Museum, der vor 50. Jahren auf dem St. Andreas zum Andreasberge am Harz gebrochen, gegen 200. Mark am Gewicht, und 1644. Thaler am innern Werth hält; oder aber in Zacken wie Zähne, oder in Bäumgen dendritisch, asticht, oder wie Drat wie Filigrainearbeit u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., A. Edle., 2. argentvm, Silber, album, leuius ductile., 1. Natiuum, gediegen.
+
+Ein giftiges Metall, dessen Dämpfe jammervolle Krankheiten, Hüttenkatze, Lähmungen u s. w. verursachen; das auch zum Verfälschen der Weine misgebraucht, Colik, und theils den Tod wirkt hat. Hingegen wird es ausser dem allgemein bekannten Gebrauch auch durch die daraus verfertigten Farben, Bleyweiß, Bleygelb, Mennige ꝛc. durch die Goldglätte, Silberglätte ꝛc nutzbar.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 5. plvmbvm, Bley, liuidum, mollissimum, ponderosum.
+
+Ein leichtes Metall, das, so wie das Bley eher schmelzt als glüht: auch leicht von Säuren angegriffen und aufgelößt wird, daher die zinnernen Eßgeschirre mit der gleichen Vorsicht als die küpfernen gebraucht werden müssen. Das Englische Zinn ist das beste: nächst diesem das von Malacca und von Siam. Einige Völker wie z. E. die Lappen kennen fast kein andres Metall;, sie ziehen es zu Dratfäden, und sticken ihre Pelze und ihr Rennthiergeschirr damit. Ausser allerhand Geräthe, das insgemein aus Zinn verfertigt wird, braucht man es vorzüglich zum Verzinnen des Eisenblechs, zu Spiegelfolie, Stanniol ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn, (plumbum candidum veter.) album, molle, leue, flexum crepans.
+
+Man ist zwey Wege eingeschlagen, die Mineralien dieser, und überhaupt auch der übrigen Classen in systematische Ordnung zu bringen. Entweder nemlich werden sie nach ihrer äussern Bildung, oder aber nach der Mischung ihrer Bestandtheile angeordnet. Jenes blos nach dem Augenschein und Ansehen. Dieses mittelst der chimischen Auflösung. Man hat den letztern Weg vielleicht mit nicht bessern Grunde für untrüglich angepriesen, als man den erstern für völlig ungewiß zu verschreyen gesucht hat. Wir lassen jeden in seinen Würden, folgen aber dem erstern, so wie wir auch oben die Thiere blos nach ihrer äussern Bildung und nicht nach ihrem innern anatomischen Bau angeordnet haben: und so lassen sich denn alle Erd- und Steinarten füglich unter folgende drey Ordnungen bringen I. Calcariae. Kalkarten II. Argillaceae. Thonarten III. Siliceae s. vitrescibiles. Kieselarten Nach dem was wir oben von der Entstehung der Mineralien gesagt haben, so braucht es kaum wieder erinnert zu werden, daß sich diese dreyerley Erdarten nicht immer rein, sondern sehr häufig zwey oder alle drey unter einander gemischt finden: daß sich aber auch diese unreinen Erden sehr leicht in derjenigen Ordnung mit der sie die mehreste Gleichheit haben, unterbringen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 235.
+
+Und endlich müssen auch alle von Menschen schon verarbeitete Producte aus allen drey Naturreichen hier in Anschlag gebracht werden die ohne Ausnahme doch endlich, jedes nach seiner Weise vermodern oder verrosten, kurz so gut wie die Naturalien selbst, aus denen sie verfertiget waren, zerstört werden, und theils wenn sie schon ins Mineralreich übergegangen sind, noch das leserliche Gepräge ihrer ehemaligen Bestimmung an sich tragen. So ist im academischen Musäum eine Eisensteinstufe aus dem Zweybrückischen in die ein halb verochertes aber doch noch ganz kenntliches Bergeisen fest eingewachsen ist. So besitzen wir selbst einen antiken Siegelring, an dem das Metall ganz und gar zu einer festen Eisen miner vererzt ist, aber doch seine ehemalige Form behalten und den gegrabenen Onyx noch fest eingeschloffen gleichsam in sich verwachsen hält.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 230.
+
+Kupferkies Das allergemeinste Kupfererze, das, wie schon oben gesagt worden, zugleich Schwefel und Eisen, nur in verschiedner Proportion, enthält Je reicher es an Kupfer ist, desto dunkler goldgelber ist es. Zuweilen mit schönen blauen rothen ꝛc. Farben angeflogen, und heißt dann Pfauenschweifig oder Taubenhälsig.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., a) 
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-26 13:40:11.454395   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which are fragments from the 1st and the 12th edition of a historical textbook on natural history by J. F. Blumenbach. 
+Each fragment is described by metadata. 
+For example, if metadata include "Register 6th Chapter: Amphibien, I. REPTILES", the fragment is about the subclass of reptiles belonging to amphibian.
+For example, if metadata include "Register 13th Chapter: Saltze, I. ACIDA", the fragment is about the subclass of acid salts belonging to salts.
+For example, if metadata include "Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn", the fragment is about tin belonging to base metals, actual metals and metals.
+First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Based on the SOURCE, compare silver and copper.
+
+TOPIC (used for retrieval):
+description of metals, gold, silver, etc.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves interpreting and analyzing historical sources to understand the context, meaning, and significance of the information presented. In the fragments from J.F. Blumenbach's historical textbook on natural history, the classification and characteristics of metals, including silver and copper, are discussed. The text highlights the distinction between noble and base metals, as well as the properties and uses of different types of metals.
+
+In comparing silver and copper based on the source material, it is evident that both metals have unique properties and applications. Silver is described as a precious metal with a silvery color, while copper is classified as an unedle metal with a reddish hue. Silver is noted for its malleability and resistance to fire, making it valuable for various purposes. On the other hand, copper is mentioned for its versatility in being used to make alloys like brass and bronze. Both metals have historical significance and are essential in various industries, from metallurgy to medicine.
+
+Overall, the comparison between silver and copper in the historical context provided by J.F. Blumenbach's textbook showcases the diversity and importance of metals in natural history and human civilization.
+
+COMMENT: nice
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+Man theilt die Metalle überhaupt in Ganze- oder eigentlich so genannte Metalle, und Halbmetalle, und begreift unter der lezten Abtheilung diejenigen, die nicht so geschmeidig als die erstern sind, und im Feuer größtentheils verflüchtigen. Von jenen hat man das Gold und Silber wegen ihrer größern Feuerbeständigkeit Edle und die übrigen Unedle Metalle genannt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 242.
+
+So verschieden die Gestalten sind, unter denen sich die Metalle zeigen, so lassen sie sich doch am kürzesten auf zwey Hauptgattungen zurück bringen. Entweder nemlich finden sich die Erzte gediegen (metallum nudum s. natiuum) d. h in aller ihrer wahren metallischen Substanz und Ansehen, so daß sie ohne weitere Scheidung u. s. w sogleich verarbeitet werden könnten; oder aber vererzt, (mineralisatum) so daß ihnen der Mangel eines ihrer eigenthümlichen Bestandtheile, oder die innige Beymischung einer fremden Säure von Schwefel u. s. w. mehr oder weniger von ihrem eigentlichen Ansehen benimmt, ihre Gestalt verändert ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 243.
+
+Die Metalle sind im Grunde sehr gemischte Körper, und haben wohl ohne Ausnahme einen dreyfachen Grundstoff in sich: ein Phlogiston nemlich, ein Salz und eine Erde Des erstern, des brennbaren Wesens, ist schon im vorigen Abschnitt (§. 239.) Erwähnung geschehen. Die Erzte erhalten durch dieses Phlogiston ihr ganzes metallisches Ansehen Geschmeidigkeit ꝛc. die sie sogleich verlieren, so bald ihnen dasselbe entzogen wird. Das Salz und die Erde, die die beyden andern Bestandtheile des Metalls ausmachen, sind von ganz eigner Art, und man muß über ihre wahre Natur erst noch eine nähere Ausklärung erwarten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 241.
+
+Alle Mineralien lassen sich sehr füglich unter folgende Classen bringen:
+
+I. Erden und Steine II. Salze III. Erdharze IV. Metalle und Halbmetalle denen wir als eine Zugabe V. die Versteinerungen beygefügt haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 233.
+
+Und zwar auf zweyerley Weise. Erstens nemlich derb in Gestein; auch zuweilen, aber höchst selten, crystallinisch, wie wir dergleichen (in eben der Form, wie das crystallisirte Gold und Silber) in Zeolithnieren von der Insel Feroe besitzen: meist aber ohne bestimmte Form wie bey Cammsdorf ꝛc. Vor Alters wohl in Menge, und an vielen Orten, wie sich schon daraus muthmassen läßt, daß so viele alte Völker der Erde in der frühsten Kindheit ihrer Cultur sich kupferne Waffen verfertigt, da man ihnen schwerlich Metallurgie genug zutrauen darf, daß sie das Erzt aus Minern zu gewinnen, verstanden hätten Die zweyte Art gediegnes Kupfer, ist das aus Kupfervitriol, (anstatt des Eisens, das er angetroffen und aufgelößt hat), abgesetzte: dieß ist das Cämentkupfer, das im Rammelsberg und bey Neusol in Ungarn, und anderwerts sich findet, und durch altes Eisen, das man dem Vitriolwasser in Weg legt, gewonnen wird.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 1. Nativum. Gediegen.
+
+Das nutzbarste wichtigste von allen Metallen das selbst, wenn es innerlich genossen wird, gesund und stärkend ist, das die Vorsehung deshalb auch über die ganze Erde verbreitet hat; das bey aller seiner Härte und schwehren Schmelzbarkeit doch sehr leicht von den unmerklichen überall verbreiteten Säuren (§. 229.) aufgelöst wird, und folglich durch die Nahrung in Thiere und Gewächse gebracht, und ihren Säften beygemischt wird. Die Knochen und das Blut des Menschen enthalten Eisen, und zwar in grösserer Proportion als das Blut irgend eines andern Thiers.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 6. perrvm, Eisen, nigrescens, durissimum, magneti adhaerens.
+
+Ebenfalls ein flüchtiges und zugleich räuberisches Erzt, das ausser dem Gold und der Platina die übrigen Erzte mit sich fort nimmt; aber in der Arzney, und in der Metallurgie zur Reinigung des Goldes; auch für einige Handwerker, z. E für Schriftgiesser von wichtigem Nutzen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 11. antimonivm, Spießglas, (Stibium albidum, fibrosum, friabile.
+
+Man hat neuerlich bezweifeln wollen, ob sich die unedlen Metalle (§. 242.) würklich gediegen fänden. Nun haben wir zwar selbst erinnert
+(§. 229.), daß sie aus den angegebenen Ursachen leicht, und immer mehr und mehr vererzet würden, und es ist auch bekannt, wie leicht einige von ihnen z. E. Zinn und Bley ꝛc. aus ihren Minen ausschmelzen können. Allein dieses alles zugegeben, so kann deswegen die Existenz des wirklich gediegnen Kupfers, Eisens, Zinns ꝛc noch nicht abgeleugnet werden, wenn man sich nicht einen sonderbar eingeschränkten, und dem unsrigen (§. 1.) sehr widersprechenden Begriff von Naturalien bilden wollte, da man denn aber auch hundert andre Mineralien nicht dafür erkennen, sondern aus der Naturgeschichte verbannen müßte.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 244.
+
+Die erste und bey weiten ansehnlichste Classe begreift alle Mineralien, die sich weder wie die Salze in Wasser, noch wie die Erdharze in Oel auflösen, auch sich nicht wie die Erzte ohne zu zerspringen, hämmern und breit schlagen lassen. Die ältern Mineralogen haben die Erden und Steine von einander abgesondert und in zwey besondere Classen zertheilt. Allein der beständigen Wiederholungen zu geschweigen die bey dieser Absonderung unvermeidlich sind so beruht überhaupt der ganze Unterschied auf der sehr unbestimmten blos relativen Cohäsion die, wenn sie locker ist, Erden, und wenn sie feste wird, Steine constituiren soll.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 234.
+
+Die Eigenschaften der Mineralien, ihre Bildung, Dauer u. s. w. ist so sehr verschieden, und ihre Nutzbarkeit so überaus mannichfaltig, daß sich hier nichts allgemeines darüber sagen läßt, sondern unten bey der Anzeige der Arten angeführt werden muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 232.
+
+Ein sonderbares Erzt von Silberfarbe, aber von der Schwehre des Goldes, das aus kleinen gefletschten Körnchen wie Hammerschlag besteht wovon der Magnet einen Theil zieht; die überaus spröde, hart, und strengflüssig sind, und die seit 1736. bey Quito und Carthagena hin und wieder zerstreut gefunden werden. Vielleicht wie Herr Margraf glaubt, ein Hüttenproduct ein Abgang einer vor Zeiten in jenen Gegenden vorgenommenen Quickarbeit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 7. platina, Weisses Gold, alba, ponderosissima, granulata.
+
+Kupferfahlerzt Stahlfarb. Im Grund dasselbe, dessen wir so eben beym Silber gedacht haben: nur ärmer an Silber, und hingegen mehr kupferhaltig Dahin gehört auch das Kupferglaserzt, das von schwärzerer Farbe, als anderes Fahlerzt und zuweilen mit dunklen bunten Farben angeflogen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., b) 
+
+Ein wichtiges Erzt, das, wie schon oben angezeigt worden, das Kupfer zu Messing ꝛc. macht Der Zink schmilzt mit einer blaulicht grünen Flamme, und gibt verschiedne Arten von brauchbaren Galmeyarten oder Zinkkalken, wie die Turie, das Hüttennichts (Nihilum album) den Ofenbruch (Cadmia fornacum) ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 12. zincvm, Zink, Tuttanego, Conterfait, Spiauter, cinereum, micaceum tenax.
+
+Das Kupfer wird von alten Salzen, und zwar sehr leicht aufgelößt, färbt die Solution grün oder blau, und wird giftig: daher sich die Gefahr bey unvorsichtigen Gebrauch kupferner Küchengeschirre erklärt. Das beste Kupfer kommt aus Japan und Schweden. Durch Beymischung von Gold, Silber, Zinn, am meisten aber von Zink werden aus dem Kupfer die gemischten Metalle, weiß Kupfer, Glockengut, Canonenmetall, Messing, Tomback, Prinzmetall, Pinschbak, Pakfong, Similor und Mannheimer Gold verfertigt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^
+
+Sehr selten crystallisirt: in der gleichen Form wie das Gold: doch theils in ansehnlichen Crystallen, wie an einer Norwegischen Stufe im Museum Auserdem aber in sehr mannichfaltiger Gestalt nachdem verschiednen Grad der Reinigkeit und Geschmeidigkeit, z. E. in derben Stücken, wie der gediegne Silberblock im Museum, der vor 50. Jahren auf dem St. Andreas zum Andreasberge am Harz gebrochen, gegen 200. Mark am Gewicht, und 1644. Thaler am innern Werth hält; oder aber in Zacken wie Zähne, oder in Bäumgen dendritisch, asticht, oder wie Drat wie Filigrainearbeit u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., A. Edle., 2. argentvm, Silber, album, leuius ductile., 1. Natiuum, gediegen.
+
+Ein giftiges Metall, dessen Dämpfe jammervolle Krankheiten, Hüttenkatze, Lähmungen u s. w. verursachen; das auch zum Verfälschen der Weine misgebraucht, Colik, und theils den Tod wirkt hat. Hingegen wird es ausser dem allgemein bekannten Gebrauch auch durch die daraus verfertigten Farben, Bleyweiß, Bleygelb, Mennige ꝛc. durch die Goldglätte, Silberglätte ꝛc nutzbar.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 5. plvmbvm, Bley, liuidum, mollissimum, ponderosum.
+
+Ein leichtes Metall, das, so wie das Bley eher schmelzt als glüht: auch leicht von Säuren angegriffen und aufgelößt wird, daher die zinnernen Eßgeschirre mit der gleichen Vorsicht als die küpfernen gebraucht werden müssen. Das Englische Zinn ist das beste: nächst diesem das von Malacca und von Siam. Einige Völker wie z. E. die Lappen kennen fast kein andres Metall;, sie ziehen es zu Dratfäden, und sticken ihre Pelze und ihr Rennthiergeschirr damit. Ausser allerhand Geräthe, das insgemein aus Zinn verfertigt wird, braucht man es vorzüglich zum Verzinnen des Eisenblechs, zu Spiegelfolie, Stanniol ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn, (plumbum candidum veter.) album, molle, leue, flexum crepans.
+
+Man ist zwey Wege eingeschlagen, die Mineralien dieser, und überhaupt auch der übrigen Classen in systematische Ordnung zu bringen. Entweder nemlich werden sie nach ihrer äussern Bildung, oder aber nach der Mischung ihrer Bestandtheile angeordnet. Jenes blos nach dem Augenschein und Ansehen. Dieses mittelst der chimischen Auflösung. Man hat den letztern Weg vielleicht mit nicht bessern Grunde für untrüglich angepriesen, als man den erstern für völlig ungewiß zu verschreyen gesucht hat. Wir lassen jeden in seinen Würden, folgen aber dem erstern, so wie wir auch oben die Thiere blos nach ihrer äussern Bildung und nicht nach ihrem innern anatomischen Bau angeordnet haben: und so lassen sich denn alle Erd- und Steinarten füglich unter folgende drey Ordnungen bringen I. Calcariae. Kalkarten II. Argillaceae. Thonarten III. Siliceae s. vitrescibiles. Kieselarten Nach dem was wir oben von der Entstehung der Mineralien gesagt haben, so braucht es kaum wieder erinnert zu werden, daß sich diese dreyerley Erdarten nicht immer rein, sondern sehr häufig zwey oder alle drey unter einander gemischt finden: daß sich aber auch diese unreinen Erden sehr leicht in derjenigen Ordnung mit der sie die mehreste Gleichheit haben, unterbringen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 235.
+
+Und endlich müssen auch alle von Menschen schon verarbeitete Producte aus allen drey Naturreichen hier in Anschlag gebracht werden die ohne Ausnahme doch endlich, jedes nach seiner Weise vermodern oder verrosten, kurz so gut wie die Naturalien selbst, aus denen sie verfertiget waren, zerstört werden, und theils wenn sie schon ins Mineralreich übergegangen sind, noch das leserliche Gepräge ihrer ehemaligen Bestimmung an sich tragen. So ist im academischen Musäum eine Eisensteinstufe aus dem Zweybrückischen in die ein halb verochertes aber doch noch ganz kenntliches Bergeisen fest eingewachsen ist. So besitzen wir selbst einen antiken Siegelring, an dem das Metall ganz und gar zu einer festen Eisen miner vererzt ist, aber doch seine ehemalige Form behalten und den gegrabenen Onyx noch fest eingeschloffen gleichsam in sich verwachsen hält.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 230.
+
+Kupferkies Das allergemeinste Kupfererze, das, wie schon oben gesagt worden, zugleich Schwefel und Eisen, nur in verschiedner Proportion, enthält Je reicher es an Kupfer ist, desto dunkler goldgelber ist es. Zuweilen mit schönen blauen rothen ꝛc. Farben angeflogen, und heißt dann Pfauenschweifig oder Taubenhälsig.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., a) 
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-26 13:41:39.720388   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which are fragments from the 1st and the 12th edition of a historical textbook on natural history by J. F. Blumenbach. 
+Each fragment is described by metadata. 
+For example, if metadata include "Register 6th Chapter: Amphibien, I. REPTILES", the fragment is about the subclass of reptiles belonging to amphibian.
+For example, if metadata include "Register 13th Chapter: Saltze, I. ACIDA", the fragment is about the subclass of acid salts belonging to salts.
+For example, if metadata include "Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn", the fragment is about tin belonging to base metals, actual metals and metals.
+First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Provide all information for the SOURCE about copper.
+
+TOPIC (used for retrieval):
+description of metals, gold, silver, etc.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves the interpretation and analysis of historical sources to understand the context, meaning, and significance of the information presented. By examining primary historical sources such as the fragments from J.F. Blumenbach's historical textbook on natural history, historians can gain insights into the classification, properties, and uses of various metals and minerals.
+
+SOURCE INFORMATION ABOUT COPPER:
+- Copper is classified as an unedle metal, specifically belonging to the subclass of actual metals.
+- Copper is described as a useful and important metal that is distributed throughout the earth and is known for its hardness and ease of dissolution in acids.
+- Copper is mentioned as being dissolved easily by old salts, leading to green or blue coloration and potential toxicity if used in cooking utensils.
+- The best copper is said to come from Japan and Sweden, and it is used in the production of various mixed metals such as brass, bronze, and other alloys.
+- Copper is also discussed in relation to its crystalline forms, with examples of different shapes and sizes in which it can be found.
+- Copper is further described as being commonly found in copper pyrite, a mineral that contains varying proportions of copper, sulfur, and iron, with richer copper content resulting in a darker gold-yellow color.
+- The text also mentions the use of copper in the production of brass and other alloys, as well as its importance in various industries and applications.
+
+Overall, the information provided in the fragments from J.F. Blumenbach's textbook sheds light on the classification, properties, and uses of copper as a valuable metal in natural history.
+
+COMMENT: very nice
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+Man theilt die Metalle überhaupt in Ganze- oder eigentlich so genannte Metalle, und Halbmetalle, und begreift unter der lezten Abtheilung diejenigen, die nicht so geschmeidig als die erstern sind, und im Feuer größtentheils verflüchtigen. Von jenen hat man das Gold und Silber wegen ihrer größern Feuerbeständigkeit Edle und die übrigen Unedle Metalle genannt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 242.
+
+So verschieden die Gestalten sind, unter denen sich die Metalle zeigen, so lassen sie sich doch am kürzesten auf zwey Hauptgattungen zurück bringen. Entweder nemlich finden sich die Erzte gediegen (metallum nudum s. natiuum) d. h in aller ihrer wahren metallischen Substanz und Ansehen, so daß sie ohne weitere Scheidung u. s. w sogleich verarbeitet werden könnten; oder aber vererzt, (mineralisatum) so daß ihnen der Mangel eines ihrer eigenthümlichen Bestandtheile, oder die innige Beymischung einer fremden Säure von Schwefel u. s. w. mehr oder weniger von ihrem eigentlichen Ansehen benimmt, ihre Gestalt verändert ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 243.
+
+Die Metalle sind im Grunde sehr gemischte Körper, und haben wohl ohne Ausnahme einen dreyfachen Grundstoff in sich: ein Phlogiston nemlich, ein Salz und eine Erde Des erstern, des brennbaren Wesens, ist schon im vorigen Abschnitt (§. 239.) Erwähnung geschehen. Die Erzte erhalten durch dieses Phlogiston ihr ganzes metallisches Ansehen Geschmeidigkeit ꝛc. die sie sogleich verlieren, so bald ihnen dasselbe entzogen wird. Das Salz und die Erde, die die beyden andern Bestandtheile des Metalls ausmachen, sind von ganz eigner Art, und man muß über ihre wahre Natur erst noch eine nähere Ausklärung erwarten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 241.
+
+Alle Mineralien lassen sich sehr füglich unter folgende Classen bringen:
+
+I. Erden und Steine II. Salze III. Erdharze IV. Metalle und Halbmetalle denen wir als eine Zugabe V. die Versteinerungen beygefügt haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 233.
+
+Und zwar auf zweyerley Weise. Erstens nemlich derb in Gestein; auch zuweilen, aber höchst selten, crystallinisch, wie wir dergleichen (in eben der Form, wie das crystallisirte Gold und Silber) in Zeolithnieren von der Insel Feroe besitzen: meist aber ohne bestimmte Form wie bey Cammsdorf ꝛc. Vor Alters wohl in Menge, und an vielen Orten, wie sich schon daraus muthmassen läßt, daß so viele alte Völker der Erde in der frühsten Kindheit ihrer Cultur sich kupferne Waffen verfertigt, da man ihnen schwerlich Metallurgie genug zutrauen darf, daß sie das Erzt aus Minern zu gewinnen, verstanden hätten Die zweyte Art gediegnes Kupfer, ist das aus Kupfervitriol, (anstatt des Eisens, das er angetroffen und aufgelößt hat), abgesetzte: dieß ist das Cämentkupfer, das im Rammelsberg und bey Neusol in Ungarn, und anderwerts sich findet, und durch altes Eisen, das man dem Vitriolwasser in Weg legt, gewonnen wird.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 1. Nativum. Gediegen.
+
+Das nutzbarste wichtigste von allen Metallen das selbst, wenn es innerlich genossen wird, gesund und stärkend ist, das die Vorsehung deshalb auch über die ganze Erde verbreitet hat; das bey aller seiner Härte und schwehren Schmelzbarkeit doch sehr leicht von den unmerklichen überall verbreiteten Säuren (§. 229.) aufgelöst wird, und folglich durch die Nahrung in Thiere und Gewächse gebracht, und ihren Säften beygemischt wird. Die Knochen und das Blut des Menschen enthalten Eisen, und zwar in grösserer Proportion als das Blut irgend eines andern Thiers.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 6. perrvm, Eisen, nigrescens, durissimum, magneti adhaerens.
+
+Ebenfalls ein flüchtiges und zugleich räuberisches Erzt, das ausser dem Gold und der Platina die übrigen Erzte mit sich fort nimmt; aber in der Arzney, und in der Metallurgie zur Reinigung des Goldes; auch für einige Handwerker, z. E für Schriftgiesser von wichtigem Nutzen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 11. antimonivm, Spießglas, (Stibium albidum, fibrosum, friabile.
+
+Man hat neuerlich bezweifeln wollen, ob sich die unedlen Metalle (§. 242.) würklich gediegen fänden. Nun haben wir zwar selbst erinnert
+(§. 229.), daß sie aus den angegebenen Ursachen leicht, und immer mehr und mehr vererzet würden, und es ist auch bekannt, wie leicht einige von ihnen z. E. Zinn und Bley ꝛc. aus ihren Minen ausschmelzen können. Allein dieses alles zugegeben, so kann deswegen die Existenz des wirklich gediegnen Kupfers, Eisens, Zinns ꝛc noch nicht abgeleugnet werden, wenn man sich nicht einen sonderbar eingeschränkten, und dem unsrigen (§. 1.) sehr widersprechenden Begriff von Naturalien bilden wollte, da man denn aber auch hundert andre Mineralien nicht dafür erkennen, sondern aus der Naturgeschichte verbannen müßte.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 244.
+
+Die erste und bey weiten ansehnlichste Classe begreift alle Mineralien, die sich weder wie die Salze in Wasser, noch wie die Erdharze in Oel auflösen, auch sich nicht wie die Erzte ohne zu zerspringen, hämmern und breit schlagen lassen. Die ältern Mineralogen haben die Erden und Steine von einander abgesondert und in zwey besondere Classen zertheilt. Allein der beständigen Wiederholungen zu geschweigen die bey dieser Absonderung unvermeidlich sind so beruht überhaupt der ganze Unterschied auf der sehr unbestimmten blos relativen Cohäsion die, wenn sie locker ist, Erden, und wenn sie feste wird, Steine constituiren soll.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 234.
+
+Die Eigenschaften der Mineralien, ihre Bildung, Dauer u. s. w. ist so sehr verschieden, und ihre Nutzbarkeit so überaus mannichfaltig, daß sich hier nichts allgemeines darüber sagen läßt, sondern unten bey der Anzeige der Arten angeführt werden muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 232.
+
+Ein sonderbares Erzt von Silberfarbe, aber von der Schwehre des Goldes, das aus kleinen gefletschten Körnchen wie Hammerschlag besteht wovon der Magnet einen Theil zieht; die überaus spröde, hart, und strengflüssig sind, und die seit 1736. bey Quito und Carthagena hin und wieder zerstreut gefunden werden. Vielleicht wie Herr Margraf glaubt, ein Hüttenproduct ein Abgang einer vor Zeiten in jenen Gegenden vorgenommenen Quickarbeit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 7. platina, Weisses Gold, alba, ponderosissima, granulata.
+
+Kupferfahlerzt Stahlfarb. Im Grund dasselbe, dessen wir so eben beym Silber gedacht haben: nur ärmer an Silber, und hingegen mehr kupferhaltig Dahin gehört auch das Kupferglaserzt, das von schwärzerer Farbe, als anderes Fahlerzt und zuweilen mit dunklen bunten Farben angeflogen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., b) 
+
+Ein wichtiges Erzt, das, wie schon oben angezeigt worden, das Kupfer zu Messing ꝛc. macht Der Zink schmilzt mit einer blaulicht grünen Flamme, und gibt verschiedne Arten von brauchbaren Galmeyarten oder Zinkkalken, wie die Turie, das Hüttennichts (Nihilum album) den Ofenbruch (Cadmia fornacum) ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 12. zincvm, Zink, Tuttanego, Conterfait, Spiauter, cinereum, micaceum tenax.
+
+Das Kupfer wird von alten Salzen, und zwar sehr leicht aufgelößt, färbt die Solution grün oder blau, und wird giftig: daher sich die Gefahr bey unvorsichtigen Gebrauch kupferner Küchengeschirre erklärt. Das beste Kupfer kommt aus Japan und Schweden. Durch Beymischung von Gold, Silber, Zinn, am meisten aber von Zink werden aus dem Kupfer die gemischten Metalle, weiß Kupfer, Glockengut, Canonenmetall, Messing, Tomback, Prinzmetall, Pinschbak, Pakfong, Similor und Mannheimer Gold verfertigt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^
+
+Sehr selten crystallisirt: in der gleichen Form wie das Gold: doch theils in ansehnlichen Crystallen, wie an einer Norwegischen Stufe im Museum Auserdem aber in sehr mannichfaltiger Gestalt nachdem verschiednen Grad der Reinigkeit und Geschmeidigkeit, z. E. in derben Stücken, wie der gediegne Silberblock im Museum, der vor 50. Jahren auf dem St. Andreas zum Andreasberge am Harz gebrochen, gegen 200. Mark am Gewicht, und 1644. Thaler am innern Werth hält; oder aber in Zacken wie Zähne, oder in Bäumgen dendritisch, asticht, oder wie Drat wie Filigrainearbeit u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., A. Edle., 2. argentvm, Silber, album, leuius ductile., 1. Natiuum, gediegen.
+
+Ein giftiges Metall, dessen Dämpfe jammervolle Krankheiten, Hüttenkatze, Lähmungen u s. w. verursachen; das auch zum Verfälschen der Weine misgebraucht, Colik, und theils den Tod wirkt hat. Hingegen wird es ausser dem allgemein bekannten Gebrauch auch durch die daraus verfertigten Farben, Bleyweiß, Bleygelb, Mennige ꝛc. durch die Goldglätte, Silberglätte ꝛc nutzbar.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 5. plvmbvm, Bley, liuidum, mollissimum, ponderosum.
+
+Ein leichtes Metall, das, so wie das Bley eher schmelzt als glüht: auch leicht von Säuren angegriffen und aufgelößt wird, daher die zinnernen Eßgeschirre mit der gleichen Vorsicht als die küpfernen gebraucht werden müssen. Das Englische Zinn ist das beste: nächst diesem das von Malacca und von Siam. Einige Völker wie z. E. die Lappen kennen fast kein andres Metall;, sie ziehen es zu Dratfäden, und sticken ihre Pelze und ihr Rennthiergeschirr damit. Ausser allerhand Geräthe, das insgemein aus Zinn verfertigt wird, braucht man es vorzüglich zum Verzinnen des Eisenblechs, zu Spiegelfolie, Stanniol ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn, (plumbum candidum veter.) album, molle, leue, flexum crepans.
+
+Man ist zwey Wege eingeschlagen, die Mineralien dieser, und überhaupt auch der übrigen Classen in systematische Ordnung zu bringen. Entweder nemlich werden sie nach ihrer äussern Bildung, oder aber nach der Mischung ihrer Bestandtheile angeordnet. Jenes blos nach dem Augenschein und Ansehen. Dieses mittelst der chimischen Auflösung. Man hat den letztern Weg vielleicht mit nicht bessern Grunde für untrüglich angepriesen, als man den erstern für völlig ungewiß zu verschreyen gesucht hat. Wir lassen jeden in seinen Würden, folgen aber dem erstern, so wie wir auch oben die Thiere blos nach ihrer äussern Bildung und nicht nach ihrem innern anatomischen Bau angeordnet haben: und so lassen sich denn alle Erd- und Steinarten füglich unter folgende drey Ordnungen bringen I. Calcariae. Kalkarten II. Argillaceae. Thonarten III. Siliceae s. vitrescibiles. Kieselarten Nach dem was wir oben von der Entstehung der Mineralien gesagt haben, so braucht es kaum wieder erinnert zu werden, daß sich diese dreyerley Erdarten nicht immer rein, sondern sehr häufig zwey oder alle drey unter einander gemischt finden: daß sich aber auch diese unreinen Erden sehr leicht in derjenigen Ordnung mit der sie die mehreste Gleichheit haben, unterbringen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 235.
+
+Und endlich müssen auch alle von Menschen schon verarbeitete Producte aus allen drey Naturreichen hier in Anschlag gebracht werden die ohne Ausnahme doch endlich, jedes nach seiner Weise vermodern oder verrosten, kurz so gut wie die Naturalien selbst, aus denen sie verfertiget waren, zerstört werden, und theils wenn sie schon ins Mineralreich übergegangen sind, noch das leserliche Gepräge ihrer ehemaligen Bestimmung an sich tragen. So ist im academischen Musäum eine Eisensteinstufe aus dem Zweybrückischen in die ein halb verochertes aber doch noch ganz kenntliches Bergeisen fest eingewachsen ist. So besitzen wir selbst einen antiken Siegelring, an dem das Metall ganz und gar zu einer festen Eisen miner vererzt ist, aber doch seine ehemalige Form behalten und den gegrabenen Onyx noch fest eingeschloffen gleichsam in sich verwachsen hält.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 230.
+
+Kupferkies Das allergemeinste Kupfererze, das, wie schon oben gesagt worden, zugleich Schwefel und Eisen, nur in verschiedner Proportion, enthält Je reicher es an Kupfer ist, desto dunkler goldgelber ist es. Zuweilen mit schönen blauen rothen ꝛc. Farben angeflogen, und heißt dann Pfauenschweifig oder Taubenhälsig.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., a) 
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-26 13:42:07.579450   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which are fragments from the 1st and the 12th edition of a historical textbook on natural history by J. F. Blumenbach. 
+Each fragment is described by metadata. 
+For example, if metadata include "Register 6th Chapter: Amphibien, I. REPTILES", the fragment is about the subclass of reptiles belonging to amphibian.
+For example, if metadata include "Register 13th Chapter: Saltze, I. ACIDA", the fragment is about the subclass of acid salts belonging to salts.
+For example, if metadata include "Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn", the fragment is about tin belonging to base metals, actual metals and metals.
+First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Provide all information from the SOURCE about copper.
+
+TOPIC (used for retrieval):
+description of metals, gold, silver, etc.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics is the study of interpreting historical sources to understand the context, meaning, and significance of the information presented. It involves analyzing the text, metadata, and other relevant information to draw conclusions about the past.
+
+From the SOURCE provided, the information about copper includes:
+- Copper is classified as an unedle metal, specifically as a gediegenes (native) mineral.
+- Copper is mentioned as being found in gediegen (native) form, as well as being mineralisatum (mineralized).
+- Copper is described as being useful for making mixed metals like brass.
+- The best copper comes from Japan and Sweden.
+- Copper is easily dissolved by old salts, and the solution turns green or blue, making it toxic.
+- Copper is used in various mixed metals like white copper, bell metal, cannon metal, brass, and more.
+- Copper is sometimes found in crystalline form, similar to gold, and can be found in various shapes and sizes depending on purity and malleability.
+- Copper is also mentioned in relation to copper pyrite, a common copper ore containing sulfur and iron.
+
+This information provides insights into the properties, uses, and characteristics of copper as described in the historical textbook by J.F. Blumenbach.
+
+COMMENT: fixed a typo in the instruction
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+Man theilt die Metalle überhaupt in Ganze- oder eigentlich so genannte Metalle, und Halbmetalle, und begreift unter der lezten Abtheilung diejenigen, die nicht so geschmeidig als die erstern sind, und im Feuer größtentheils verflüchtigen. Von jenen hat man das Gold und Silber wegen ihrer größern Feuerbeständigkeit Edle und die übrigen Unedle Metalle genannt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 242.
+
+So verschieden die Gestalten sind, unter denen sich die Metalle zeigen, so lassen sie sich doch am kürzesten auf zwey Hauptgattungen zurück bringen. Entweder nemlich finden sich die Erzte gediegen (metallum nudum s. natiuum) d. h in aller ihrer wahren metallischen Substanz und Ansehen, so daß sie ohne weitere Scheidung u. s. w sogleich verarbeitet werden könnten; oder aber vererzt, (mineralisatum) so daß ihnen der Mangel eines ihrer eigenthümlichen Bestandtheile, oder die innige Beymischung einer fremden Säure von Schwefel u. s. w. mehr oder weniger von ihrem eigentlichen Ansehen benimmt, ihre Gestalt verändert ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 243.
+
+Die Metalle sind im Grunde sehr gemischte Körper, und haben wohl ohne Ausnahme einen dreyfachen Grundstoff in sich: ein Phlogiston nemlich, ein Salz und eine Erde Des erstern, des brennbaren Wesens, ist schon im vorigen Abschnitt (§. 239.) Erwähnung geschehen. Die Erzte erhalten durch dieses Phlogiston ihr ganzes metallisches Ansehen Geschmeidigkeit ꝛc. die sie sogleich verlieren, so bald ihnen dasselbe entzogen wird. Das Salz und die Erde, die die beyden andern Bestandtheile des Metalls ausmachen, sind von ganz eigner Art, und man muß über ihre wahre Natur erst noch eine nähere Ausklärung erwarten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 241.
+
+Alle Mineralien lassen sich sehr füglich unter folgende Classen bringen:
+
+I. Erden und Steine II. Salze III. Erdharze IV. Metalle und Halbmetalle denen wir als eine Zugabe V. die Versteinerungen beygefügt haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 233.
+
+Und zwar auf zweyerley Weise. Erstens nemlich derb in Gestein; auch zuweilen, aber höchst selten, crystallinisch, wie wir dergleichen (in eben der Form, wie das crystallisirte Gold und Silber) in Zeolithnieren von der Insel Feroe besitzen: meist aber ohne bestimmte Form wie bey Cammsdorf ꝛc. Vor Alters wohl in Menge, und an vielen Orten, wie sich schon daraus muthmassen läßt, daß so viele alte Völker der Erde in der frühsten Kindheit ihrer Cultur sich kupferne Waffen verfertigt, da man ihnen schwerlich Metallurgie genug zutrauen darf, daß sie das Erzt aus Minern zu gewinnen, verstanden hätten Die zweyte Art gediegnes Kupfer, ist das aus Kupfervitriol, (anstatt des Eisens, das er angetroffen und aufgelößt hat), abgesetzte: dieß ist das Cämentkupfer, das im Rammelsberg und bey Neusol in Ungarn, und anderwerts sich findet, und durch altes Eisen, das man dem Vitriolwasser in Weg legt, gewonnen wird.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 1. Nativum. Gediegen.
+
+Das nutzbarste wichtigste von allen Metallen das selbst, wenn es innerlich genossen wird, gesund und stärkend ist, das die Vorsehung deshalb auch über die ganze Erde verbreitet hat; das bey aller seiner Härte und schwehren Schmelzbarkeit doch sehr leicht von den unmerklichen überall verbreiteten Säuren (§. 229.) aufgelöst wird, und folglich durch die Nahrung in Thiere und Gewächse gebracht, und ihren Säften beygemischt wird. Die Knochen und das Blut des Menschen enthalten Eisen, und zwar in grösserer Proportion als das Blut irgend eines andern Thiers.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 6. perrvm, Eisen, nigrescens, durissimum, magneti adhaerens.
+
+Ebenfalls ein flüchtiges und zugleich räuberisches Erzt, das ausser dem Gold und der Platina die übrigen Erzte mit sich fort nimmt; aber in der Arzney, und in der Metallurgie zur Reinigung des Goldes; auch für einige Handwerker, z. E für Schriftgiesser von wichtigem Nutzen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 11. antimonivm, Spießglas, (Stibium albidum, fibrosum, friabile.
+
+Man hat neuerlich bezweifeln wollen, ob sich die unedlen Metalle (§. 242.) würklich gediegen fänden. Nun haben wir zwar selbst erinnert
+(§. 229.), daß sie aus den angegebenen Ursachen leicht, und immer mehr und mehr vererzet würden, und es ist auch bekannt, wie leicht einige von ihnen z. E. Zinn und Bley ꝛc. aus ihren Minen ausschmelzen können. Allein dieses alles zugegeben, so kann deswegen die Existenz des wirklich gediegnen Kupfers, Eisens, Zinns ꝛc noch nicht abgeleugnet werden, wenn man sich nicht einen sonderbar eingeschränkten, und dem unsrigen (§. 1.) sehr widersprechenden Begriff von Naturalien bilden wollte, da man denn aber auch hundert andre Mineralien nicht dafür erkennen, sondern aus der Naturgeschichte verbannen müßte.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 244.
+
+Die erste und bey weiten ansehnlichste Classe begreift alle Mineralien, die sich weder wie die Salze in Wasser, noch wie die Erdharze in Oel auflösen, auch sich nicht wie die Erzte ohne zu zerspringen, hämmern und breit schlagen lassen. Die ältern Mineralogen haben die Erden und Steine von einander abgesondert und in zwey besondere Classen zertheilt. Allein der beständigen Wiederholungen zu geschweigen die bey dieser Absonderung unvermeidlich sind so beruht überhaupt der ganze Unterschied auf der sehr unbestimmten blos relativen Cohäsion die, wenn sie locker ist, Erden, und wenn sie feste wird, Steine constituiren soll.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 234.
+
+Die Eigenschaften der Mineralien, ihre Bildung, Dauer u. s. w. ist so sehr verschieden, und ihre Nutzbarkeit so überaus mannichfaltig, daß sich hier nichts allgemeines darüber sagen läßt, sondern unten bey der Anzeige der Arten angeführt werden muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 232.
+
+Ein sonderbares Erzt von Silberfarbe, aber von der Schwehre des Goldes, das aus kleinen gefletschten Körnchen wie Hammerschlag besteht wovon der Magnet einen Theil zieht; die überaus spröde, hart, und strengflüssig sind, und die seit 1736. bey Quito und Carthagena hin und wieder zerstreut gefunden werden. Vielleicht wie Herr Margraf glaubt, ein Hüttenproduct ein Abgang einer vor Zeiten in jenen Gegenden vorgenommenen Quickarbeit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 7. platina, Weisses Gold, alba, ponderosissima, granulata.
+
+Kupferfahlerzt Stahlfarb. Im Grund dasselbe, dessen wir so eben beym Silber gedacht haben: nur ärmer an Silber, und hingegen mehr kupferhaltig Dahin gehört auch das Kupferglaserzt, das von schwärzerer Farbe, als anderes Fahlerzt und zuweilen mit dunklen bunten Farben angeflogen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., b) 
+
+Ein wichtiges Erzt, das, wie schon oben angezeigt worden, das Kupfer zu Messing ꝛc. macht Der Zink schmilzt mit einer blaulicht grünen Flamme, und gibt verschiedne Arten von brauchbaren Galmeyarten oder Zinkkalken, wie die Turie, das Hüttennichts (Nihilum album) den Ofenbruch (Cadmia fornacum) ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 12. zincvm, Zink, Tuttanego, Conterfait, Spiauter, cinereum, micaceum tenax.
+
+Das Kupfer wird von alten Salzen, und zwar sehr leicht aufgelößt, färbt die Solution grün oder blau, und wird giftig: daher sich die Gefahr bey unvorsichtigen Gebrauch kupferner Küchengeschirre erklärt. Das beste Kupfer kommt aus Japan und Schweden. Durch Beymischung von Gold, Silber, Zinn, am meisten aber von Zink werden aus dem Kupfer die gemischten Metalle, weiß Kupfer, Glockengut, Canonenmetall, Messing, Tomback, Prinzmetall, Pinschbak, Pakfong, Similor und Mannheimer Gold verfertigt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^
+
+Sehr selten crystallisirt: in der gleichen Form wie das Gold: doch theils in ansehnlichen Crystallen, wie an einer Norwegischen Stufe im Museum Auserdem aber in sehr mannichfaltiger Gestalt nachdem verschiednen Grad der Reinigkeit und Geschmeidigkeit, z. E. in derben Stücken, wie der gediegne Silberblock im Museum, der vor 50. Jahren auf dem St. Andreas zum Andreasberge am Harz gebrochen, gegen 200. Mark am Gewicht, und 1644. Thaler am innern Werth hält; oder aber in Zacken wie Zähne, oder in Bäumgen dendritisch, asticht, oder wie Drat wie Filigrainearbeit u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., A. Edle., 2. argentvm, Silber, album, leuius ductile., 1. Natiuum, gediegen.
+
+Ein giftiges Metall, dessen Dämpfe jammervolle Krankheiten, Hüttenkatze, Lähmungen u s. w. verursachen; das auch zum Verfälschen der Weine misgebraucht, Colik, und theils den Tod wirkt hat. Hingegen wird es ausser dem allgemein bekannten Gebrauch auch durch die daraus verfertigten Farben, Bleyweiß, Bleygelb, Mennige ꝛc. durch die Goldglätte, Silberglätte ꝛc nutzbar.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 5. plvmbvm, Bley, liuidum, mollissimum, ponderosum.
+
+Ein leichtes Metall, das, so wie das Bley eher schmelzt als glüht: auch leicht von Säuren angegriffen und aufgelößt wird, daher die zinnernen Eßgeschirre mit der gleichen Vorsicht als die küpfernen gebraucht werden müssen. Das Englische Zinn ist das beste: nächst diesem das von Malacca und von Siam. Einige Völker wie z. E. die Lappen kennen fast kein andres Metall;, sie ziehen es zu Dratfäden, und sticken ihre Pelze und ihr Rennthiergeschirr damit. Ausser allerhand Geräthe, das insgemein aus Zinn verfertigt wird, braucht man es vorzüglich zum Verzinnen des Eisenblechs, zu Spiegelfolie, Stanniol ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn, (plumbum candidum veter.) album, molle, leue, flexum crepans.
+
+Man ist zwey Wege eingeschlagen, die Mineralien dieser, und überhaupt auch der übrigen Classen in systematische Ordnung zu bringen. Entweder nemlich werden sie nach ihrer äussern Bildung, oder aber nach der Mischung ihrer Bestandtheile angeordnet. Jenes blos nach dem Augenschein und Ansehen. Dieses mittelst der chimischen Auflösung. Man hat den letztern Weg vielleicht mit nicht bessern Grunde für untrüglich angepriesen, als man den erstern für völlig ungewiß zu verschreyen gesucht hat. Wir lassen jeden in seinen Würden, folgen aber dem erstern, so wie wir auch oben die Thiere blos nach ihrer äussern Bildung und nicht nach ihrem innern anatomischen Bau angeordnet haben: und so lassen sich denn alle Erd- und Steinarten füglich unter folgende drey Ordnungen bringen I. Calcariae. Kalkarten II. Argillaceae. Thonarten III. Siliceae s. vitrescibiles. Kieselarten Nach dem was wir oben von der Entstehung der Mineralien gesagt haben, so braucht es kaum wieder erinnert zu werden, daß sich diese dreyerley Erdarten nicht immer rein, sondern sehr häufig zwey oder alle drey unter einander gemischt finden: daß sich aber auch diese unreinen Erden sehr leicht in derjenigen Ordnung mit der sie die mehreste Gleichheit haben, unterbringen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 235.
+
+Und endlich müssen auch alle von Menschen schon verarbeitete Producte aus allen drey Naturreichen hier in Anschlag gebracht werden die ohne Ausnahme doch endlich, jedes nach seiner Weise vermodern oder verrosten, kurz so gut wie die Naturalien selbst, aus denen sie verfertiget waren, zerstört werden, und theils wenn sie schon ins Mineralreich übergegangen sind, noch das leserliche Gepräge ihrer ehemaligen Bestimmung an sich tragen. So ist im academischen Musäum eine Eisensteinstufe aus dem Zweybrückischen in die ein halb verochertes aber doch noch ganz kenntliches Bergeisen fest eingewachsen ist. So besitzen wir selbst einen antiken Siegelring, an dem das Metall ganz und gar zu einer festen Eisen miner vererzt ist, aber doch seine ehemalige Form behalten und den gegrabenen Onyx noch fest eingeschloffen gleichsam in sich verwachsen hält.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 230.
+
+Kupferkies Das allergemeinste Kupfererze, das, wie schon oben gesagt worden, zugleich Schwefel und Eisen, nur in verschiedner Proportion, enthält Je reicher es an Kupfer ist, desto dunkler goldgelber ist es. Zuweilen mit schönen blauen rothen ꝛc. Farben angeflogen, und heißt dann Pfauenschweifig oder Taubenhälsig.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., a) 
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-26 13:44:05.522639   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian analysing a primary historical SOURCE, which are fragments from the 1st and the 12th edition of a historical textbook on natural history by J. F. Blumenbach. 
+Each fragment is described by metadata. 
+For example, if metadata include "Register 6th Chapter: Amphibien, I. REPTILES", the fragment is about the subclass of reptiles belonging to amphibian.
+For example, if metadata include "Register 13th Chapter: Saltze, I. ACIDA", the fragment is about the subclass of acid salts belonging to salts.
+For example, if metadata include "Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn", the fragment is about tin belonging to base metals, actual metals and metals.
+First, generate a few sentences about historical hermeneutics. Then, follow the INSTRUCTION.
+INSTRUCTION: {instruction}
+SOURCE: {context} 
+
+QUESTION OR INSTRUCTION:
+Provide all information from the SOURCE about base metals.
+
+TOPIC (used for retrieval):
+description of metals, gold, silver, etc.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Historical hermeneutics involves the interpretation and analysis of historical sources to understand the context, meaning, and significance of the information presented. In the study of historical texts, it is important to consider the metadata provided, such as the edition, chapter, and specific topic, to extract relevant information about a particular subject.
+
+From the SOURCE provided, information about base metals can be gathered from the following fragments:
+
+1. The classification of metals into noble and base metals, with gold and silver being considered noble due to their greater resistance to fire, while the rest are classified as base metals.
+2. Metals are composed of three main elements: phlogiston, salt, and earth. Base metals like copper and iron lose their metallic properties when deprived of phlogiston.
+3. Base metals are categorized under the class of metals and semi-metals, along with additional classifications like salts and earth resins.
+4. Detailed descriptions of base metals like copper, iron, tin, lead, and zinc, including their properties, uses, and origins.
+5. Discussions on the existence of native base metals and the importance of recognizing their presence in nature.
+6. The significance of base metals like iron, which are essential for human health and are found in bones and blood.
+
+By analyzing these fragments, a historian can gain insights into the historical understanding and classification of base metals in natural history during the 18th century.
+
+COMMENT: a great reply
+
+RETRIEVED DOCUMENTS (db_1500_with_register):
+Man theilt die Metalle überhaupt in Ganze- oder eigentlich so genannte Metalle, und Halbmetalle, und begreift unter der lezten Abtheilung diejenigen, die nicht so geschmeidig als die erstern sind, und im Feuer größtentheils verflüchtigen. Von jenen hat man das Gold und Silber wegen ihrer größern Feuerbeständigkeit Edle und die übrigen Unedle Metalle genannt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 242.
+
+So verschieden die Gestalten sind, unter denen sich die Metalle zeigen, so lassen sie sich doch am kürzesten auf zwey Hauptgattungen zurück bringen. Entweder nemlich finden sich die Erzte gediegen (metallum nudum s. natiuum) d. h in aller ihrer wahren metallischen Substanz und Ansehen, so daß sie ohne weitere Scheidung u. s. w sogleich verarbeitet werden könnten; oder aber vererzt, (mineralisatum) so daß ihnen der Mangel eines ihrer eigenthümlichen Bestandtheile, oder die innige Beymischung einer fremden Säure von Schwefel u. s. w. mehr oder weniger von ihrem eigentlichen Ansehen benimmt, ihre Gestalt verändert ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 243.
+
+Die Metalle sind im Grunde sehr gemischte Körper, und haben wohl ohne Ausnahme einen dreyfachen Grundstoff in sich: ein Phlogiston nemlich, ein Salz und eine Erde Des erstern, des brennbaren Wesens, ist schon im vorigen Abschnitt (§. 239.) Erwähnung geschehen. Die Erzte erhalten durch dieses Phlogiston ihr ganzes metallisches Ansehen Geschmeidigkeit ꝛc. die sie sogleich verlieren, so bald ihnen dasselbe entzogen wird. Das Salz und die Erde, die die beyden andern Bestandtheile des Metalls ausmachen, sind von ganz eigner Art, und man muß über ihre wahre Natur erst noch eine nähere Ausklärung erwarten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 241.
+
+Alle Mineralien lassen sich sehr füglich unter folgende Classen bringen:
+
+I. Erden und Steine II. Salze III. Erdharze IV. Metalle und Halbmetalle denen wir als eine Zugabe V. die Versteinerungen beygefügt haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 233.
+
+Und zwar auf zweyerley Weise. Erstens nemlich derb in Gestein; auch zuweilen, aber höchst selten, crystallinisch, wie wir dergleichen (in eben der Form, wie das crystallisirte Gold und Silber) in Zeolithnieren von der Insel Feroe besitzen: meist aber ohne bestimmte Form wie bey Cammsdorf ꝛc. Vor Alters wohl in Menge, und an vielen Orten, wie sich schon daraus muthmassen läßt, daß so viele alte Völker der Erde in der frühsten Kindheit ihrer Cultur sich kupferne Waffen verfertigt, da man ihnen schwerlich Metallurgie genug zutrauen darf, daß sie das Erzt aus Minern zu gewinnen, verstanden hätten Die zweyte Art gediegnes Kupfer, ist das aus Kupfervitriol, (anstatt des Eisens, das er angetroffen und aufgelößt hat), abgesetzte: dieß ist das Cämentkupfer, das im Rammelsberg und bey Neusol in Ungarn, und anderwerts sich findet, und durch altes Eisen, das man dem Vitriolwasser in Weg legt, gewonnen wird.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 1. Nativum. Gediegen.
+
+Das nutzbarste wichtigste von allen Metallen das selbst, wenn es innerlich genossen wird, gesund und stärkend ist, das die Vorsehung deshalb auch über die ganze Erde verbreitet hat; das bey aller seiner Härte und schwehren Schmelzbarkeit doch sehr leicht von den unmerklichen überall verbreiteten Säuren (§. 229.) aufgelöst wird, und folglich durch die Nahrung in Thiere und Gewächse gebracht, und ihren Säften beygemischt wird. Die Knochen und das Blut des Menschen enthalten Eisen, und zwar in grösserer Proportion als das Blut irgend eines andern Thiers.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 6. perrvm, Eisen, nigrescens, durissimum, magneti adhaerens.
+
+Ebenfalls ein flüchtiges und zugleich räuberisches Erzt, das ausser dem Gold und der Platina die übrigen Erzte mit sich fort nimmt; aber in der Arzney, und in der Metallurgie zur Reinigung des Goldes; auch für einige Handwerker, z. E für Schriftgiesser von wichtigem Nutzen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 11. antimonivm, Spießglas, (Stibium albidum, fibrosum, friabile.
+
+Man hat neuerlich bezweifeln wollen, ob sich die unedlen Metalle (§. 242.) würklich gediegen fänden. Nun haben wir zwar selbst erinnert
+(§. 229.), daß sie aus den angegebenen Ursachen leicht, und immer mehr und mehr vererzet würden, und es ist auch bekannt, wie leicht einige von ihnen z. E. Zinn und Bley ꝛc. aus ihren Minen ausschmelzen können. Allein dieses alles zugegeben, so kann deswegen die Existenz des wirklich gediegnen Kupfers, Eisens, Zinns ꝛc noch nicht abgeleugnet werden, wenn man sich nicht einen sonderbar eingeschränkten, und dem unsrigen (§. 1.) sehr widersprechenden Begriff von Naturalien bilden wollte, da man denn aber auch hundert andre Mineralien nicht dafür erkennen, sondern aus der Naturgeschichte verbannen müßte.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 244.
+
+Die erste und bey weiten ansehnlichste Classe begreift alle Mineralien, die sich weder wie die Salze in Wasser, noch wie die Erdharze in Oel auflösen, auch sich nicht wie die Erzte ohne zu zerspringen, hämmern und breit schlagen lassen. Die ältern Mineralogen haben die Erden und Steine von einander abgesondert und in zwey besondere Classen zertheilt. Allein der beständigen Wiederholungen zu geschweigen die bey dieser Absonderung unvermeidlich sind so beruht überhaupt der ganze Unterschied auf der sehr unbestimmten blos relativen Cohäsion die, wenn sie locker ist, Erden, und wenn sie feste wird, Steine constituiren soll.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 234.
+
+Die Eigenschaften der Mineralien, ihre Bildung, Dauer u. s. w. ist so sehr verschieden, und ihre Nutzbarkeit so überaus mannichfaltig, daß sich hier nichts allgemeines darüber sagen läßt, sondern unten bey der Anzeige der Arten angeführt werden muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 232.
+
+Ein sonderbares Erzt von Silberfarbe, aber von der Schwehre des Goldes, das aus kleinen gefletschten Körnchen wie Hammerschlag besteht wovon der Magnet einen Theil zieht; die überaus spröde, hart, und strengflüssig sind, und die seit 1736. bey Quito und Carthagena hin und wieder zerstreut gefunden werden. Vielleicht wie Herr Margraf glaubt, ein Hüttenproduct ein Abgang einer vor Zeiten in jenen Gegenden vorgenommenen Quickarbeit.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 7. platina, Weisses Gold, alba, ponderosissima, granulata.
+
+Kupferfahlerzt Stahlfarb. Im Grund dasselbe, dessen wir so eben beym Silber gedacht haben: nur ärmer an Silber, und hingegen mehr kupferhaltig Dahin gehört auch das Kupferglaserzt, das von schwärzerer Farbe, als anderes Fahlerzt und zuweilen mit dunklen bunten Farben angeflogen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., b) 
+
+Ein wichtiges Erzt, das, wie schon oben angezeigt worden, das Kupfer zu Messing ꝛc. macht Der Zink schmilzt mit einer blaulicht grünen Flamme, und gibt verschiedne Arten von brauchbaren Galmeyarten oder Zinkkalken, wie die Turie, das Hüttennichts (Nihilum album) den Ofenbruch (Cadmia fornacum) ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, II. Halbmetalle., 12. zincvm, Zink, Tuttanego, Conterfait, Spiauter, cinereum, micaceum tenax.
+
+Das Kupfer wird von alten Salzen, und zwar sehr leicht aufgelößt, färbt die Solution grün oder blau, und wird giftig: daher sich die Gefahr bey unvorsichtigen Gebrauch kupferner Küchengeschirre erklärt. Das beste Kupfer kommt aus Japan und Schweden. Durch Beymischung von Gold, Silber, Zinn, am meisten aber von Zink werden aus dem Kupfer die gemischten Metalle, weiß Kupfer, Glockengut, Canonenmetall, Messing, Tomback, Prinzmetall, Pinschbak, Pakfong, Similor und Mannheimer Gold verfertigt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^
+
+Sehr selten crystallisirt: in der gleichen Form wie das Gold: doch theils in ansehnlichen Crystallen, wie an einer Norwegischen Stufe im Museum Auserdem aber in sehr mannichfaltiger Gestalt nachdem verschiednen Grad der Reinigkeit und Geschmeidigkeit, z. E. in derben Stücken, wie der gediegne Silberblock im Museum, der vor 50. Jahren auf dem St. Andreas zum Andreasberge am Harz gebrochen, gegen 200. Mark am Gewicht, und 1644. Thaler am innern Werth hält; oder aber in Zacken wie Zähne, oder in Bäumgen dendritisch, asticht, oder wie Drat wie Filigrainearbeit u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., A. Edle., 2. argentvm, Silber, album, leuius ductile., 1. Natiuum, gediegen.
+
+Ein giftiges Metall, dessen Dämpfe jammervolle Krankheiten, Hüttenkatze, Lähmungen u s. w. verursachen; das auch zum Verfälschen der Weine misgebraucht, Colik, und theils den Tod wirkt hat. Hingegen wird es ausser dem allgemein bekannten Gebrauch auch durch die daraus verfertigten Farben, Bleyweiß, Bleygelb, Mennige ꝛc. durch die Goldglätte, Silberglätte ꝛc nutzbar.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 5. plvmbvm, Bley, liuidum, mollissimum, ponderosum.
+
+Ein leichtes Metall, das, so wie das Bley eher schmelzt als glüht: auch leicht von Säuren angegriffen und aufgelößt wird, daher die zinnernen Eßgeschirre mit der gleichen Vorsicht als die küpfernen gebraucht werden müssen. Das Englische Zinn ist das beste: nächst diesem das von Malacca und von Siam. Einige Völker wie z. E. die Lappen kennen fast kein andres Metall;, sie ziehen es zu Dratfäden, und sticken ihre Pelze und ihr Rennthiergeschirr damit. Ausser allerhand Geräthe, das insgemein aus Zinn verfertigt wird, braucht man es vorzüglich zum Verzinnen des Eisenblechs, zu Spiegelfolie, Stanniol ꝛc.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 4. stannvm, Zinn, (plumbum candidum veter.) album, molle, leue, flexum crepans.
+
+Man ist zwey Wege eingeschlagen, die Mineralien dieser, und überhaupt auch der übrigen Classen in systematische Ordnung zu bringen. Entweder nemlich werden sie nach ihrer äussern Bildung, oder aber nach der Mischung ihrer Bestandtheile angeordnet. Jenes blos nach dem Augenschein und Ansehen. Dieses mittelst der chimischen Auflösung. Man hat den letztern Weg vielleicht mit nicht bessern Grunde für untrüglich angepriesen, als man den erstern für völlig ungewiß zu verschreyen gesucht hat. Wir lassen jeden in seinen Würden, folgen aber dem erstern, so wie wir auch oben die Thiere blos nach ihrer äussern Bildung und nicht nach ihrem innern anatomischen Bau angeordnet haben: und so lassen sich denn alle Erd- und Steinarten füglich unter folgende drey Ordnungen bringen I. Calcariae. Kalkarten II. Argillaceae. Thonarten III. Siliceae s. vitrescibiles. Kieselarten Nach dem was wir oben von der Entstehung der Mineralien gesagt haben, so braucht es kaum wieder erinnert zu werden, daß sich diese dreyerley Erdarten nicht immer rein, sondern sehr häufig zwey oder alle drey unter einander gemischt finden: daß sich aber auch diese unreinen Erden sehr leicht in derjenigen Ordnung mit der sie die mehreste Gleichheit haben, unterbringen lassen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 235.
+
+Und endlich müssen auch alle von Menschen schon verarbeitete Producte aus allen drey Naturreichen hier in Anschlag gebracht werden die ohne Ausnahme doch endlich, jedes nach seiner Weise vermodern oder verrosten, kurz so gut wie die Naturalien selbst, aus denen sie verfertiget waren, zerstört werden, und theils wenn sie schon ins Mineralreich übergegangen sind, noch das leserliche Gepräge ihrer ehemaligen Bestimmung an sich tragen. So ist im academischen Musäum eine Eisensteinstufe aus dem Zweybrückischen in die ein halb verochertes aber doch noch ganz kenntliches Bergeisen fest eingewachsen ist. So besitzen wir selbst einen antiken Siegelring, an dem das Metall ganz und gar zu einer festen Eisen miner vererzt ist, aber doch seine ehemalige Form behalten und den gegrabenen Onyx noch fest eingeschloffen gleichsam in sich verwachsen hält.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 230.
+
+Kupferkies Das allergemeinste Kupfererze, das, wie schon oben gesagt worden, zugleich Schwefel und Eisen, nur in verschiedner Proportion, enthält Je reicher es an Kupfer ist, desto dunkler goldgelber ist es. Zuweilen mit schönen blauen rothen ꝛc. Farben angeflogen, und heißt dann Pfauenschweifig oder Taubenhälsig.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 2 (1780), Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., a) 
+
+
+
+

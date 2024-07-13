@@ -1,0 +1,898 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 18:34:50.138664   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+Answer the QUESTION based solely on the provided CONTEXT. Explain your ANSWER. If CONTEXT doesn't contain sufficient information to answer the QUESTION, say you that you don't know the ANSWER.
+QUESTION: {question}
+CONTEXT: {context}
+ANSWER:
+
+QUESTION OR INSTRUCTION:
+How are humans different from other animals?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Humans are different from other animals in several ways. One key difference is that humans have the ability to use reason and modify the behavior and characteristics of other animals through domestication and training. This is not seen in other animal species. Additionally, humans have the unique ability to use language, which is a result of their distinct rationality. These abilities set humans apart from other animals.
+
+COMMENT: N/A
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Säugethiere geben die wichtigsten Geschöpfe fürs Menschengeschlecht. Der Mensch hat sich noch aus keiner andern Thierclasse so treue, arbeitsame und dienstfertige Gehülfen zu schaffen gewußt, als aus dieser. Sie enthält ungemein gelehrige Thiere, deren Naturell sich leicht abändern läst, und der Mensch hat folglich ganze Gattungen aus ihrer Wildniß versetzen, und blos zu seinen Hausgenossen machen können Der Verlust der Freyheit zeigt sich nach mehrern Generationen besonders durch hängende Ohren und schlichten Schwanz, so daß manschen aus diesen Zeichen errathen kan, wie lang oder wie kürzlich die Schweine und andere Hausthiere in verschiednen Gegenden unterjocht seyn mögen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 50.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Allen Instinct eines Thiers, seine ganze Lebensart, Handlungen, Aufenthalt, Charakter Oekonomie u. s. w. begreift man unter dem allgemeinen Namen von Naturell. Jede Gattung von Thieren hat, nach der Verschiedenheit aller dieser Dinge, und nach ihrer besondern Bestimmung, auch ihr verschiednes, eignes Naturell, was nach der weisen Einrichtung des Ganzen, seine eben so bestimmten Grenzen und Richtung hat. In dessen kann doch der Mensch durch den Gebrauch seiner Vernunft, die ihn zum Herrn der übrigen Schöpfung macht, nach seiner Willkür ungemein viel am Naturell der Thiere abändern, so daß wir uns keines der oben genannten Stücke entsinnen, was nicht Menschenkunst an diesen oder jenen Thieren gleichsam umzuschaffen vermocht hätte. Der Mensch hat sich ganze Gattungen anderer Thiere unterjocht, sie aus der Wildnis genommen, und zu Hausthieren gemacht. Er hat Elephanten und Raubthiere gebändigt, und zu seinen Diensten oder zu seiner Belustigung abgerichtet; hat Spinnen gezähmt, Adler und Seemöven an blosses Brod gewöhnt; und hat die Antipathie der Thiere zu dämpfen, und Hunde, Katzen Mäuse, Sperlinge ꝛc. zu gemeinschaftlichen Tischgenossen zu machen gewußt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 38.
+
+Nächst der Ernärungsart war willkürliche Bewegung ein Hauptcharakter, wodurch wir die Thiere von den Pflanzen auszeichneten (§. 4.). 
+Die Organe die zum Behuf aller dieser unzähligmannichfaltigen Bewegungen dienen, sind die Muskeln, die oft bey sehr kleinen Thieren in grosser Anzal befindlich sind. Der Mensch hat kaum funftehalb hundert Muskeln, eine Weidenraupe hingegen über viertausend. Hieraus läßt sich aber auch die ungemeine Stärke vieler dieser kleinen Thiere erklären. Ein Floh z. B schleppt wol eine Last die achtzig mal so viel als er selbst wiegt, und ein Mist-Käfer läuft mit einem Stücke Bley auf dem Rücken fort, was eben so gros als er selbst ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 29.
+
+Die Säugethiere zeigen in ihrer Bildung, in ihrer Lebensart ꝛc. so viel Verschiedenheit daß sich nur wenig Allgemeines von ihnen überhaupt sagen läßt, und man sich folglich bey ihrer speciellen Geschichte desto umständlicher zu seyn gedrungen sieht. Schon bey den Vögeln noch mehr aber bey den folgenden Thierclassen ist der Fall anders. Die Gattungen haben ausser ihrer Gestalt weniger eigenthümlich Auszeichnendes, und ihre Oekonomie zeigt so viel Einförmigkeit, daß man, um ewige Wiederholung zu vermeiden, das mehreste im allgemeinen Theil zusammen fassen, und blos die einzelnen abweichenden Eigenschaften bey der besondern Anzeige dieser Thiere nachtragen muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 55.
+
+Von der andern Seite sind aber freylich mehrere Thiere dieser Classe dem Menschengeschlecht unmittelbar oder mittelbar nachtheilig. Die reissenden Thiere, besonders aus dem Hunde- und Katzen-Geschlecht, tödten Menschen. Andere vertilgen viel nutzbare Vögel u. a. Thiere: so die Wiesel, Marder, Iltis Vielfraß, Fischottern, Wallfische ꝛc. oder schaden den Gewächsen, Bäumen, Gartenfrüchten, Getraide u. s. w. wie die Feldmäuse, Hamster, Leming, Ziegen, Hirsche, Hasen Biber, Affen, Elephanten, Rhinoceros, Nilpferde ꝛc. oder gehen andern Eßwaaren nach wie Ratten, Mäuse, Fledermäuse, Murmelthiere. Verderben Hausgeräthe, wie die Schakale, Hyänen u. s. w. Gift besitzt kein einziges Thier dieser Classe, ausser in der Wuth und Wasserscheue, der aber viele, zumal aus dem Hundegeschlecht, leicht ausgesetzt sind.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 52.
+
+Alle Säugethiere haben Lungen, die ihnen zum Othemholen, und zur Stimme (vox dienen, die zwar nach Verschiedenheit der Gattungen, des Geschlechts, des Alters, und der Leidenschaften variirt; aber doch nicht mit soviel Mannichfaltigkeit abwechselt, als der Gesang der Vögel, die überdem auch viel öfterer als die Säugethiere ihre Stimme von sich geben. Einige dieser Thiere, wie der Maulwurf Ameisenbär, das Formosanische Teufelgen ꝛc die Hasen, Caninchen ꝛc. lassen ihre Stimme nur im äussersten Nothfall erschallen. Der Mensch allein besitzt ausschlieslich den Gebrauch der Sprache (Loquela), die eine Folge der ihm ebenfalls allein eignen Vernunft (§. 37.) ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 46.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 18:38:44.115785   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+Answer the QUESTION based solely on the provided CONTEXT. Explain your ANSWER in detail. If CONTEXT doesn't contain sufficient information to answer the QUESTION, say you that you don't know the ANSWER.
+QUESTION: {question}
+CONTEXT: {context}
+ANSWER:
+
+QUESTION OR INSTRUCTION:
+How are humans different from other animals?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Humans are different from other animals in several ways. One key difference is the ability of humans to domesticate and train other animals for various purposes, such as companionship, work, or entertainment. Humans have the unique ability to alter the behavior and nature of animals through the use of reason and intelligence. This is evident in the way humans have tamed and trained elephants, predators, spiders, birds, and even insects. Additionally, humans have the exclusive ability to use language for communication, which sets them apart from all other animals. The use of language is a direct result of human reasoning capabilities, which are not found in any other species. These unique traits and abilities distinguish humans from other animals in the animal kingdom.
+
+COMMENT: Prompted to explain in detail
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Säugethiere geben die wichtigsten Geschöpfe fürs Menschengeschlecht. Der Mensch hat sich noch aus keiner andern Thierclasse so treue, arbeitsame und dienstfertige Gehülfen zu schaffen gewußt, als aus dieser. Sie enthält ungemein gelehrige Thiere, deren Naturell sich leicht abändern läst, und der Mensch hat folglich ganze Gattungen aus ihrer Wildniß versetzen, und blos zu seinen Hausgenossen machen können Der Verlust der Freyheit zeigt sich nach mehrern Generationen besonders durch hängende Ohren und schlichten Schwanz, so daß manschen aus diesen Zeichen errathen kan, wie lang oder wie kürzlich die Schweine und andere Hausthiere in verschiednen Gegenden unterjocht seyn mögen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 50.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Allen Instinct eines Thiers, seine ganze Lebensart, Handlungen, Aufenthalt, Charakter Oekonomie u. s. w. begreift man unter dem allgemeinen Namen von Naturell. Jede Gattung von Thieren hat, nach der Verschiedenheit aller dieser Dinge, und nach ihrer besondern Bestimmung, auch ihr verschiednes, eignes Naturell, was nach der weisen Einrichtung des Ganzen, seine eben so bestimmten Grenzen und Richtung hat. In dessen kann doch der Mensch durch den Gebrauch seiner Vernunft, die ihn zum Herrn der übrigen Schöpfung macht, nach seiner Willkür ungemein viel am Naturell der Thiere abändern, so daß wir uns keines der oben genannten Stücke entsinnen, was nicht Menschenkunst an diesen oder jenen Thieren gleichsam umzuschaffen vermocht hätte. Der Mensch hat sich ganze Gattungen anderer Thiere unterjocht, sie aus der Wildnis genommen, und zu Hausthieren gemacht. Er hat Elephanten und Raubthiere gebändigt, und zu seinen Diensten oder zu seiner Belustigung abgerichtet; hat Spinnen gezähmt, Adler und Seemöven an blosses Brod gewöhnt; und hat die Antipathie der Thiere zu dämpfen, und Hunde, Katzen Mäuse, Sperlinge ꝛc. zu gemeinschaftlichen Tischgenossen zu machen gewußt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 38.
+
+Nächst der Ernärungsart war willkürliche Bewegung ein Hauptcharakter, wodurch wir die Thiere von den Pflanzen auszeichneten (§. 4.). 
+Die Organe die zum Behuf aller dieser unzähligmannichfaltigen Bewegungen dienen, sind die Muskeln, die oft bey sehr kleinen Thieren in grosser Anzal befindlich sind. Der Mensch hat kaum funftehalb hundert Muskeln, eine Weidenraupe hingegen über viertausend. Hieraus läßt sich aber auch die ungemeine Stärke vieler dieser kleinen Thiere erklären. Ein Floh z. B schleppt wol eine Last die achtzig mal so viel als er selbst wiegt, und ein Mist-Käfer läuft mit einem Stücke Bley auf dem Rücken fort, was eben so gros als er selbst ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 29.
+
+Die Säugethiere zeigen in ihrer Bildung, in ihrer Lebensart ꝛc. so viel Verschiedenheit daß sich nur wenig Allgemeines von ihnen überhaupt sagen läßt, und man sich folglich bey ihrer speciellen Geschichte desto umständlicher zu seyn gedrungen sieht. Schon bey den Vögeln noch mehr aber bey den folgenden Thierclassen ist der Fall anders. Die Gattungen haben ausser ihrer Gestalt weniger eigenthümlich Auszeichnendes, und ihre Oekonomie zeigt so viel Einförmigkeit, daß man, um ewige Wiederholung zu vermeiden, das mehreste im allgemeinen Theil zusammen fassen, und blos die einzelnen abweichenden Eigenschaften bey der besondern Anzeige dieser Thiere nachtragen muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 55.
+
+Von der andern Seite sind aber freylich mehrere Thiere dieser Classe dem Menschengeschlecht unmittelbar oder mittelbar nachtheilig. Die reissenden Thiere, besonders aus dem Hunde- und Katzen-Geschlecht, tödten Menschen. Andere vertilgen viel nutzbare Vögel u. a. Thiere: so die Wiesel, Marder, Iltis Vielfraß, Fischottern, Wallfische ꝛc. oder schaden den Gewächsen, Bäumen, Gartenfrüchten, Getraide u. s. w. wie die Feldmäuse, Hamster, Leming, Ziegen, Hirsche, Hasen Biber, Affen, Elephanten, Rhinoceros, Nilpferde ꝛc. oder gehen andern Eßwaaren nach wie Ratten, Mäuse, Fledermäuse, Murmelthiere. Verderben Hausgeräthe, wie die Schakale, Hyänen u. s. w. Gift besitzt kein einziges Thier dieser Classe, ausser in der Wuth und Wasserscheue, der aber viele, zumal aus dem Hundegeschlecht, leicht ausgesetzt sind.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 52.
+
+Alle Säugethiere haben Lungen, die ihnen zum Othemholen, und zur Stimme (vox dienen, die zwar nach Verschiedenheit der Gattungen, des Geschlechts, des Alters, und der Leidenschaften variirt; aber doch nicht mit soviel Mannichfaltigkeit abwechselt, als der Gesang der Vögel, die überdem auch viel öfterer als die Säugethiere ihre Stimme von sich geben. Einige dieser Thiere, wie der Maulwurf Ameisenbär, das Formosanische Teufelgen ꝛc die Hasen, Caninchen ꝛc. lassen ihre Stimme nur im äussersten Nothfall erschallen. Der Mensch allein besitzt ausschlieslich den Gebrauch der Sprache (Loquela), die eine Folge der ihm ebenfalls allein eignen Vernunft (§. 37.) ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 46.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 18:40:34.879040   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+Answer the QUESTION based solely on the provided CONTEXT. Explain your ANSWER in detail but only with information from the CONTEXT. If the CONTEXT doesn't contain sufficient information to answer the QUESTION, say you that you don't know the ANSWER.
+QUESTION: {question}
+CONTEXT: {context}
+ANSWER:
+
+QUESTION OR INSTRUCTION:
+How are humans different from other animals?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Humans are different from other animals in several ways. One key difference is the ability of humans to domesticate and train other animals for various purposes. Humans have been able to take species from the animal kingdom and turn them into loyal, hardworking companions. This ability to modify the behavior and nature of animals through domestication sets humans apart. Additionally, humans have the unique ability to alter the instincts and behaviors of animals through the use of reason and intelligence, making them the masters of the animal kingdom. Another distinguishing feature is the use of language, which is exclusive to humans and is a result of their unique rationality. These factors, along with the ability to manipulate and train various species for different tasks, highlight the differences between humans and other animals.
+
+COMMENT: N/A
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Säugethiere geben die wichtigsten Geschöpfe fürs Menschengeschlecht. Der Mensch hat sich noch aus keiner andern Thierclasse so treue, arbeitsame und dienstfertige Gehülfen zu schaffen gewußt, als aus dieser. Sie enthält ungemein gelehrige Thiere, deren Naturell sich leicht abändern läst, und der Mensch hat folglich ganze Gattungen aus ihrer Wildniß versetzen, und blos zu seinen Hausgenossen machen können Der Verlust der Freyheit zeigt sich nach mehrern Generationen besonders durch hängende Ohren und schlichten Schwanz, so daß manschen aus diesen Zeichen errathen kan, wie lang oder wie kürzlich die Schweine und andere Hausthiere in verschiednen Gegenden unterjocht seyn mögen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 50.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Allen Instinct eines Thiers, seine ganze Lebensart, Handlungen, Aufenthalt, Charakter Oekonomie u. s. w. begreift man unter dem allgemeinen Namen von Naturell. Jede Gattung von Thieren hat, nach der Verschiedenheit aller dieser Dinge, und nach ihrer besondern Bestimmung, auch ihr verschiednes, eignes Naturell, was nach der weisen Einrichtung des Ganzen, seine eben so bestimmten Grenzen und Richtung hat. In dessen kann doch der Mensch durch den Gebrauch seiner Vernunft, die ihn zum Herrn der übrigen Schöpfung macht, nach seiner Willkür ungemein viel am Naturell der Thiere abändern, so daß wir uns keines der oben genannten Stücke entsinnen, was nicht Menschenkunst an diesen oder jenen Thieren gleichsam umzuschaffen vermocht hätte. Der Mensch hat sich ganze Gattungen anderer Thiere unterjocht, sie aus der Wildnis genommen, und zu Hausthieren gemacht. Er hat Elephanten und Raubthiere gebändigt, und zu seinen Diensten oder zu seiner Belustigung abgerichtet; hat Spinnen gezähmt, Adler und Seemöven an blosses Brod gewöhnt; und hat die Antipathie der Thiere zu dämpfen, und Hunde, Katzen Mäuse, Sperlinge ꝛc. zu gemeinschaftlichen Tischgenossen zu machen gewußt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 38.
+
+Nächst der Ernärungsart war willkürliche Bewegung ein Hauptcharakter, wodurch wir die Thiere von den Pflanzen auszeichneten (§. 4.). 
+Die Organe die zum Behuf aller dieser unzähligmannichfaltigen Bewegungen dienen, sind die Muskeln, die oft bey sehr kleinen Thieren in grosser Anzal befindlich sind. Der Mensch hat kaum funftehalb hundert Muskeln, eine Weidenraupe hingegen über viertausend. Hieraus läßt sich aber auch die ungemeine Stärke vieler dieser kleinen Thiere erklären. Ein Floh z. B schleppt wol eine Last die achtzig mal so viel als er selbst wiegt, und ein Mist-Käfer läuft mit einem Stücke Bley auf dem Rücken fort, was eben so gros als er selbst ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 29.
+
+Die Säugethiere zeigen in ihrer Bildung, in ihrer Lebensart ꝛc. so viel Verschiedenheit daß sich nur wenig Allgemeines von ihnen überhaupt sagen läßt, und man sich folglich bey ihrer speciellen Geschichte desto umständlicher zu seyn gedrungen sieht. Schon bey den Vögeln noch mehr aber bey den folgenden Thierclassen ist der Fall anders. Die Gattungen haben ausser ihrer Gestalt weniger eigenthümlich Auszeichnendes, und ihre Oekonomie zeigt so viel Einförmigkeit, daß man, um ewige Wiederholung zu vermeiden, das mehreste im allgemeinen Theil zusammen fassen, und blos die einzelnen abweichenden Eigenschaften bey der besondern Anzeige dieser Thiere nachtragen muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 55.
+
+Von der andern Seite sind aber freylich mehrere Thiere dieser Classe dem Menschengeschlecht unmittelbar oder mittelbar nachtheilig. Die reissenden Thiere, besonders aus dem Hunde- und Katzen-Geschlecht, tödten Menschen. Andere vertilgen viel nutzbare Vögel u. a. Thiere: so die Wiesel, Marder, Iltis Vielfraß, Fischottern, Wallfische ꝛc. oder schaden den Gewächsen, Bäumen, Gartenfrüchten, Getraide u. s. w. wie die Feldmäuse, Hamster, Leming, Ziegen, Hirsche, Hasen Biber, Affen, Elephanten, Rhinoceros, Nilpferde ꝛc. oder gehen andern Eßwaaren nach wie Ratten, Mäuse, Fledermäuse, Murmelthiere. Verderben Hausgeräthe, wie die Schakale, Hyänen u. s. w. Gift besitzt kein einziges Thier dieser Classe, ausser in der Wuth und Wasserscheue, der aber viele, zumal aus dem Hundegeschlecht, leicht ausgesetzt sind.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 52.
+
+Alle Säugethiere haben Lungen, die ihnen zum Othemholen, und zur Stimme (vox dienen, die zwar nach Verschiedenheit der Gattungen, des Geschlechts, des Alters, und der Leidenschaften variirt; aber doch nicht mit soviel Mannichfaltigkeit abwechselt, als der Gesang der Vögel, die überdem auch viel öfterer als die Säugethiere ihre Stimme von sich geben. Einige dieser Thiere, wie der Maulwurf Ameisenbär, das Formosanische Teufelgen ꝛc die Hasen, Caninchen ꝛc. lassen ihre Stimme nur im äussersten Nothfall erschallen. Der Mensch allein besitzt ausschlieslich den Gebrauch der Sprache (Loquela), die eine Folge der ihm ebenfalls allein eignen Vernunft (§. 37.) ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 46.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 18:41:28.710672   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+How are humans different from other animals?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The source does not provide a clear distinction between humans and other animals. It mainly discusses the various characteristics of mammals and how humans have been able to domesticate and train different species of animals for their own purposes. Therefore, based on the information provided in the source, it is not possible to determine how humans are different from other animals.
+
+COMMENT: No answer, rerunning will be tried out
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Säugethiere geben die wichtigsten Geschöpfe fürs Menschengeschlecht. Der Mensch hat sich noch aus keiner andern Thierclasse so treue, arbeitsame und dienstfertige Gehülfen zu schaffen gewußt, als aus dieser. Sie enthält ungemein gelehrige Thiere, deren Naturell sich leicht abändern läst, und der Mensch hat folglich ganze Gattungen aus ihrer Wildniß versetzen, und blos zu seinen Hausgenossen machen können Der Verlust der Freyheit zeigt sich nach mehrern Generationen besonders durch hängende Ohren und schlichten Schwanz, so daß manschen aus diesen Zeichen errathen kan, wie lang oder wie kürzlich die Schweine und andere Hausthiere in verschiednen Gegenden unterjocht seyn mögen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 50.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Allen Instinct eines Thiers, seine ganze Lebensart, Handlungen, Aufenthalt, Charakter Oekonomie u. s. w. begreift man unter dem allgemeinen Namen von Naturell. Jede Gattung von Thieren hat, nach der Verschiedenheit aller dieser Dinge, und nach ihrer besondern Bestimmung, auch ihr verschiednes, eignes Naturell, was nach der weisen Einrichtung des Ganzen, seine eben so bestimmten Grenzen und Richtung hat. In dessen kann doch der Mensch durch den Gebrauch seiner Vernunft, die ihn zum Herrn der übrigen Schöpfung macht, nach seiner Willkür ungemein viel am Naturell der Thiere abändern, so daß wir uns keines der oben genannten Stücke entsinnen, was nicht Menschenkunst an diesen oder jenen Thieren gleichsam umzuschaffen vermocht hätte. Der Mensch hat sich ganze Gattungen anderer Thiere unterjocht, sie aus der Wildnis genommen, und zu Hausthieren gemacht. Er hat Elephanten und Raubthiere gebändigt, und zu seinen Diensten oder zu seiner Belustigung abgerichtet; hat Spinnen gezähmt, Adler und Seemöven an blosses Brod gewöhnt; und hat die Antipathie der Thiere zu dämpfen, und Hunde, Katzen Mäuse, Sperlinge ꝛc. zu gemeinschaftlichen Tischgenossen zu machen gewußt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 38.
+
+Nächst der Ernärungsart war willkürliche Bewegung ein Hauptcharakter, wodurch wir die Thiere von den Pflanzen auszeichneten (§. 4.). 
+Die Organe die zum Behuf aller dieser unzähligmannichfaltigen Bewegungen dienen, sind die Muskeln, die oft bey sehr kleinen Thieren in grosser Anzal befindlich sind. Der Mensch hat kaum funftehalb hundert Muskeln, eine Weidenraupe hingegen über viertausend. Hieraus läßt sich aber auch die ungemeine Stärke vieler dieser kleinen Thiere erklären. Ein Floh z. B schleppt wol eine Last die achtzig mal so viel als er selbst wiegt, und ein Mist-Käfer läuft mit einem Stücke Bley auf dem Rücken fort, was eben so gros als er selbst ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 29.
+
+Die Säugethiere zeigen in ihrer Bildung, in ihrer Lebensart ꝛc. so viel Verschiedenheit daß sich nur wenig Allgemeines von ihnen überhaupt sagen läßt, und man sich folglich bey ihrer speciellen Geschichte desto umständlicher zu seyn gedrungen sieht. Schon bey den Vögeln noch mehr aber bey den folgenden Thierclassen ist der Fall anders. Die Gattungen haben ausser ihrer Gestalt weniger eigenthümlich Auszeichnendes, und ihre Oekonomie zeigt so viel Einförmigkeit, daß man, um ewige Wiederholung zu vermeiden, das mehreste im allgemeinen Theil zusammen fassen, und blos die einzelnen abweichenden Eigenschaften bey der besondern Anzeige dieser Thiere nachtragen muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 55.
+
+Von der andern Seite sind aber freylich mehrere Thiere dieser Classe dem Menschengeschlecht unmittelbar oder mittelbar nachtheilig. Die reissenden Thiere, besonders aus dem Hunde- und Katzen-Geschlecht, tödten Menschen. Andere vertilgen viel nutzbare Vögel u. a. Thiere: so die Wiesel, Marder, Iltis Vielfraß, Fischottern, Wallfische ꝛc. oder schaden den Gewächsen, Bäumen, Gartenfrüchten, Getraide u. s. w. wie die Feldmäuse, Hamster, Leming, Ziegen, Hirsche, Hasen Biber, Affen, Elephanten, Rhinoceros, Nilpferde ꝛc. oder gehen andern Eßwaaren nach wie Ratten, Mäuse, Fledermäuse, Murmelthiere. Verderben Hausgeräthe, wie die Schakale, Hyänen u. s. w. Gift besitzt kein einziges Thier dieser Classe, ausser in der Wuth und Wasserscheue, der aber viele, zumal aus dem Hundegeschlecht, leicht ausgesetzt sind.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 52.
+
+Alle Säugethiere haben Lungen, die ihnen zum Othemholen, und zur Stimme (vox dienen, die zwar nach Verschiedenheit der Gattungen, des Geschlechts, des Alters, und der Leidenschaften variirt; aber doch nicht mit soviel Mannichfaltigkeit abwechselt, als der Gesang der Vögel, die überdem auch viel öfterer als die Säugethiere ihre Stimme von sich geben. Einige dieser Thiere, wie der Maulwurf Ameisenbär, das Formosanische Teufelgen ꝛc die Hasen, Caninchen ꝛc. lassen ihre Stimme nur im äussersten Nothfall erschallen. Der Mensch allein besitzt ausschlieslich den Gebrauch der Sprache (Loquela), die eine Folge der ihm ebenfalls allein eignen Vernunft (§. 37.) ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 46.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 18:42:17.785567   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+How are humans different from other animals?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The source does not provide a clear distinction between humans and other animals. It mainly discusses the characteristics and behaviors of mammals in general, without specifically addressing how humans are different from other animals. Therefore, based on the information provided in the source, it is not possible to determine how humans are different from other animals.
+
+COMMENT: No answer for the second time!
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Säugethiere geben die wichtigsten Geschöpfe fürs Menschengeschlecht. Der Mensch hat sich noch aus keiner andern Thierclasse so treue, arbeitsame und dienstfertige Gehülfen zu schaffen gewußt, als aus dieser. Sie enthält ungemein gelehrige Thiere, deren Naturell sich leicht abändern läst, und der Mensch hat folglich ganze Gattungen aus ihrer Wildniß versetzen, und blos zu seinen Hausgenossen machen können Der Verlust der Freyheit zeigt sich nach mehrern Generationen besonders durch hängende Ohren und schlichten Schwanz, so daß manschen aus diesen Zeichen errathen kan, wie lang oder wie kürzlich die Schweine und andere Hausthiere in verschiednen Gegenden unterjocht seyn mögen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 50.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Allen Instinct eines Thiers, seine ganze Lebensart, Handlungen, Aufenthalt, Charakter Oekonomie u. s. w. begreift man unter dem allgemeinen Namen von Naturell. Jede Gattung von Thieren hat, nach der Verschiedenheit aller dieser Dinge, und nach ihrer besondern Bestimmung, auch ihr verschiednes, eignes Naturell, was nach der weisen Einrichtung des Ganzen, seine eben so bestimmten Grenzen und Richtung hat. In dessen kann doch der Mensch durch den Gebrauch seiner Vernunft, die ihn zum Herrn der übrigen Schöpfung macht, nach seiner Willkür ungemein viel am Naturell der Thiere abändern, so daß wir uns keines der oben genannten Stücke entsinnen, was nicht Menschenkunst an diesen oder jenen Thieren gleichsam umzuschaffen vermocht hätte. Der Mensch hat sich ganze Gattungen anderer Thiere unterjocht, sie aus der Wildnis genommen, und zu Hausthieren gemacht. Er hat Elephanten und Raubthiere gebändigt, und zu seinen Diensten oder zu seiner Belustigung abgerichtet; hat Spinnen gezähmt, Adler und Seemöven an blosses Brod gewöhnt; und hat die Antipathie der Thiere zu dämpfen, und Hunde, Katzen Mäuse, Sperlinge ꝛc. zu gemeinschaftlichen Tischgenossen zu machen gewußt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 38.
+
+Nächst der Ernärungsart war willkürliche Bewegung ein Hauptcharakter, wodurch wir die Thiere von den Pflanzen auszeichneten (§. 4.). 
+Die Organe die zum Behuf aller dieser unzähligmannichfaltigen Bewegungen dienen, sind die Muskeln, die oft bey sehr kleinen Thieren in grosser Anzal befindlich sind. Der Mensch hat kaum funftehalb hundert Muskeln, eine Weidenraupe hingegen über viertausend. Hieraus läßt sich aber auch die ungemeine Stärke vieler dieser kleinen Thiere erklären. Ein Floh z. B schleppt wol eine Last die achtzig mal so viel als er selbst wiegt, und ein Mist-Käfer läuft mit einem Stücke Bley auf dem Rücken fort, was eben so gros als er selbst ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 29.
+
+Die Säugethiere zeigen in ihrer Bildung, in ihrer Lebensart ꝛc. so viel Verschiedenheit daß sich nur wenig Allgemeines von ihnen überhaupt sagen läßt, und man sich folglich bey ihrer speciellen Geschichte desto umständlicher zu seyn gedrungen sieht. Schon bey den Vögeln noch mehr aber bey den folgenden Thierclassen ist der Fall anders. Die Gattungen haben ausser ihrer Gestalt weniger eigenthümlich Auszeichnendes, und ihre Oekonomie zeigt so viel Einförmigkeit, daß man, um ewige Wiederholung zu vermeiden, das mehreste im allgemeinen Theil zusammen fassen, und blos die einzelnen abweichenden Eigenschaften bey der besondern Anzeige dieser Thiere nachtragen muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 55.
+
+Von der andern Seite sind aber freylich mehrere Thiere dieser Classe dem Menschengeschlecht unmittelbar oder mittelbar nachtheilig. Die reissenden Thiere, besonders aus dem Hunde- und Katzen-Geschlecht, tödten Menschen. Andere vertilgen viel nutzbare Vögel u. a. Thiere: so die Wiesel, Marder, Iltis Vielfraß, Fischottern, Wallfische ꝛc. oder schaden den Gewächsen, Bäumen, Gartenfrüchten, Getraide u. s. w. wie die Feldmäuse, Hamster, Leming, Ziegen, Hirsche, Hasen Biber, Affen, Elephanten, Rhinoceros, Nilpferde ꝛc. oder gehen andern Eßwaaren nach wie Ratten, Mäuse, Fledermäuse, Murmelthiere. Verderben Hausgeräthe, wie die Schakale, Hyänen u. s. w. Gift besitzt kein einziges Thier dieser Classe, ausser in der Wuth und Wasserscheue, der aber viele, zumal aus dem Hundegeschlecht, leicht ausgesetzt sind.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 52.
+
+Alle Säugethiere haben Lungen, die ihnen zum Othemholen, und zur Stimme (vox dienen, die zwar nach Verschiedenheit der Gattungen, des Geschlechts, des Alters, und der Leidenschaften variirt; aber doch nicht mit soviel Mannichfaltigkeit abwechselt, als der Gesang der Vögel, die überdem auch viel öfterer als die Säugethiere ihre Stimme von sich geben. Einige dieser Thiere, wie der Maulwurf Ameisenbär, das Formosanische Teufelgen ꝛc die Hasen, Caninchen ꝛc. lassen ihre Stimme nur im äussersten Nothfall erschallen. Der Mensch allein besitzt ausschlieslich den Gebrauch der Sprache (Loquela), die eine Folge der ihm ebenfalls allein eignen Vernunft (§. 37.) ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 46.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 18:57:22.608547   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Is religion (God, soul etc.) mentioned in relation to humans? If yes, in what context?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+No, religion (God, soul etc.) is not mentioned in relation to humans in the source.
+
+COMMENT: N/A
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr. Wolff hat zu seinem scharfsinnigen System eine gewisse vis essentialis aufgenommen der er diese allmählige Ausbildung überträgt u s. w. Die Theorie der Evolution hingegen nimmt an, daß in dem rohen Urstoff nicht erst ein Theil nach dem andern gebildet werde, sondern, daß derselbe den ganzen Keim, den völligen Entwurf des organisirten Körpers in sich fasse, daß folglich alle Keime der organisirten Körper in ihren Vorfahren bis zur ersten Schöpfung hinauf gleichsam eingeschachtelt, und in einen unthätigen Schlaf versenkt gelegen hätten und daß diese Keime bey der Befruchtung durch den Reiz des männlichen Saamens nur ermuntert, und so zu ihrer fernern Entwickelung angetrieben würden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten. Es ist unterhaltend, es ist, wie wir so eben selbst gesagt haben, nutzbar, wenn der Naturforscher die Creaturen nach ihrer nächsten Verwandschaft unter einander ordnet, an einander kettet u. s. w Aber es scheint uns von der andern Seite eine schwache, und der Allweisheit des Schöpfers unanständige Behauptung, wenn man im Ernste annehmen wollte, daß auch Er bey der Schöpfung einen solchen allegorischen Plan befolgt, und die Vollkommenheit seiner großen Handlung darein gesetzt hätte, daß er seinen Creaturen alle ersinnliche Formen gäbe, und sie folglich vom obersten bis zum untersten ganz regelmäßig stufenweis auf einander folgen liesse. Man würde lächeln, wenn jemand den Vorzug bey der Einrichtung eines Hauses darinn suchte, daß die Meublen darinne alle von verschiedner Gestalt oder Größe wären, und sich auch, so wie die angebliche Kette der natürlichen Körper, unter eine gleiche Stufenfolge bringen liessen. Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Alle Dinge, die sich auf, und in unsrer Erde finden, zeigen sich entweder in derselben Gestalt, in welcher sie aus der Hand der Natur gekommen; oder so, wie sie durch Menschen oder Thiere, zu bestimmten Absichten, oder auch durch bloßen Zufall verändert und gleichsam umgeschaffen worden sind. Auf diese Verschiedenheit gründet sich die bekannte Eintheilung aller Körper in natürliche (naturalia), und durch Kunst verfertigte (artefacta). Die erstern machen den Gegenstand der Naturgeschichte aus, und man belegt alle Körper mit dem Namen der Naturalien, die nur noch keine wesentliche Veränderung durch Menschenhände erlitten haben; Da hingegen die mehresten von denen so der Zufall umgeändert hat, und beyläufig auch diejenigen so durch die Thiere nach ihren Trieben und zu Stillung ihrer Bedürfnisse verändert und umgebildet worden, mit unter den Naturalien begriffen werden. Artefacten werden sie blos alsdann, wenn der Mensch wesentliche Veränderungen mit ihnen vornimt. Man rechnet z. B. die schwammichte Rinde einer Art Maulbeerbäume (Morus papyrifera) oder die äussere Schaale einer Cocosnuß doch zu den Naturalien, wenn gleich beyde durch Menschen vom Stamme oder von der Nuß, die sie umkleideten, abgelöst worden. Die dadurch mit ihnen vorgenommene Veränderung ist nicht Wesentlich genug, um sie deshalb zu Artefakten zu machen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 1.
+
+Der Mensch hat überhaupt wenig Instinct Kunsttriebe aber gar nicht: was ihn hingegen reichlich dafür entschädigt, ist der Gebrauch der Vernunft, die ihm allein ausschließlich, und durchaus keinem andern Thiere zukommt. Er hat keinen bestimmten Wohnplatz, sondern die ganze Erde, in Norden und Süden und unter jedem Meridian, ist ihm zum Aufenthalt angewiesen; die Verschiedenheit des Clima und der Lebensart erregt in ihm eben so verschiedne Bedürfnisse, die nicht auf einerley Weise befriedigt werden können; und ein einförmiger Kunsttrieb würde folglich ein sehr unbrauchbares Geschenk für ihn gewesen seyn: da er hingegen durch Reflexion die individuellen Bedürfnisse auf mannichfaltige und schickliche Weise zu stillen vermag.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 37.
+
+Die Ausbildung dieses Grundstoffs zu erklären, ist man zwey Wege eingeschlagen, die beyde von sehr großen Männern betreten worden sind, deren jeder den seinigen zu verfechten und die Richtigkeit des andern zu bestreiten, getrachtet hat. Diese Wege sind die, in der neuern Philosophie so berühmt gewordnen, Theorien der Epigenese und der Evolution. Die Epigenese lehrt, daß der rohe Grundstoff (§. 10.) 
+nach der Empfängnis oder Befruchtung allmählig ausgebildet, und ein Theil des organisirten Körpers nach dem andern geformt würde Diese allmählige Bildung wahrscheinlich zu machen, haben ihre Anhänger allerhand Kräfte angenommen, die dieses Geschäfte bewürken sollten. Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Es scheint beym Vortrag der N. G. ziemlich willkürlich, ob man die unorganisirten oder die organisirten Körper zuerst abhandle. Doch dünkt es uns schicklicher, mit dem Menschen, und den ihm zunächst verwandten Thieren anzufangen, dann zu den übrigen organisirten Körpern fortzuschreiten, und mit dem Mineral Reich zu beschliessen. Was ein organisirter Körper im Gegensatz vom unorganisirten, vom Mineral sey, haben wir oben (§. 2.) bestimmt. Jetzt müssen wir die allgemeinen Eigenschaften dieser Körper, die Eigenschaften, die der Mensch und die Käse-Milbe, die Ceder und der Schimmel mit einander gemein haben, näher beleuchten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 8.
+
+Das machts, daß die Schöpfung ihren Gang geht und daß noch kein Weiser, irgend einer Zeit oder eines Volks, in ihr eine Lücke hat antreffen können. Kette der Natur, die suchen wir nicht in der gradativen Bildung ihrer Körper, nicht darinn, daß der eine, Thier und Pflanze, und ein andrer Pflanze und Stein verknüpfen soll; sondern in den angewiesenen Geschäften der Glieder dieser Kette, wie Glied und Glied nicht nach ihrer Form, sondern nach ihrer Bestimmung in einander greifen u. s. w. Bey dem ewigen Cirkel von unermeßlich weiser Einrichtung, da die Pflanzen ihre Nahrung aus der Erde ziehn, und nachher Menschen und Thieren, und ein Thier dem andern, zur Nahrung dienen, und da am Ende Menschen und Thiere und Pflanzen wieder zur Erde werden; bey diesem großen Cirkel braucht die Vernunft keine Bindungsglieder vorauszusetzen, die diese Geschöpfe so verschiedner Art in Rücksicht ihrer Bildung verknüpfen müßte; so wie uns auch die Erfahrung bis jetzt noch keine natürliche Körper kennen gelehrt hat, die mit Recht auf den Namen solcher Bindungsglieder zwischen den drey Naturreichen Anspruch machen dürften. 
+
+[Abbildung ]
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 18:58:02.472358   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Is religion (God, soul etc.) mentioned? If yes, in what context?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+No, religion (God, soul etc.) is not mentioned in the source.
+
+COMMENT: N/A
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr. Wolff hat zu seinem scharfsinnigen System eine gewisse vis essentialis aufgenommen der er diese allmählige Ausbildung überträgt u s. w. Die Theorie der Evolution hingegen nimmt an, daß in dem rohen Urstoff nicht erst ein Theil nach dem andern gebildet werde, sondern, daß derselbe den ganzen Keim, den völligen Entwurf des organisirten Körpers in sich fasse, daß folglich alle Keime der organisirten Körper in ihren Vorfahren bis zur ersten Schöpfung hinauf gleichsam eingeschachtelt, und in einen unthätigen Schlaf versenkt gelegen hätten und daß diese Keime bey der Befruchtung durch den Reiz des männlichen Saamens nur ermuntert, und so zu ihrer fernern Entwickelung angetrieben würden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten. Es ist unterhaltend, es ist, wie wir so eben selbst gesagt haben, nutzbar, wenn der Naturforscher die Creaturen nach ihrer nächsten Verwandschaft unter einander ordnet, an einander kettet u. s. w Aber es scheint uns von der andern Seite eine schwache, und der Allweisheit des Schöpfers unanständige Behauptung, wenn man im Ernste annehmen wollte, daß auch Er bey der Schöpfung einen solchen allegorischen Plan befolgt, und die Vollkommenheit seiner großen Handlung darein gesetzt hätte, daß er seinen Creaturen alle ersinnliche Formen gäbe, und sie folglich vom obersten bis zum untersten ganz regelmäßig stufenweis auf einander folgen liesse. Man würde lächeln, wenn jemand den Vorzug bey der Einrichtung eines Hauses darinn suchte, daß die Meublen darinne alle von verschiedner Gestalt oder Größe wären, und sich auch, so wie die angebliche Kette der natürlichen Körper, unter eine gleiche Stufenfolge bringen liessen. Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Die Ausbildung dieses Grundstoffs zu erklären, ist man zwey Wege eingeschlagen, die beyde von sehr großen Männern betreten worden sind, deren jeder den seinigen zu verfechten und die Richtigkeit des andern zu bestreiten, getrachtet hat. Diese Wege sind die, in der neuern Philosophie so berühmt gewordnen, Theorien der Epigenese und der Evolution. Die Epigenese lehrt, daß der rohe Grundstoff (§. 10.) 
+nach der Empfängnis oder Befruchtung allmählig ausgebildet, und ein Theil des organisirten Körpers nach dem andern geformt würde Diese allmählige Bildung wahrscheinlich zu machen, haben ihre Anhänger allerhand Kräfte angenommen, die dieses Geschäfte bewürken sollten. Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Der Mensch hat überhaupt wenig Instinct Kunsttriebe aber gar nicht: was ihn hingegen reichlich dafür entschädigt, ist der Gebrauch der Vernunft, die ihm allein ausschließlich, und durchaus keinem andern Thiere zukommt. Er hat keinen bestimmten Wohnplatz, sondern die ganze Erde, in Norden und Süden und unter jedem Meridian, ist ihm zum Aufenthalt angewiesen; die Verschiedenheit des Clima und der Lebensart erregt in ihm eben so verschiedne Bedürfnisse, die nicht auf einerley Weise befriedigt werden können; und ein einförmiger Kunsttrieb würde folglich ein sehr unbrauchbares Geschenk für ihn gewesen seyn: da er hingegen durch Reflexion die individuellen Bedürfnisse auf mannichfaltige und schickliche Weise zu stillen vermag.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 37.
+
+Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen. Daß Gott in seiner Schöpfung keine Lücke gelassen hat, daß dieses unermeßliche Uhrwerk nirgend stockt, sondern im ununterbrochnen Gange, im beständigen Gleichgewicht erhalten wird, davon liegt der Grund wohl schwerlich darinne, weil der Orangoutang den Uebergang vom Menschen zum Affen machen, oder weil die Vögel durch die Fledermäuse mit den vierfüßigen Thieren, und durch die fliegenden Fische mit den Fischen verbunden seyn sollen sondern weil jedes erschaffne Wesen seine Bestimmung, und den zu dieser Bestimmung erfoderlichen Körperbau hat; weil kein zweckloses Geschöpf exsistirt, was nicht auch seinen Beytrag zur Vollkommenheit des Ganzen gäbe. Das machts, daß die Schöpfung ihren Gang geht und daß noch kein Weiser, irgend einer Zeit oder eines Volks, in ihr eine Lücke hat antreffen können.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Diese sehr faßliche Eintheilung der natürlichen Körper in organisirte und unorganisirte (§. 2.), und der organisirten wieder unter sich (§. 3.), ist nun der Grund der bekannten drey Reiche, worein man alle Naturalien sehr schicklich classificirt hat, und wovon das erste die Thiere, das zweyte die Pflanzen, das dritte die Mineralien begreift. Die Thiere sind, nach dem was oben gesagt worden, organisirte Körper, die erstens willkührliche Bewegung besitzen und zweytens ihre Alimente durch den Mund in den Magen bringen, wo der nahrhafteste Extract davon abgesondert und zur Nutrition verwandt wird. Die Pflanzen sind zwar ebenfalls organisirte Körper, denen aber die willkührliche Bewegung gänzlich mangelt, und die zweytens ihren Nahrungssaft durch Wurzeln einsaugen, nicht so wie die Thiere ihre Speisen durch eine besondere einfache Oefnung zu sich nehmen Die Mineralien endlich sind unorganisirte Körper, die blos dadurch entstehen, daß einfache Theile durch Ansatz von aussen zusammen gehäuft, und mit einander verbunden werden ohne daß sie die mindste Nahrung, weder durch einen Mund wie die Thiere, noch durch Wurzeln wie die Pflanzen, in sich bringen, und so ihr Wachsthum durch innige Aneignung bewirken könnten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 4.
+
+Wir haben die Reichthümer der Natur in ihren beiden organisirten belebten Reichen besehen. Das Ende unsers Buchs ist nun noch den unorganisirten Naturalien, den mineralischen Körpern gewidmet, wovon wir die allgemeinen Begriffe schon oben in den ersten Blätlern angegeben haben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 220.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:05:36.643930   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+What is the state of scientific knowledge about evolution?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The state of scientific knowledge about evolution in the eighteenth century, as presented in the source, is still in its early stages. The text discusses different theories such as Epigenesis and Evolution, which were being debated by prominent philosophers at the time. The theory of Evolution mentioned in the source focuses on the idea that all organisms have existed in a dormant state since the beginning of creation and are activated and developed through the process of fertilization. However, the source does not provide a definitive answer on the state of scientific knowledge about evolution in the eighteenth century.
+
+COMMENT: Nice but not detailed historical evaluation
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen. Daß Gott in seiner Schöpfung keine Lücke gelassen hat, daß dieses unermeßliche Uhrwerk nirgend stockt, sondern im ununterbrochnen Gange, im beständigen Gleichgewicht erhalten wird, davon liegt der Grund wohl schwerlich darinne, weil der Orangoutang den Uebergang vom Menschen zum Affen machen, oder weil die Vögel durch die Fledermäuse mit den vierfüßigen Thieren, und durch die fliegenden Fische mit den Fischen verbunden seyn sollen sondern weil jedes erschaffne Wesen seine Bestimmung, und den zu dieser Bestimmung erfoderlichen Körperbau hat; weil kein zweckloses Geschöpf exsistirt, was nicht auch seinen Beytrag zur Vollkommenheit des Ganzen gäbe. Das machts, daß die Schöpfung ihren Gang geht und daß noch kein Weiser, irgend einer Zeit oder eines Volks, in ihr eine Lücke hat antreffen können.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten. Es ist unterhaltend, es ist, wie wir so eben selbst gesagt haben, nutzbar, wenn der Naturforscher die Creaturen nach ihrer nächsten Verwandschaft unter einander ordnet, an einander kettet u. s. w Aber es scheint uns von der andern Seite eine schwache, und der Allweisheit des Schöpfers unanständige Behauptung, wenn man im Ernste annehmen wollte, daß auch Er bey der Schöpfung einen solchen allegorischen Plan befolgt, und die Vollkommenheit seiner großen Handlung darein gesetzt hätte, daß er seinen Creaturen alle ersinnliche Formen gäbe, und sie folglich vom obersten bis zum untersten ganz regelmäßig stufenweis auf einander folgen liesse. Man würde lächeln, wenn jemand den Vorzug bey der Einrichtung eines Hauses darinn suchte, daß die Meublen darinne alle von verschiedner Gestalt oder Größe wären, und sich auch, so wie die angebliche Kette der natürlichen Körper, unter eine gleiche Stufenfolge bringen liessen. Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Noch müssen wir endlich ein paar Worte über die bekannten Bilder von Ketten und Leitern und Netzen, die man der Natur angepaßt hat, sagen. Auch durch sie hat man neuerlich die Stützen der bestimmten Naturreiche zu untergraben gesucht. Man hat nemlich den Satz Die Natur thut keinen Sprung, über den schon der große Leibnitz viel wahres und schönes gesagt hat, den Bradley nachher (auf Addison's Anrathen) in einem eignen Werke aber ziemlich unvollständig und trocken, Bonnet ungemein scharfsinnig, und Robinet ganz abentheuerlich behandelt haben, dahin gedeutet daß alle erschaffene Wesen, vom vollkommensten bis zum Atom, vom Engel bis zum einfachsten Elemente, in einer ununterbrochnen Reihe, wie Glied an Glied in einer Kette, zusammenhingen; daß sie in Rücksicht ihrer Bildung und Eigenschaften stufenweise, aber doch so unmerklich auf einander folgten, daß durchaus keine andre, als eine sehr willkürliche, sehr imaginäre Abtheilung in Reiche oder Classen und Ordnungen ꝛc. bey ihnen statt finden könne. Dieses Räsonnement scheint wirklich auf den ersten Blick ganz richtig. Die Idee von Stufenfolge in der Natur ist eben so alt als artig. Wir selbst haben sie von je her für eine der interessantsten Speculationen in der Natürlichen Philosophie gehalten. Sie kann auch sehr wesentlich nutzbar werden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr. Wolff hat zu seinem scharfsinnigen System eine gewisse vis essentialis aufgenommen der er diese allmählige Ausbildung überträgt u s. w. Die Theorie der Evolution hingegen nimmt an, daß in dem rohen Urstoff nicht erst ein Theil nach dem andern gebildet werde, sondern, daß derselbe den ganzen Keim, den völligen Entwurf des organisirten Körpers in sich fasse, daß folglich alle Keime der organisirten Körper in ihren Vorfahren bis zur ersten Schöpfung hinauf gleichsam eingeschachtelt, und in einen unthätigen Schlaf versenkt gelegen hätten und daß diese Keime bey der Befruchtung durch den Reiz des männlichen Saamens nur ermuntert, und so zu ihrer fernern Entwickelung angetrieben würden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Die Ausbildung dieses Grundstoffs zu erklären, ist man zwey Wege eingeschlagen, die beyde von sehr großen Männern betreten worden sind, deren jeder den seinigen zu verfechten und die Richtigkeit des andern zu bestreiten, getrachtet hat. Diese Wege sind die, in der neuern Philosophie so berühmt gewordnen, Theorien der Epigenese und der Evolution. Die Epigenese lehrt, daß der rohe Grundstoff (§. 10.) 
+nach der Empfängnis oder Befruchtung allmählig ausgebildet, und ein Theil des organisirten Körpers nach dem andern geformt würde Diese allmählige Bildung wahrscheinlich zu machen, haben ihre Anhänger allerhand Kräfte angenommen, die dieses Geschäfte bewürken sollten. Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Zuerst etwas vom Ursprung der Mineralien, nemlich von den Hauptwegen, wodurch sie theils vor Zeiten mit einemmal entstanden sind, und theils nach und nach und noch immerfort entstehen. Um jene aufzuklären, müssen wir nothwendig auf den Ursprung unsrer Erde selbst zurück gehen: eine Untersuchung, bey der man sich freylich immer einige gewagte Muthmassungen wird erlauben müssen: doch wollen wir uns nicht dem Flug der kühnen Männer überlassen, die Kometen und ausgebrannte Sonnen zum Bau ihres Erdsystems aufgebothen haben sondern unsere bescheidnere Meinung vortragen auf die wir zuerst durch die Untersuchung der Versteinerungen, und durch ihre Vergleichung und gefundene Unähnlichkeit mit den gegenwärtigen organisirten Körpern und dann durch die Beobachtung einiger ehemaligen Vulcane gebracht worden sind, und die uns zwar immer noch eine Hypothese, aber doch eine solche Hypothese zu seyn scheint, die sich der Natur und dem Augenschein ziemlich leicht und schicklich anpassen läßt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 221.
+
+Der gegenwärtige Abschnitt betrift allerdings eine eben so wichtige als anmuthige Untersuchung nemlich die allgemeine Naturgeschichte der Gewächse, die wir so viel möglich in der gleichen Ordnung abfassen wollen, die oben in der allgemeinen Thiergeschichte befolgt worden ist, damit beide desto leichter mit einander verglichen und die Aehnlichkeit oder Abweichung dieser zweyerley Arten von organisirten Körpern um so deutlicher ersehen Werden kan.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 170.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:08:20.730598   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Evaluate the discussion about the origin of life.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The discussion about the origin of life in the eighteenth-century textbook on natural history focuses on two main theories: Epigenesis and Evolution. The Epigenesis theory suggests that the raw material gradually forms and shapes the organized body part by part after conception or fertilization. On the other hand, the Evolution theory proposes that the raw material contains the complete germ, the full design of the organized body within itself, and that all germs of organized bodies in their ancestors up to the first creation were nested and dormant, only stimulated and driven for further development by the male seed. The text also mentions the idea of a chain or ladder in nature, suggesting a gradual progression from the simplest elements to the most complex organisms. However, it also warns against taking this idea too far and turning it into a mere allegory or game. Overall, the discussion presents different perspectives on the origin of life and the development of organisms, highlighting the complexity and ongoing debate in the field of natural history.
+
+COMMENT: Very nice answer!
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Der gegenwärtige Abschnitt betrift allerdings eine eben so wichtige als anmuthige Untersuchung nemlich die allgemeine Naturgeschichte der Gewächse, die wir so viel möglich in der gleichen Ordnung abfassen wollen, die oben in der allgemeinen Thiergeschichte befolgt worden ist, damit beide desto leichter mit einander verglichen und die Aehnlichkeit oder Abweichung dieser zweyerley Arten von organisirten Körpern um so deutlicher ersehen Werden kan.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 170.
+
+Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten. Es ist unterhaltend, es ist, wie wir so eben selbst gesagt haben, nutzbar, wenn der Naturforscher die Creaturen nach ihrer nächsten Verwandschaft unter einander ordnet, an einander kettet u. s. w Aber es scheint uns von der andern Seite eine schwache, und der Allweisheit des Schöpfers unanständige Behauptung, wenn man im Ernste annehmen wollte, daß auch Er bey der Schöpfung einen solchen allegorischen Plan befolgt, und die Vollkommenheit seiner großen Handlung darein gesetzt hätte, daß er seinen Creaturen alle ersinnliche Formen gäbe, und sie folglich vom obersten bis zum untersten ganz regelmäßig stufenweis auf einander folgen liesse. Man würde lächeln, wenn jemand den Vorzug bey der Einrichtung eines Hauses darinn suchte, daß die Meublen darinne alle von verschiedner Gestalt oder Größe wären, und sich auch, so wie die angebliche Kette der natürlichen Körper, unter eine gleiche Stufenfolge bringen liessen. Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+bey ihnen statt finden könne. Dieses Räsonnement scheint wirklich auf den ersten Blick ganz richtig. Die Idee von Stufenfolge in der Natur ist eben so alt als artig. Wir selbst haben sie von je her für eine der interessantsten Speculationen in der Natürlichen Philosophie gehalten. Sie kann auch sehr wesentlich nutzbar werden. Sie ist, beym Lichte betrachtet der wahre Grund eines natürlichen Systems in der Naturgeschichte, das der große, aber noch meist unbefriedigte Wunsch, aller Naturforscher ist, und nach welchem man die natürlichen Körper nach ihrer grösten Verwandschaft zusammen ordnen, die ähnlichen verbinden, die unähnlichen von einander entfernen soll. Jedes natürliche System sollte eigentlich eine Art Bonnetischer Leiter seyn, und das ganze Studium der Naturgeschichte würde ungemein gewinnen würde gar sehr erleichtert werden, wenn die Systematiker nach diesem Plane arbeiteten, sich weniger willkürliche Charaktere abstrahirten, nach welchen sie die Naturalien rangiren ꝛc. Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Zuerst etwas vom Ursprung der Mineralien, nemlich von den Hauptwegen, wodurch sie theils vor Zeiten mit einemmal entstanden sind, und theils nach und nach und noch immerfort entstehen. Um jene aufzuklären, müssen wir nothwendig auf den Ursprung unsrer Erde selbst zurück gehen: eine Untersuchung, bey der man sich freylich immer einige gewagte Muthmassungen wird erlauben müssen: doch wollen wir uns nicht dem Flug der kühnen Männer überlassen, die Kometen und ausgebrannte Sonnen zum Bau ihres Erdsystems aufgebothen haben sondern unsere bescheidnere Meinung vortragen auf die wir zuerst durch die Untersuchung der Versteinerungen, und durch ihre Vergleichung und gefundene Unähnlichkeit mit den gegenwärtigen organisirten Körpern und dann durch die Beobachtung einiger ehemaligen Vulcane gebracht worden sind, und die uns zwar immer noch eine Hypothese, aber doch eine solche Hypothese zu seyn scheint, die sich der Natur und dem Augenschein ziemlich leicht und schicklich anpassen läßt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 221.
+
+Die Ausbildung dieses Grundstoffs zu erklären, ist man zwey Wege eingeschlagen, die beyde von sehr großen Männern betreten worden sind, deren jeder den seinigen zu verfechten und die Richtigkeit des andern zu bestreiten, getrachtet hat. Diese Wege sind die, in der neuern Philosophie so berühmt gewordnen, Theorien der Epigenese und der Evolution. Die Epigenese lehrt, daß der rohe Grundstoff (§. 10.) 
+nach der Empfängnis oder Befruchtung allmählig ausgebildet, und ein Theil des organisirten Körpers nach dem andern geformt würde Diese allmählige Bildung wahrscheinlich zu machen, haben ihre Anhänger allerhand Kräfte angenommen, die dieses Geschäfte bewürken sollten. Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr. Wolff hat zu seinem scharfsinnigen System eine gewisse vis essentialis aufgenommen der er diese allmählige Ausbildung überträgt u s. w. Die Theorie der Evolution hingegen nimmt an, daß in dem rohen Urstoff nicht erst ein Theil nach dem andern gebildet werde, sondern, daß derselbe den ganzen Keim, den völligen Entwurf des organisirten Körpers in sich fasse, daß folglich alle Keime der organisirten Körper in ihren Vorfahren bis zur ersten Schöpfung hinauf gleichsam eingeschachtelt, und in einen unthätigen Schlaf versenkt gelegen hätten und daß diese Keime bey der Befruchtung durch den Reiz des männlichen Saamens nur ermuntert, und so zu ihrer fernern Entwickelung angetrieben würden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Noch müssen wir endlich ein paar Worte über die bekannten Bilder von Ketten und Leitern und Netzen, die man der Natur angepaßt hat, sagen. Auch durch sie hat man neuerlich die Stützen der bestimmten Naturreiche zu untergraben gesucht. Man hat nemlich den Satz Die Natur thut keinen Sprung, über den schon der große Leibnitz viel wahres und schönes gesagt hat, den Bradley nachher (auf Addison's Anrathen) in einem eignen Werke aber ziemlich unvollständig und trocken, Bonnet ungemein scharfsinnig, und Robinet ganz abentheuerlich behandelt haben, dahin gedeutet daß alle erschaffene Wesen, vom vollkommensten bis zum Atom, vom Engel bis zum einfachsten Elemente, in einer ununterbrochnen Reihe, wie Glied an Glied in einer Kette, zusammenhingen; daß sie in Rücksicht ihrer Bildung und Eigenschaften stufenweise, aber doch so unmerklich auf einander folgten, daß durchaus keine andre, als eine sehr willkürliche, sehr imaginäre Abtheilung in Reiche oder Classen und Ordnungen ꝛc. bey ihnen statt finden könne. Dieses Räsonnement scheint wirklich auf den ersten Blick ganz richtig. Die Idee von Stufenfolge in der Natur ist eben so alt als artig. Wir selbst haben sie von je her für eine der interessantsten Speculationen in der Natürlichen Philosophie gehalten. Sie kann auch sehr wesentlich nutzbar werden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:11:50.297525   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. Always provide relevant quote from the SOURCE in brackets. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Evaluate the discussion about the origin of life.
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The discussion about the origin of life in the eighteenth-century textbook on natural history revolves around two main theories: Epigenesis and Evolution. Epigenesis suggests that the raw material gradually forms and shapes into an organized body part by part, with various forces at play to facilitate this process. On the other hand, Evolution theory proposes that the raw material contains the complete blueprint of the organized body within itself, with all the seeds of organized bodies nested in their ancestors and triggered for further development through the stimulation of male semen during fertilization. The text also mentions the concept of chains and ladders in nature, which have been used to undermine the traditional classification of natural kingdoms. The idea of a gradual progression in nature, from the most perfect to the simplest elements, in an unbroken chain or ladder, is discussed as a valid but potentially limiting concept. Ultimately, the text does not provide a clear conclusion on the origin of life, as it presents different theories and perspectives without explicitly favoring one over the other. [The text discusses the theories of Epigenesis and Evolution in relation to the origin of life, as well as the concept of chains and ladders in nature.]
+
+COMMENT: Very nice answer but the model failed to provide quotes in brackets.
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Der gegenwärtige Abschnitt betrift allerdings eine eben so wichtige als anmuthige Untersuchung nemlich die allgemeine Naturgeschichte der Gewächse, die wir so viel möglich in der gleichen Ordnung abfassen wollen, die oben in der allgemeinen Thiergeschichte befolgt worden ist, damit beide desto leichter mit einander verglichen und die Aehnlichkeit oder Abweichung dieser zweyerley Arten von organisirten Körpern um so deutlicher ersehen Werden kan.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 170.
+
+Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten. Es ist unterhaltend, es ist, wie wir so eben selbst gesagt haben, nutzbar, wenn der Naturforscher die Creaturen nach ihrer nächsten Verwandschaft unter einander ordnet, an einander kettet u. s. w Aber es scheint uns von der andern Seite eine schwache, und der Allweisheit des Schöpfers unanständige Behauptung, wenn man im Ernste annehmen wollte, daß auch Er bey der Schöpfung einen solchen allegorischen Plan befolgt, und die Vollkommenheit seiner großen Handlung darein gesetzt hätte, daß er seinen Creaturen alle ersinnliche Formen gäbe, und sie folglich vom obersten bis zum untersten ganz regelmäßig stufenweis auf einander folgen liesse. Man würde lächeln, wenn jemand den Vorzug bey der Einrichtung eines Hauses darinn suchte, daß die Meublen darinne alle von verschiedner Gestalt oder Größe wären, und sich auch, so wie die angebliche Kette der natürlichen Körper, unter eine gleiche Stufenfolge bringen liessen. Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+bey ihnen statt finden könne. Dieses Räsonnement scheint wirklich auf den ersten Blick ganz richtig. Die Idee von Stufenfolge in der Natur ist eben so alt als artig. Wir selbst haben sie von je her für eine der interessantsten Speculationen in der Natürlichen Philosophie gehalten. Sie kann auch sehr wesentlich nutzbar werden. Sie ist, beym Lichte betrachtet der wahre Grund eines natürlichen Systems in der Naturgeschichte, das der große, aber noch meist unbefriedigte Wunsch, aller Naturforscher ist, und nach welchem man die natürlichen Körper nach ihrer grösten Verwandschaft zusammen ordnen, die ähnlichen verbinden, die unähnlichen von einander entfernen soll. Jedes natürliche System sollte eigentlich eine Art Bonnetischer Leiter seyn, und das ganze Studium der Naturgeschichte würde ungemein gewinnen würde gar sehr erleichtert werden, wenn die Systematiker nach diesem Plane arbeiteten, sich weniger willkürliche Charaktere abstrahirten, nach welchen sie die Naturalien rangiren ꝛc. Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Zuerst etwas vom Ursprung der Mineralien, nemlich von den Hauptwegen, wodurch sie theils vor Zeiten mit einemmal entstanden sind, und theils nach und nach und noch immerfort entstehen. Um jene aufzuklären, müssen wir nothwendig auf den Ursprung unsrer Erde selbst zurück gehen: eine Untersuchung, bey der man sich freylich immer einige gewagte Muthmassungen wird erlauben müssen: doch wollen wir uns nicht dem Flug der kühnen Männer überlassen, die Kometen und ausgebrannte Sonnen zum Bau ihres Erdsystems aufgebothen haben sondern unsere bescheidnere Meinung vortragen auf die wir zuerst durch die Untersuchung der Versteinerungen, und durch ihre Vergleichung und gefundene Unähnlichkeit mit den gegenwärtigen organisirten Körpern und dann durch die Beobachtung einiger ehemaligen Vulcane gebracht worden sind, und die uns zwar immer noch eine Hypothese, aber doch eine solche Hypothese zu seyn scheint, die sich der Natur und dem Augenschein ziemlich leicht und schicklich anpassen läßt.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 221.
+
+Die Ausbildung dieses Grundstoffs zu erklären, ist man zwey Wege eingeschlagen, die beyde von sehr großen Männern betreten worden sind, deren jeder den seinigen zu verfechten und die Richtigkeit des andern zu bestreiten, getrachtet hat. Diese Wege sind die, in der neuern Philosophie so berühmt gewordnen, Theorien der Epigenese und der Evolution. Die Epigenese lehrt, daß der rohe Grundstoff (§. 10.) 
+nach der Empfängnis oder Befruchtung allmählig ausgebildet, und ein Theil des organisirten Körpers nach dem andern geformt würde Diese allmählige Bildung wahrscheinlich zu machen, haben ihre Anhänger allerhand Kräfte angenommen, die dieses Geschäfte bewürken sollten. Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr. Wolff hat zu seinem scharfsinnigen System eine gewisse vis essentialis aufgenommen der er diese allmählige Ausbildung überträgt u s. w. Die Theorie der Evolution hingegen nimmt an, daß in dem rohen Urstoff nicht erst ein Theil nach dem andern gebildet werde, sondern, daß derselbe den ganzen Keim, den völligen Entwurf des organisirten Körpers in sich fasse, daß folglich alle Keime der organisirten Körper in ihren Vorfahren bis zur ersten Schöpfung hinauf gleichsam eingeschachtelt, und in einen unthätigen Schlaf versenkt gelegen hätten und daß diese Keime bey der Befruchtung durch den Reiz des männlichen Saamens nur ermuntert, und so zu ihrer fernern Entwickelung angetrieben würden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Noch müssen wir endlich ein paar Worte über die bekannten Bilder von Ketten und Leitern und Netzen, die man der Natur angepaßt hat, sagen. Auch durch sie hat man neuerlich die Stützen der bestimmten Naturreiche zu untergraben gesucht. Man hat nemlich den Satz Die Natur thut keinen Sprung, über den schon der große Leibnitz viel wahres und schönes gesagt hat, den Bradley nachher (auf Addison's Anrathen) in einem eignen Werke aber ziemlich unvollständig und trocken, Bonnet ungemein scharfsinnig, und Robinet ganz abentheuerlich behandelt haben, dahin gedeutet daß alle erschaffene Wesen, vom vollkommensten bis zum Atom, vom Engel bis zum einfachsten Elemente, in einer ununterbrochnen Reihe, wie Glied an Glied in einer Kette, zusammenhingen; daß sie in Rücksicht ihrer Bildung und Eigenschaften stufenweise, aber doch so unmerklich auf einander folgten, daß durchaus keine andre, als eine sehr willkürliche, sehr imaginäre Abtheilung in Reiche oder Classen und Ordnungen ꝛc. bey ihnen statt finden könne. Dieses Räsonnement scheint wirklich auf den ersten Blick ganz richtig. Die Idee von Stufenfolge in der Natur ist eben so alt als artig. Wir selbst haben sie von je her für eine der interessantsten Speculationen in der Natürlichen Philosophie gehalten. Sie kann auch sehr wesentlich nutzbar werden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:15:15.105026   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Does the source discuss human races?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Yes, the source discusses human races. It mentions the different characteristics of humans and how they have domesticated animals for their own use.
+
+COMMENT: N/A
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die Säugethiere geben die wichtigsten Geschöpfe fürs Menschengeschlecht. Der Mensch hat sich noch aus keiner andern Thierclasse so treue, arbeitsame und dienstfertige Gehülfen zu schaffen gewußt, als aus dieser. Sie enthält ungemein gelehrige Thiere, deren Naturell sich leicht abändern läst, und der Mensch hat folglich ganze Gattungen aus ihrer Wildniß versetzen, und blos zu seinen Hausgenossen machen können Der Verlust der Freyheit zeigt sich nach mehrern Generationen besonders durch hängende Ohren und schlichten Schwanz, so daß manschen aus diesen Zeichen errathen kan, wie lang oder wie kürzlich die Schweine und andere Hausthiere in verschiednen Gegenden unterjocht seyn mögen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 50.
+
+Die Säugethiere zeigen in ihrer Bildung, in ihrer Lebensart ꝛc. so viel Verschiedenheit daß sich nur wenig Allgemeines von ihnen überhaupt sagen läßt, und man sich folglich bey ihrer speciellen Geschichte desto umständlicher zu seyn gedrungen sieht. Schon bey den Vögeln noch mehr aber bey den folgenden Thierclassen ist der Fall anders. Die Gattungen haben ausser ihrer Gestalt weniger eigenthümlich Auszeichnendes, und ihre Oekonomie zeigt so viel Einförmigkeit, daß man, um ewige Wiederholung zu vermeiden, das mehreste im allgemeinen Theil zusammen fassen, und blos die einzelnen abweichenden Eigenschaften bey der besondern Anzeige dieser Thiere nachtragen muß.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 55.
+
+Die Anzal der Gattungen von Thieren zu bestimmen, kennen wir unsre Erde noch zu wenig. Von dem was wir wissen, auf das was uns noch davon unbekannt ist, zu schliessen kann man ihrer ohngefähr dreyßigtausend annehmen. Da wir so viele Thiere blos versteint und noch nicht in Natur kennen, so haben einige berühmte Männer geschlossen, daß wol manche Gattungen ja ganze Geschlechter ausgestorben seyn möchten. Dagegen läßt sich nun zwar das eben gesagte einwenden, daß ein sehr grosser Theil der Erde noch ununtersucht ist, und daß wir nicht wissen können, was im Boden des Meers, im innern Afrika und anderwärts wo sich Naturgeschichte noch keinen Weg hingebahnt hat, verborgen liegen kann. Aber von der andern Seite bleibts doch immer bedenklich daß man von so grossen Petrefacten-Geschlechtern dergleichen z. E. die Ammoniten sind, noch gar kein Original aufgefunden hat: und da wir doch aus allem sehn, daß unsere Erde weiland schon gar sehr grosse Catastrophen erlitten hat, so wär es wenigstens sehr wohl möglich, daß da auch Thier-Gattungen hätten untergehen können, die nur für jene Vorwelt bestimmt, und der revolvirten Erde entbehrlich gewesen wären.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 39.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Von der andern Seite sind aber freylich mehrere Thiere dieser Classe dem Menschengeschlecht unmittelbar oder mittelbar nachtheilig. Die reissenden Thiere, besonders aus dem Hunde- und Katzen-Geschlecht, tödten Menschen. Andere vertilgen viel nutzbare Vögel u. a. Thiere: so die Wiesel, Marder, Iltis Vielfraß, Fischottern, Wallfische ꝛc. oder schaden den Gewächsen, Bäumen, Gartenfrüchten, Getraide u. s. w. wie die Feldmäuse, Hamster, Leming, Ziegen, Hirsche, Hasen Biber, Affen, Elephanten, Rhinoceros, Nilpferde ꝛc. oder gehen andern Eßwaaren nach wie Ratten, Mäuse, Fledermäuse, Murmelthiere. Verderben Hausgeräthe, wie die Schakale, Hyänen u. s. w. Gift besitzt kein einziges Thier dieser Classe, ausser in der Wuth und Wasserscheue, der aber viele, zumal aus dem Hundegeschlecht, leicht ausgesetzt sind.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 52.
+
+Alle Säugethiere haben Lungen, die ihnen zum Othemholen, und zur Stimme (vox dienen, die zwar nach Verschiedenheit der Gattungen, des Geschlechts, des Alters, und der Leidenschaften variirt; aber doch nicht mit soviel Mannichfaltigkeit abwechselt, als der Gesang der Vögel, die überdem auch viel öfterer als die Säugethiere ihre Stimme von sich geben. Einige dieser Thiere, wie der Maulwurf Ameisenbär, das Formosanische Teufelgen ꝛc die Hasen, Caninchen ꝛc. lassen ihre Stimme nur im äussersten Nothfall erschallen. Der Mensch allein besitzt ausschlieslich den Gebrauch der Sprache (Loquela), die eine Folge der ihm ebenfalls allein eignen Vernunft (§. 37.) ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 46.
+
+So sind z. B. die 173220 Millionen Menschen, die von Adam bis jetzt gestorben seyn mögen, gleichsam verschwunden, zu einer Erde vermodert, die man deshalb, so wie sie rein in den Gräbern gefunden wird, terra Adamica nennt. Und doch sagt dieser Beytrag von menschlichen Leichen noch nichts in Vergleich mit der Asche der seit der gleichen Zeit gestorbenen ungleich grössern Thiere, der Wallfische Elephanten, Crocodile, Pferde, Wasserschlangen u. s. w.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 227.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:30:51.499678   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+In what context, if at all, is spirituality or religion mentioned?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Spirituality or religion is mentioned in the context of the theories of Epigenesis and Evolution in the source text. The Spiritualists are mentioned as wanting to make the soul the builder of the body, and there is a reference to the idea of inner models in the organized body from which the substance of the new body should take impressions. This suggests a connection between spiritual beliefs and the formation of the physical body.
+
+COMMENT: N/A
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Der Mensch hat überhaupt wenig Instinct Kunsttriebe aber gar nicht: was ihn hingegen reichlich dafür entschädigt, ist der Gebrauch der Vernunft, die ihm allein ausschließlich, und durchaus keinem andern Thiere zukommt. Er hat keinen bestimmten Wohnplatz, sondern die ganze Erde, in Norden und Süden und unter jedem Meridian, ist ihm zum Aufenthalt angewiesen; die Verschiedenheit des Clima und der Lebensart erregt in ihm eben so verschiedne Bedürfnisse, die nicht auf einerley Weise befriedigt werden können; und ein einförmiger Kunsttrieb würde folglich ein sehr unbrauchbares Geschenk für ihn gewesen seyn: da er hingegen durch Reflexion die individuellen Bedürfnisse auf mannichfaltige und schickliche Weise zu stillen vermag.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 37.
+
+Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr. Wolff hat zu seinem scharfsinnigen System eine gewisse vis essentialis aufgenommen der er diese allmählige Ausbildung überträgt u s. w. Die Theorie der Evolution hingegen nimmt an, daß in dem rohen Urstoff nicht erst ein Theil nach dem andern gebildet werde, sondern, daß derselbe den ganzen Keim, den völligen Entwurf des organisirten Körpers in sich fasse, daß folglich alle Keime der organisirten Körper in ihren Vorfahren bis zur ersten Schöpfung hinauf gleichsam eingeschachtelt, und in einen unthätigen Schlaf versenkt gelegen hätten und daß diese Keime bey der Befruchtung durch den Reiz des männlichen Saamens nur ermuntert, und so zu ihrer fernern Entwickelung angetrieben würden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten. Es ist unterhaltend, es ist, wie wir so eben selbst gesagt haben, nutzbar, wenn der Naturforscher die Creaturen nach ihrer nächsten Verwandschaft unter einander ordnet, an einander kettet u. s. w Aber es scheint uns von der andern Seite eine schwache, und der Allweisheit des Schöpfers unanständige Behauptung, wenn man im Ernste annehmen wollte, daß auch Er bey der Schöpfung einen solchen allegorischen Plan befolgt, und die Vollkommenheit seiner großen Handlung darein gesetzt hätte, daß er seinen Creaturen alle ersinnliche Formen gäbe, und sie folglich vom obersten bis zum untersten ganz regelmäßig stufenweis auf einander folgen liesse. Man würde lächeln, wenn jemand den Vorzug bey der Einrichtung eines Hauses darinn suchte, daß die Meublen darinne alle von verschiedner Gestalt oder Größe wären, und sich auch, so wie die angebliche Kette der natürlichen Körper, unter eine gleiche Stufenfolge bringen liessen. Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Die Ausbildung dieses Grundstoffs zu erklären, ist man zwey Wege eingeschlagen, die beyde von sehr großen Männern betreten worden sind, deren jeder den seinigen zu verfechten und die Richtigkeit des andern zu bestreiten, getrachtet hat. Diese Wege sind die, in der neuern Philosophie so berühmt gewordnen, Theorien der Epigenese und der Evolution. Die Epigenese lehrt, daß der rohe Grundstoff (§. 10.) 
+nach der Empfängnis oder Befruchtung allmählig ausgebildet, und ein Theil des organisirten Körpers nach dem andern geformt würde Diese allmählige Bildung wahrscheinlich zu machen, haben ihre Anhänger allerhand Kräfte angenommen, die dieses Geschäfte bewürken sollten. Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Ausser dem Einfluß, den die Nerven auf die Muskelbewegung haben, ist ihr zweytes Geschäft, auch die äussern Eindrücke auf den thierischen Körper, der Seele durch die Sinne mitzutheilen. Die Art der sinnlichen Empfindung und die Beschaffenheit der Sinnwerkzeuge ist bey den Thieren sehr verschieden. Viele Thiere erhalten offenbar allerhand sinnliche Eindrücke ohne daß wir doch die Organe an ihnen entdecken könnten, die bey andern zu solchen Eindrücken nothwendig sind. Der Polype z. B. hat keine Augen, und doch das feinste Gefühl vom Licht. Die Schmeisfliege riecht, und die Biene hört, ob wir gleich weder Nase noch Ohren an ihnen wahrnehmen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 31.
+
+Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen. Daß Gott in seiner Schöpfung keine Lücke gelassen hat, daß dieses unermeßliche Uhrwerk nirgend stockt, sondern im ununterbrochnen Gange, im beständigen Gleichgewicht erhalten wird, davon liegt der Grund wohl schwerlich darinne, weil der Orangoutang den Uebergang vom Menschen zum Affen machen, oder weil die Vögel durch die Fledermäuse mit den vierfüßigen Thieren, und durch die fliegenden Fische mit den Fischen verbunden seyn sollen sondern weil jedes erschaffne Wesen seine Bestimmung, und den zu dieser Bestimmung erfoderlichen Körperbau hat; weil kein zweckloses Geschöpf exsistirt, was nicht auch seinen Beytrag zur Vollkommenheit des Ganzen gäbe. Das machts, daß die Schöpfung ihren Gang geht und daß noch kein Weiser, irgend einer Zeit oder eines Volks, in ihr eine Lücke hat antreffen können.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Noch müssen wir endlich ein paar Worte über die bekannten Bilder von Ketten und Leitern und Netzen, die man der Natur angepaßt hat, sagen. Auch durch sie hat man neuerlich die Stützen der bestimmten Naturreiche zu untergraben gesucht. Man hat nemlich den Satz Die Natur thut keinen Sprung, über den schon der große Leibnitz viel wahres und schönes gesagt hat, den Bradley nachher (auf Addison's Anrathen) in einem eignen Werke aber ziemlich unvollständig und trocken, Bonnet ungemein scharfsinnig, und Robinet ganz abentheuerlich behandelt haben, dahin gedeutet daß alle erschaffene Wesen, vom vollkommensten bis zum Atom, vom Engel bis zum einfachsten Elemente, in einer ununterbrochnen Reihe, wie Glied an Glied in einer Kette, zusammenhingen; daß sie in Rücksicht ihrer Bildung und Eigenschaften stufenweise, aber doch so unmerklich auf einander folgten, daß durchaus keine andre, als eine sehr willkürliche, sehr imaginäre Abtheilung in Reiche oder Classen und Ordnungen ꝛc. bey ihnen statt finden könne. Dieses Räsonnement scheint wirklich auf den ersten Blick ganz richtig. Die Idee von Stufenfolge in der Natur ist eben so alt als artig. Wir selbst haben sie von je her für eine der interessantsten Speculationen in der Natürlichen Philosophie gehalten. Sie kann auch sehr wesentlich nutzbar werden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:31:44.812595   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+In what context, if at all, is spirituality, religion, soul etc. mentioned?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Spirituality, religion, and soul are not mentioned in the source text.
+
+COMMENT: Spirituality is mentioned.
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Der Mensch hat überhaupt wenig Instinct Kunsttriebe aber gar nicht: was ihn hingegen reichlich dafür entschädigt, ist der Gebrauch der Vernunft, die ihm allein ausschließlich, und durchaus keinem andern Thiere zukommt. Er hat keinen bestimmten Wohnplatz, sondern die ganze Erde, in Norden und Süden und unter jedem Meridian, ist ihm zum Aufenthalt angewiesen; die Verschiedenheit des Clima und der Lebensart erregt in ihm eben so verschiedne Bedürfnisse, die nicht auf einerley Weise befriedigt werden können; und ein einförmiger Kunsttrieb würde folglich ein sehr unbrauchbares Geschenk für ihn gewesen seyn: da er hingegen durch Reflexion die individuellen Bedürfnisse auf mannichfaltige und schickliche Weise zu stillen vermag.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 37.
+
+Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten. Es ist unterhaltend, es ist, wie wir so eben selbst gesagt haben, nutzbar, wenn der Naturforscher die Creaturen nach ihrer nächsten Verwandschaft unter einander ordnet, an einander kettet u. s. w Aber es scheint uns von der andern Seite eine schwache, und der Allweisheit des Schöpfers unanständige Behauptung, wenn man im Ernste annehmen wollte, daß auch Er bey der Schöpfung einen solchen allegorischen Plan befolgt, und die Vollkommenheit seiner großen Handlung darein gesetzt hätte, daß er seinen Creaturen alle ersinnliche Formen gäbe, und sie folglich vom obersten bis zum untersten ganz regelmäßig stufenweis auf einander folgen liesse. Man würde lächeln, wenn jemand den Vorzug bey der Einrichtung eines Hauses darinn suchte, daß die Meublen darinne alle von verschiedner Gestalt oder Größe wären, und sich auch, so wie die angebliche Kette der natürlichen Körper, unter eine gleiche Stufenfolge bringen liessen. Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr. Wolff hat zu seinem scharfsinnigen System eine gewisse vis essentialis aufgenommen der er diese allmählige Ausbildung überträgt u s. w. Die Theorie der Evolution hingegen nimmt an, daß in dem rohen Urstoff nicht erst ein Theil nach dem andern gebildet werde, sondern, daß derselbe den ganzen Keim, den völligen Entwurf des organisirten Körpers in sich fasse, daß folglich alle Keime der organisirten Körper in ihren Vorfahren bis zur ersten Schöpfung hinauf gleichsam eingeschachtelt, und in einen unthätigen Schlaf versenkt gelegen hätten und daß diese Keime bey der Befruchtung durch den Reiz des männlichen Saamens nur ermuntert, und so zu ihrer fernern Entwickelung angetrieben würden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Die Ausbildung dieses Grundstoffs zu erklären, ist man zwey Wege eingeschlagen, die beyde von sehr großen Männern betreten worden sind, deren jeder den seinigen zu verfechten und die Richtigkeit des andern zu bestreiten, getrachtet hat. Diese Wege sind die, in der neuern Philosophie so berühmt gewordnen, Theorien der Epigenese und der Evolution. Die Epigenese lehrt, daß der rohe Grundstoff (§. 10.) 
+nach der Empfängnis oder Befruchtung allmählig ausgebildet, und ein Theil des organisirten Körpers nach dem andern geformt würde Diese allmählige Bildung wahrscheinlich zu machen, haben ihre Anhänger allerhand Kräfte angenommen, die dieses Geschäfte bewürken sollten. Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Ausser dem Einfluß, den die Nerven auf die Muskelbewegung haben, ist ihr zweytes Geschäft, auch die äussern Eindrücke auf den thierischen Körper, der Seele durch die Sinne mitzutheilen. Die Art der sinnlichen Empfindung und die Beschaffenheit der Sinnwerkzeuge ist bey den Thieren sehr verschieden. Viele Thiere erhalten offenbar allerhand sinnliche Eindrücke ohne daß wir doch die Organe an ihnen entdecken könnten, die bey andern zu solchen Eindrücken nothwendig sind. Der Polype z. B. hat keine Augen, und doch das feinste Gefühl vom Licht. Die Schmeisfliege riecht, und die Biene hört, ob wir gleich weder Nase noch Ohren an ihnen wahrnehmen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 31.
+
+Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen. Daß Gott in seiner Schöpfung keine Lücke gelassen hat, daß dieses unermeßliche Uhrwerk nirgend stockt, sondern im ununterbrochnen Gange, im beständigen Gleichgewicht erhalten wird, davon liegt der Grund wohl schwerlich darinne, weil der Orangoutang den Uebergang vom Menschen zum Affen machen, oder weil die Vögel durch die Fledermäuse mit den vierfüßigen Thieren, und durch die fliegenden Fische mit den Fischen verbunden seyn sollen sondern weil jedes erschaffne Wesen seine Bestimmung, und den zu dieser Bestimmung erfoderlichen Körperbau hat; weil kein zweckloses Geschöpf exsistirt, was nicht auch seinen Beytrag zur Vollkommenheit des Ganzen gäbe. Das machts, daß die Schöpfung ihren Gang geht und daß noch kein Weiser, irgend einer Zeit oder eines Volks, in ihr eine Lücke hat antreffen können.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Diese sehr faßliche Eintheilung der natürlichen Körper in organisirte und unorganisirte (§. 2.), und der organisirten wieder unter sich (§. 3.), ist nun der Grund der bekannten drey Reiche, worein man alle Naturalien sehr schicklich classificirt hat, und wovon das erste die Thiere, das zweyte die Pflanzen, das dritte die Mineralien begreift. Die Thiere sind, nach dem was oben gesagt worden, organisirte Körper, die erstens willkührliche Bewegung besitzen und zweytens ihre Alimente durch den Mund in den Magen bringen, wo der nahrhafteste Extract davon abgesondert und zur Nutrition verwandt wird. Die Pflanzen sind zwar ebenfalls organisirte Körper, denen aber die willkührliche Bewegung gänzlich mangelt, und die zweytens ihren Nahrungssaft durch Wurzeln einsaugen, nicht so wie die Thiere ihre Speisen durch eine besondere einfache Oefnung zu sich nehmen Die Mineralien endlich sind unorganisirte Körper, die blos dadurch entstehen, daß einfache Theile durch Ansatz von aussen zusammen gehäuft, und mit einander verbunden werden ohne daß sie die mindste Nahrung, weder durch einen Mund wie die Thiere, noch durch Wurzeln wie die Pflanzen, in sich bringen, und so ihr Wachsthum durch innige Aneignung bewirken könnten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 4.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:32:46.347205   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+In what context, if at all, is spirituality, religion, soul etc. mentioned?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Spirituality, religion, and soul are mentioned in the context of different theories regarding the development of organisms. The text discusses the theories of Epigenesis and Evolution, as well as the beliefs of Spiritualists who see the soul as the builder of the body. Büffon and Casp. Fr. Wolff are mentioned in relation to these theories. Additionally, the text mentions the idea that each created being has its own purpose and contributes to the overall perfection of creation, highlighting the belief in a divine plan and purpose in nature.
+
+COMMENT: Previously, the model claimed that these topics are not mentioned
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Der Mensch hat überhaupt wenig Instinct Kunsttriebe aber gar nicht: was ihn hingegen reichlich dafür entschädigt, ist der Gebrauch der Vernunft, die ihm allein ausschließlich, und durchaus keinem andern Thiere zukommt. Er hat keinen bestimmten Wohnplatz, sondern die ganze Erde, in Norden und Süden und unter jedem Meridian, ist ihm zum Aufenthalt angewiesen; die Verschiedenheit des Clima und der Lebensart erregt in ihm eben so verschiedne Bedürfnisse, die nicht auf einerley Weise befriedigt werden können; und ein einförmiger Kunsttrieb würde folglich ein sehr unbrauchbares Geschenk für ihn gewesen seyn: da er hingegen durch Reflexion die individuellen Bedürfnisse auf mannichfaltige und schickliche Weise zu stillen vermag.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 37.
+
+Aber alles dies herzlich gerne zugegeben, dürfen doch die Leitern und Ketten, der guten Sache der bestimmten Naturreiche, und der Classification der Naturalien, bey weitem keinen Eintrag thun Die passendste Allegorie kann matt werden, kann in eine Spielerey ausarten, wenn sie zu weit getrieben wird. Und das ist in der That bey den eben angeführten zu befürchten. Es ist unterhaltend, es ist, wie wir so eben selbst gesagt haben, nutzbar, wenn der Naturforscher die Creaturen nach ihrer nächsten Verwandschaft unter einander ordnet, an einander kettet u. s. w Aber es scheint uns von der andern Seite eine schwache, und der Allweisheit des Schöpfers unanständige Behauptung, wenn man im Ernste annehmen wollte, daß auch Er bey der Schöpfung einen solchen allegorischen Plan befolgt, und die Vollkommenheit seiner großen Handlung darein gesetzt hätte, daß er seinen Creaturen alle ersinnliche Formen gäbe, und sie folglich vom obersten bis zum untersten ganz regelmäßig stufenweis auf einander folgen liesse. Man würde lächeln, wenn jemand den Vorzug bey der Einrichtung eines Hauses darinn suchte, daß die Meublen darinne alle von verschiedner Gestalt oder Größe wären, und sich auch, so wie die angebliche Kette der natürlichen Körper, unter eine gleiche Stufenfolge bringen liessen. Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr. Wolff hat zu seinem scharfsinnigen System eine gewisse vis essentialis aufgenommen der er diese allmählige Ausbildung überträgt u s. w. Die Theorie der Evolution hingegen nimmt an, daß in dem rohen Urstoff nicht erst ein Theil nach dem andern gebildet werde, sondern, daß derselbe den ganzen Keim, den völligen Entwurf des organisirten Körpers in sich fasse, daß folglich alle Keime der organisirten Körper in ihren Vorfahren bis zur ersten Schöpfung hinauf gleichsam eingeschachtelt, und in einen unthätigen Schlaf versenkt gelegen hätten und daß diese Keime bey der Befruchtung durch den Reiz des männlichen Saamens nur ermuntert, und so zu ihrer fernern Entwickelung angetrieben würden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Die Ausbildung dieses Grundstoffs zu erklären, ist man zwey Wege eingeschlagen, die beyde von sehr großen Männern betreten worden sind, deren jeder den seinigen zu verfechten und die Richtigkeit des andern zu bestreiten, getrachtet hat. Diese Wege sind die, in der neuern Philosophie so berühmt gewordnen, Theorien der Epigenese und der Evolution. Die Epigenese lehrt, daß der rohe Grundstoff (§. 10.) 
+nach der Empfängnis oder Befruchtung allmählig ausgebildet, und ein Theil des organisirten Körpers nach dem andern geformt würde Diese allmählige Bildung wahrscheinlich zu machen, haben ihre Anhänger allerhand Kräfte angenommen, die dieses Geschäfte bewürken sollten. Die Spiritualisten haben die Seele zum Baumeister ihres Körpers machen wollen, Büffon hat sich innere Modelle im alten organisirten Körper ersonnen, von welchen der Grundstoff des neuen, Abdrücke nehmen sollte; Herr Casp. Fr.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 11.
+
+Ausser dem Einfluß, den die Nerven auf die Muskelbewegung haben, ist ihr zweytes Geschäft, auch die äussern Eindrücke auf den thierischen Körper, der Seele durch die Sinne mitzutheilen. Die Art der sinnlichen Empfindung und die Beschaffenheit der Sinnwerkzeuge ist bey den Thieren sehr verschieden. Viele Thiere erhalten offenbar allerhand sinnliche Eindrücke ohne daß wir doch die Organe an ihnen entdecken könnten, die bey andern zu solchen Eindrücken nothwendig sind. Der Polype z. B. hat keine Augen, und doch das feinste Gefühl vom Licht. Die Schmeisfliege riecht, und die Biene hört, ob wir gleich weder Nase noch Ohren an ihnen wahrnehmen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 31.
+
+Die Vollkommenheit in der große Haushaltung der Mutter-Natur ist, so wie bey der kleinsten Oekonomie einer Familie, in ganz andern Vorzügen zu suchen. Daß Gott in seiner Schöpfung keine Lücke gelassen hat, daß dieses unermeßliche Uhrwerk nirgend stockt, sondern im ununterbrochnen Gange, im beständigen Gleichgewicht erhalten wird, davon liegt der Grund wohl schwerlich darinne, weil der Orangoutang den Uebergang vom Menschen zum Affen machen, oder weil die Vögel durch die Fledermäuse mit den vierfüßigen Thieren, und durch die fliegenden Fische mit den Fischen verbunden seyn sollen sondern weil jedes erschaffne Wesen seine Bestimmung, und den zu dieser Bestimmung erfoderlichen Körperbau hat; weil kein zweckloses Geschöpf exsistirt, was nicht auch seinen Beytrag zur Vollkommenheit des Ganzen gäbe. Das machts, daß die Schöpfung ihren Gang geht und daß noch kein Weiser, irgend einer Zeit oder eines Volks, in ihr eine Lücke hat antreffen können.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 7.
+
+Diese sehr faßliche Eintheilung der natürlichen Körper in organisirte und unorganisirte (§. 2.), und der organisirten wieder unter sich (§. 3.), ist nun der Grund der bekannten drey Reiche, worein man alle Naturalien sehr schicklich classificirt hat, und wovon das erste die Thiere, das zweyte die Pflanzen, das dritte die Mineralien begreift. Die Thiere sind, nach dem was oben gesagt worden, organisirte Körper, die erstens willkührliche Bewegung besitzen und zweytens ihre Alimente durch den Mund in den Magen bringen, wo der nahrhafteste Extract davon abgesondert und zur Nutrition verwandt wird. Die Pflanzen sind zwar ebenfalls organisirte Körper, denen aber die willkührliche Bewegung gänzlich mangelt, und die zweytens ihren Nahrungssaft durch Wurzeln einsaugen, nicht so wie die Thiere ihre Speisen durch eine besondere einfache Oefnung zu sich nehmen Die Mineralien endlich sind unorganisirte Körper, die blos dadurch entstehen, daß einfache Theile durch Ansatz von aussen zusammen gehäuft, und mit einander verbunden werden ohne daß sie die mindste Nahrung, weder durch einen Mund wie die Thiere, noch durch Wurzeln wie die Pflanzen, in sich bringen, und so ihr Wachsthum durch innige Aneignung bewirken könnten.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 4.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:37:34.401424   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Why is the skin of some people black?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The source does not provide a clear explanation as to why the skin of some people is black.
+
+COMMENT: In fact, the answer is in the second of the retrieved documents
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Manche sind mit Gift als Waffen, und der Blackfisch mit seiner Dinte als Vertheidigungsmittel versehn. Viele werden auch durch ihr zähes Leben, oder durch ihre auserordentliche Reproductionskraft, die in keiner andern Thier-
+Classe so überaus wunderbar ist, für feindliche Gewaltthätigkeiten geschützt: und einige besitzen eine Art von Reviviscenz, wodurch sie gewissermasen unzerstörbar scheinen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 165.
+
+Die übrigen Ursachen der Degeneration würken zwar langsam, aber kräftig. Wir rechnen dahin Einfluß des Himmelsstrichs, der Lebensart, der Nahrungsmittel u. s. w. Kaltes Klima unterdrückt das Wachsthum der organisirten K. und bringt auch weiße Farbe an ihnen hervor. Drum sind die Patagonier groß, die Grönländer klein; die Neger schwarz, die Deutschen weiß u.s.f. Was aber Lebensart, Cultur und Nahrung vermöge, davon sehn wir an unsern Hausthieren, und an den Pflanzen die in unsern Gärten künstlicher Pflege bedürfen, augenscheinliche Beyspiele.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 21.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Die Würmer werden dadurch dem Menschen mittelbar oder unmittelbar nutzbar, daß sie wie der Regenwurm die Erde locker halten oder wie der Fadenwurm den Thon durchboren, und dadurch dem Wasser Durchgang verschaffen. Ferner sind viele, zumal unter den Conchylien, eßbar. Von einigen Murexarten wurde ehedem mehr als jetzt eine grünlich rothe Farbe (wie Weinbeeren) der Purpur der Alten genommen. Aus dem Safte der Blackfische kan Dinte bereitet werden. Der Barth der Steckmuschel giebt eine braune Seide, die zu Kleidungsstücken verarbeitet wird. Mehrere Muschelarten führen Perlen. Verschiedne Schneckgen cursiren bey einigen wilden Völkern statt Geldes. Die Mahlermuschel, Perlenmutter, das eigentlich sogenannte rothe Corall, und die grosse beinartige Schuppe des Blackfisches
+(os sepiae) werden von Künstlern benutzt Der Badeschwamm hat mancherley häuslichen Gebrauch. Die Blutigel endlich sind ein überaus wichtiges Genesmittel.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 167.
+
+Für den Nachstellungen ihrer Feinde sind einige Insecten, wie z. B. die Spanuraupen durch ihre tauschende Gestalt, andere dadurch, daß sie einerley Farbe mit den Gewächsen haben, worauf sie leben, und folglich weniger darauf abstechen, nicht so leicht bemerkt werden können; andere durch den Gestank, den sie im Nothfall verbreiten können, andere durch die Macht des gesellschaftlichen Lebens (§. 34.) 
+und noch andre durch ihre bewunderungswürdige Stärke (§. 29.) gesichert. Manche sind gar mit Waffen, z. B. mit Hörnern wie Kneipzangen, oder mit Stachel und Gift versehen oder sie sind wie die sogenannten Bärraupen mit Hären besetzt, die wie Nesseln empfindlich in die Haut stechen, wenn man sie fassen will oder sie können auch, wie manche Weidenraupen, einen äuserst scharfen ätzenden Saft in ziemlicher Entfernung auf ihre Verfolger sprützen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 142.
+
+7. coluber. Scuta abdominalia, squamae subcaudales. 
+1. Vipera. ♂ Die Viper. C. scutis 118. squamis 22. *. 
+Ist in Aegypten zu Hause, und wird zu Arzney verbraucht. 
+2. Cerastes. Die gehörnte Schlange. C scutis 145. squamis 44 Ellis philos. Trans. Vol. LVI. tab. XIV Hat gleiches Vaterland mit der Viper. 
+3. † Berus. ♂ C. scutis 146. squamis 39. * 
+Variirt in Her Farbe, die zuweilen silbergrau zuweilen schwärzlich ist. Ihr Biß ist nicht leicht tödtlich, verursacht aber heftige und schnelle Entzündung, Fieber, Schlaflosigkeit ꝛc. 
+4. † Chersea. ♂ C. scutis 150. squamis 43. * 
+Von rothbrauner Farbe. Gefärlicher als die vorige. 
+5. † Natrix. Die Natter. C. scutis 170 squamis. 60 Hat zu beiden Seiten des Halses einen weissen Fleck. Hält sich gern in Viehställen auf, und legt ihre Eyer in Mistgruben. 
+6. Naja. Die Brillenschlange. ♂ C. scutis
+193. squamis 60. * 
+Ist in Ostindien zu Hause. Die Haut am Halse ist wie ein Kragen weit ausgedehnt, und hinten mit einer Brillenänlichen Figur bezeichnet Ist die allergiftigste Schlange, wird aber doch vom Ichneumon (Viverra ichm.) ohne Schaden gefressen. 
+8. anguis. Squamae abdominales et subcaudales. 
+1. † Fragilis. Die Blindschleiche. A. squ abd. 135. totidemque subcaud. * 
+Hält sich in dumpfigen Gegenden, in alten Kellern ꝛc. auf: bricht leicht entzwey, wenn man sie anfaßt, und die Stücke bewegen sich doch noch Stunden lang. Die Alten wollten auch diesem Thier, so wie dem Maulwurf die Augen absprechen. 
+9. amphisbaena.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Wir haben hie warmblütigen Thiere nunmehr absolvirt, und gehen zu den kaltblütigen über von denen die in den beiden nächsten Classen nemlich die Amphibien und Fische, ebenfalls rothes Blut haben, was sich blos durch seine Kälte vom Blut der Säugthiere und Vögel auszeichnet. (§. 40) Dahingegen die Insecten und Würmer nur einen weissen Saft in ihrem Körper füren, der kaum noch den Namen von Blut verdient.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 92.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:40:24.767224   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+What is the suggested reason why the skin of some people is black?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The suggested reason why the skin of some people is black is not provided in the source text.
+
+COMMENT: In fact, the answer is in the first retrieved document.
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die übrigen Ursachen der Degeneration würken zwar langsam, aber kräftig. Wir rechnen dahin Einfluß des Himmelsstrichs, der Lebensart, der Nahrungsmittel u. s. w. Kaltes Klima unterdrückt das Wachsthum der organisirten K. und bringt auch weiße Farbe an ihnen hervor. Drum sind die Patagonier groß, die Grönländer klein; die Neger schwarz, die Deutschen weiß u.s.f. Was aber Lebensart, Cultur und Nahrung vermöge, davon sehn wir an unsern Hausthieren, und an den Pflanzen die in unsern Gärten künstlicher Pflege bedürfen, augenscheinliche Beyspiele.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 21.
+
+Manche sind mit Gift als Waffen, und der Blackfisch mit seiner Dinte als Vertheidigungsmittel versehn. Viele werden auch durch ihr zähes Leben, oder durch ihre auserordentliche Reproductionskraft, die in keiner andern Thier-
+Classe so überaus wunderbar ist, für feindliche Gewaltthätigkeiten geschützt: und einige besitzen eine Art von Reviviscenz, wodurch sie gewissermasen unzerstörbar scheinen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 165.
+
+Die Würmer werden dadurch dem Menschen mittelbar oder unmittelbar nutzbar, daß sie wie der Regenwurm die Erde locker halten oder wie der Fadenwurm den Thon durchboren, und dadurch dem Wasser Durchgang verschaffen. Ferner sind viele, zumal unter den Conchylien, eßbar. Von einigen Murexarten wurde ehedem mehr als jetzt eine grünlich rothe Farbe (wie Weinbeeren) der Purpur der Alten genommen. Aus dem Safte der Blackfische kan Dinte bereitet werden. Der Barth der Steckmuschel giebt eine braune Seide, die zu Kleidungsstücken verarbeitet wird. Mehrere Muschelarten führen Perlen. Verschiedne Schneckgen cursiren bey einigen wilden Völkern statt Geldes. Die Mahlermuschel, Perlenmutter, das eigentlich sogenannte rothe Corall, und die grosse beinartige Schuppe des Blackfisches
+(os sepiae) werden von Künstlern benutzt Der Badeschwamm hat mancherley häuslichen Gebrauch. Die Blutigel endlich sind ein überaus wichtiges Genesmittel.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 167.
+
+Sie finden sich nie ganz rein, sondern erhalten die leztgenannte Eigenschaft von einem besondern Grundtheil in ihrer einfachern oder zusammengeseztern Mischung, den man das Phlogiston, das brennbare Wesen nennt, dessen Daseyn aus seinen Erscheinungen offenbar erhellt, obschon seine Natur, so wie überhaupt der Ursprung der mehrsten Erdharze noch nicht sattsam untersucht und entdeckt ist. Manche geben schon an und für sich, andre erst wann sie angebrannt werden, einen specifiken Geruch von sich.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 239.
+
+Endlich sind nun auch die organisirten Körper selbst, theils in der Art wie sie ihre Nahrungsmittel zu sich nehmen, theils in Rücksicht ihrer Bewegung, sehr augenscheinlich verschieden Manche ziehen einen bloßen Saft durch zahlreiche kleine Oefnungen, die sich an einem Ende ihres Körpers befinden, in sich: da hingegen andere eine einfache, aber nach Proportion grössere Oefnung an sich haben, die zu einem geräumlichen Schlauche führt, wohin sie ihre Alimente, die von sehr verschiedner Art sind, bringen die aber alsdann erst noch vielerley Veränderung erleiden müssen, ehe sie zur Nutrition geschickt werden. Diese letztern äussern zudem noch willkürliche oder eigenthümliche Bewegung ihrer Gliedmaßen, die den erstern völlig mangelt. Jenes sind die Pflanzen, dieses die Thiere.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 3.
+
+Ein äuserst merkwürdiges Phänomen, was fast blos dieser Thierclasse eigen ist, sich wenigstens in den andern (§. 105.), doch bey weitem nicht so auffallend interessant zeigt, ist ihre Metamorphose. Die wenigsten Insecten behalten nemlich die gleiche Gestalt, in der sie zuerst ans Licht gekommen sind, ihr ganzes übriges Leben hindurch, sondern sie verwandeln sich gröstentheils zu wiederholten malen in bestimmten Epochen ihres Lebens, und erscheinen während dieser Austritte oft in so sehr verschiednen Gestalten, daß man nur erst neuerlich, nach sehr sorgfältigen Untersuchungen, die bleibenden Spuren des gleichen Geschöpfs unter so mancherley Verwandlungen, und den allmähligen Uebergang der einen in die andere hat auffinden können.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 146.
+
+Für den Nachstellungen ihrer Feinde sind einige Insecten, wie z. B. die Spanuraupen durch ihre tauschende Gestalt, andere dadurch, daß sie einerley Farbe mit den Gewächsen haben, worauf sie leben, und folglich weniger darauf abstechen, nicht so leicht bemerkt werden können; andere durch den Gestank, den sie im Nothfall verbreiten können, andere durch die Macht des gesellschaftlichen Lebens (§. 34.) 
+und noch andre durch ihre bewunderungswürdige Stärke (§. 29.) gesichert. Manche sind gar mit Waffen, z. B. mit Hörnern wie Kneipzangen, oder mit Stachel und Gift versehen oder sie sind wie die sogenannten Bärraupen mit Hären besetzt, die wie Nesseln empfindlich in die Haut stechen, wenn man sie fassen will oder sie können auch, wie manche Weidenraupen, einen äuserst scharfen ätzenden Saft in ziemlicher Entfernung auf ihre Verfolger sprützen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 142.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:43:28.294641   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history. If the SOURCE doesn't contain sufficient information, say that you don't know the ANSWER.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Does climate influence the color of human skin?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The SOURCE does not contain information on whether climate influences the color of human skin.
+
+COMMENT: In fact, the answer is contained in the first retrieved document
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die übrigen Ursachen der Degeneration würken zwar langsam, aber kräftig. Wir rechnen dahin Einfluß des Himmelsstrichs, der Lebensart, der Nahrungsmittel u. s. w. Kaltes Klima unterdrückt das Wachsthum der organisirten K. und bringt auch weiße Farbe an ihnen hervor. Drum sind die Patagonier groß, die Grönländer klein; die Neger schwarz, die Deutschen weiß u.s.f. Was aber Lebensart, Cultur und Nahrung vermöge, davon sehn wir an unsern Hausthieren, und an den Pflanzen die in unsern Gärten künstlicher Pflege bedürfen, augenscheinliche Beyspiele.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 21.
+
+Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.) meist weiß: doch kann die gleiche Anomalie auch durch eine Krankheit, die mit der weissen Mohren ihrer viel Aehnlichkeit hat, bewirkt werden. Bey manchen ändert sich die Farbe nach der Jahrszeit wie beym Hasen, Eichhörnchen, Wiesel ꝛc und einige wechseln gar ihre Haare, und mausen sich gleichsam wie die Vögel: so das Caninchen von Angora, der Bison u. a.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+So alle die Hügel und Thäler und Sümpfe ꝛc die man jetzt zwischen Rom und Terracina Berg
+
+ C. de choiseul voy. pittoresque de la Grece. tab XIII. XIV. S. 21. u. f auf, Berg ein und krum herum passiren muß wo ehedem die via Appia fast schnurgerade und wasserpaß lief. §. 225 Ganz anders sind die Veränderungen des Erdbodens die durch Sündfluthen und Ueberschwemmungen verursacht werden. Die wilden Wasser reissen alles durch einander und mit sich fort, weichen den Boden auf, und so wie sie sich allgemach wieder verlaufen, so setzt sich der Schlamm und mit ihm die zerstörten durch einander geschwemmten modernden Theile von Thieren und Pflanzen, wie man das an den jährlichen Ueberschwemmungen des Nils, des Oronocko, oder des Amazonen Flusses, und im kleinen an jeder unter Wasser gesetzten Wiese
+ꝛc. sehen kann. Und doch war eine Zeit, da man die Petrefacten von der Sündfluth herleitete! Ehe könnten vielleicht manche Steinarten z. B. Bänder Jaspis, der zuweilen wie blos verhärteter Schlamm aussieht, aber wol nie eine Spur von einer Versteinerung enthalten wird, Urkunden der Sündfluth abgeben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 224.
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen. Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc. sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 63.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Die natürliche Farbe des Chamäleons ist stahlgrau, zuweilen wird es aber gelb, schwarz, auch gefleckt ꝛc. und das zwar ohne alle Beziehung auf die Farbe der benachbarten Gegenstände, sondern theils von freyen Stücken, am sichtbarsten aber wenn das Thier gereizt und bös gemacht wird. Am füglichsten kan man dieses Phänomen auf Rechnung der Galle schreiben, und es mit der Gelbsucht vergleichen. 
+6. Gecko. L. cauda tereti mediocri, digitis muticis subtus lamellatis, corpore verrucoso, auribus concavis. * 
+Der Gecko hat meist das gleiche Vaterland mit dem Chamäleon, und ist auch hin und wieder im südlichen Europa, z. B. im Neapolitanischen einheimisch. Am häufigsten findet er sich in Aegypten, zumal bey Cairo, wo er sich gern in die Häuser zieht und oft gefärlich wird. Er hat nemlich einen giftigen Saft zwischen seinen blättrichten Fuszehen, der sich den Eßwaren, wo das Thier drüber wegläuft, mittheilt: deren Genuß nachher die gefährlichsten und fast tödtlichen Coliken nach sich zieht. Die Aegypter nennen ihn den Aussatzvater, weil sie glauben, daß er diese Krankheit in die Häuser bringe; oder mehr wol der Aenlichkeit wegen, die seine knospichte Haut mit dem Aussatz jener Gegenden hat. Er hält sich oft blos auf den Vorderfüssen, indem er den Hinterleib in die Höhe richtet; und ist wol der ware Stellio und Saurus der Alten. 7. Stincus. L. cauda tereti mediocri, apice compressa, digitis muticis lobato-squamosis marginatis. *
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Aller der unter unfern Augen entstehenden unmittelbaren Vulcanischen Producte, der Verglasungen, Laven ꝛc. zu geschweigen, die noch täglich durch würklich brennende Feuerspeyende Bergehervorgebracht werden, so muß auch das ungleich weiter verbreitete verdeckte unterirdische Feuert sehr viele theils unbemerkte Veränderungen bewürken, die doch zum Theil mit der oben angenommenen allgemeinen Erdcatastrophe die größte Aehnlichkeit zeigen. So die schleunige Entstehung neuer Berge wie z. B. des Monte nuovo bey Pozzuolo, der im September 1538 binnen 48 Stunden zu einer Höhe von 2400 F. empor getrieben ward. Oder Boden des Meers, der durchs Feuer bis über die Oberfläche des Meers hinaus gehoben, zu neuen Inseln umgeschaffen wird. Wie ehedem Hiera, Thia und andere Inseln des Archipelagus, und noch zuletzt im Junius 1707 eine kleinere Insel in der Nachbarschaft von Santorini (Thera der Alten.) So alle die Hügel und Thäler und Sümpfe ꝛc die man jetzt zwischen Rom und Terracina Berg
+
+ C. de choiseul voy. pittoresque de la Grece. tab XIII. XIV. S. 21. u. f auf, Berg ein und krum herum passiren muß wo ehedem die via Appia fast schnurgerade und wasserpaß lief. §. 225 Ganz anders sind die Veränderungen des Erdbodens die durch Sündfluthen und Ueberschwemmungen verursacht werden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 224.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:45:51.403252   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Does climate influence the color of human skin?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+Yes, climate does influence the color of human skin, as mentioned in the source. The text states that cold climates suppress the growth of organized beings and bring out a white color in them. This is exemplified by the Patagonians being tall, Greenlanders being small, Africans being black, and Germans being white. The variation in skin color is attributed to factors such as climate, lifestyle, diet, and other influences.
+
+COMMENT: Removed annotation to restrain from answering if the source doesn't provide enough information
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Die übrigen Ursachen der Degeneration würken zwar langsam, aber kräftig. Wir rechnen dahin Einfluß des Himmelsstrichs, der Lebensart, der Nahrungsmittel u. s. w. Kaltes Klima unterdrückt das Wachsthum der organisirten K. und bringt auch weiße Farbe an ihnen hervor. Drum sind die Patagonier groß, die Grönländer klein; die Neger schwarz, die Deutschen weiß u.s.f. Was aber Lebensart, Cultur und Nahrung vermöge, davon sehn wir an unsern Hausthieren, und an den Pflanzen die in unsern Gärten künstlicher Pflege bedürfen, augenscheinliche Beyspiele.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 21.
+
+Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.) meist weiß: doch kann die gleiche Anomalie auch durch eine Krankheit, die mit der weissen Mohren ihrer viel Aehnlichkeit hat, bewirkt werden. Bey manchen ändert sich die Farbe nach der Jahrszeit wie beym Hasen, Eichhörnchen, Wiesel ꝛc und einige wechseln gar ihre Haare, und mausen sich gleichsam wie die Vögel: so das Caninchen von Angora, der Bison u. a.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+So alle die Hügel und Thäler und Sümpfe ꝛc die man jetzt zwischen Rom und Terracina Berg
+
+ C. de choiseul voy. pittoresque de la Grece. tab XIII. XIV. S. 21. u. f auf, Berg ein und krum herum passiren muß wo ehedem die via Appia fast schnurgerade und wasserpaß lief. §. 225 Ganz anders sind die Veränderungen des Erdbodens die durch Sündfluthen und Ueberschwemmungen verursacht werden. Die wilden Wasser reissen alles durch einander und mit sich fort, weichen den Boden auf, und so wie sie sich allgemach wieder verlaufen, so setzt sich der Schlamm und mit ihm die zerstörten durch einander geschwemmten modernden Theile von Thieren und Pflanzen, wie man das an den jährlichen Ueberschwemmungen des Nils, des Oronocko, oder des Amazonen Flusses, und im kleinen an jeder unter Wasser gesetzten Wiese
+ꝛc. sehen kann. Und doch war eine Zeit, da man die Petrefacten von der Sündfluth herleitete! Ehe könnten vielleicht manche Steinarten z. B. Bänder Jaspis, der zuweilen wie blos verhärteter Schlamm aussieht, aber wol nie eine Spur von einer Versteinerung enthalten wird, Urkunden der Sündfluth abgeben.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 224.
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen. Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc. sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 63.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Die natürliche Farbe des Chamäleons ist stahlgrau, zuweilen wird es aber gelb, schwarz, auch gefleckt ꝛc. und das zwar ohne alle Beziehung auf die Farbe der benachbarten Gegenstände, sondern theils von freyen Stücken, am sichtbarsten aber wenn das Thier gereizt und bös gemacht wird. Am füglichsten kan man dieses Phänomen auf Rechnung der Galle schreiben, und es mit der Gelbsucht vergleichen. 
+6. Gecko. L. cauda tereti mediocri, digitis muticis subtus lamellatis, corpore verrucoso, auribus concavis. * 
+Der Gecko hat meist das gleiche Vaterland mit dem Chamäleon, und ist auch hin und wieder im südlichen Europa, z. B. im Neapolitanischen einheimisch. Am häufigsten findet er sich in Aegypten, zumal bey Cairo, wo er sich gern in die Häuser zieht und oft gefärlich wird. Er hat nemlich einen giftigen Saft zwischen seinen blättrichten Fuszehen, der sich den Eßwaren, wo das Thier drüber wegläuft, mittheilt: deren Genuß nachher die gefährlichsten und fast tödtlichen Coliken nach sich zieht. Die Aegypter nennen ihn den Aussatzvater, weil sie glauben, daß er diese Krankheit in die Häuser bringe; oder mehr wol der Aenlichkeit wegen, die seine knospichte Haut mit dem Aussatz jener Gegenden hat. Er hält sich oft blos auf den Vorderfüssen, indem er den Hinterleib in die Höhe richtet; und ist wol der ware Stellio und Saurus der Alten. 7. Stincus. L. cauda tereti mediocri, apice compressa, digitis muticis lobato-squamosis marginatis. *
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Aller der unter unfern Augen entstehenden unmittelbaren Vulcanischen Producte, der Verglasungen, Laven ꝛc. zu geschweigen, die noch täglich durch würklich brennende Feuerspeyende Bergehervorgebracht werden, so muß auch das ungleich weiter verbreitete verdeckte unterirdische Feuert sehr viele theils unbemerkte Veränderungen bewürken, die doch zum Theil mit der oben angenommenen allgemeinen Erdcatastrophe die größte Aehnlichkeit zeigen. So die schleunige Entstehung neuer Berge wie z. B. des Monte nuovo bey Pozzuolo, der im September 1538 binnen 48 Stunden zu einer Höhe von 2400 F. empor getrieben ward. Oder Boden des Meers, der durchs Feuer bis über die Oberfläche des Meers hinaus gehoben, zu neuen Inseln umgeschaffen wird. Wie ehedem Hiera, Thia und andere Inseln des Archipelagus, und noch zuletzt im Junius 1707 eine kleinere Insel in der Nachbarschaft von Santorini (Thera der Alten.) So alle die Hügel und Thäler und Sümpfe ꝛc die man jetzt zwischen Rom und Terracina Berg
+
+ C. de choiseul voy. pittoresque de la Grece. tab XIII. XIV. S. 21. u. f auf, Berg ein und krum herum passiren muß wo ehedem die via Appia fast schnurgerade und wasserpaß lief. §. 225 Ganz anders sind die Veränderungen des Erdbodens die durch Sündfluthen und Ueberschwemmungen verursacht werden.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1780), §. 224.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 19:49:34.715646   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+Why is the skin of some people black?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The skin color of some people is black due to various factors, including the influence of climate, lifestyle, and diet. The text mentions that cold climates suppress the growth of organized beings and can bring out a white color in them. This is why, for example, the Patagonians are tall, the Greenlanders are small, the Negroes are black, and the Germans are white. Additionally, the text discusses how factors such as lifestyle, culture, and diet can affect the appearance of animals and plants, providing examples from domesticated animals and garden plants. Ultimately, the text suggests that the color of skin, hair, and fur can vary greatly within species and is influenced by a combination of genetic and environmental factors.
+
+COMMENT: Removed information to restrain from answering
+
+RETRIEVED DOCUMENTS (db_1500_without_register):
+Manche sind mit Gift als Waffen, und der Blackfisch mit seiner Dinte als Vertheidigungsmittel versehn. Viele werden auch durch ihr zähes Leben, oder durch ihre auserordentliche Reproductionskraft, die in keiner andern Thier-
+Classe so überaus wunderbar ist, für feindliche Gewaltthätigkeiten geschützt: und einige besitzen eine Art von Reviviscenz, wodurch sie gewissermasen unzerstörbar scheinen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 165.
+
+Die übrigen Ursachen der Degeneration würken zwar langsam, aber kräftig. Wir rechnen dahin Einfluß des Himmelsstrichs, der Lebensart, der Nahrungsmittel u. s. w. Kaltes Klima unterdrückt das Wachsthum der organisirten K. und bringt auch weiße Farbe an ihnen hervor. Drum sind die Patagonier groß, die Grönländer klein; die Neger schwarz, die Deutschen weiß u.s.f. Was aber Lebensart, Cultur und Nahrung vermöge, davon sehn wir an unsern Hausthieren, und an den Pflanzen die in unsern Gärten künstlicher Pflege bedürfen, augenscheinliche Beyspiele.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 21.
+
+Die mehresten Säugethiere haben einen behaarten Körper; einige aber, wie z. B. die Wallfische, sind unbehaart. Diejenigen, die mit andern Bedeckungen, wie die Igel- und Stachelschweine mit Stacheln, der Manis mit Schuppen, und der Armadill mit einem beinernen Panzer, versehen sind, haben doch wenigstens an einigen Theilen ihres Körpers, am Halse ꝛc. wirkliche Haare; so wie sich hingegen am Körper vieler Säugethiere oft einzelne kahle Stellen finden. Der Mensch ist fast gar nicht der Chimpanzee, der Elephant u. a. nur dünn behaart. Beym Menschen wächst dem männlichen Geschlechte in gewissen Jahren d-r Bart der hingegen den Frauenzimmern mangelt. Die Länge, Beschaffenheit und Farbe der Haare ist oft bey einer und eben derselben Gattung (z. E bey den Hunden) gar sehr verschieden: weiche gerollte Haare heissen Wolle, straffe hingegen Borsten. Wenn die Haare in conträrer Richtung einander entgegen laufen, so nennt man die erhabnen Streifen, wo sie sich begegnen, Näthe,
+(suturas), längeres Haar am Hals und Rücken aber Mähne (juba). Um die Lippen, und an einzeln Stellen des Gesichts, haben viele Säugethiere einzelne längere steifere Haare (mystaces und vibrissas). Die Farbe der Haare variirt zumal bey den Hausthieren aus dieser Classe, ungemein, doch ist sie beym Esel beständiger; die Haare der Nordischen Säugethiere sind, des kalten Clima wegen (§. 21.)
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 42.
+
+Die Würmer werden dadurch dem Menschen mittelbar oder unmittelbar nutzbar, daß sie wie der Regenwurm die Erde locker halten oder wie der Fadenwurm den Thon durchboren, und dadurch dem Wasser Durchgang verschaffen. Ferner sind viele, zumal unter den Conchylien, eßbar. Von einigen Murexarten wurde ehedem mehr als jetzt eine grünlich rothe Farbe (wie Weinbeeren) der Purpur der Alten genommen. Aus dem Safte der Blackfische kan Dinte bereitet werden. Der Barth der Steckmuschel giebt eine braune Seide, die zu Kleidungsstücken verarbeitet wird. Mehrere Muschelarten führen Perlen. Verschiedne Schneckgen cursiren bey einigen wilden Völkern statt Geldes. Die Mahlermuschel, Perlenmutter, das eigentlich sogenannte rothe Corall, und die grosse beinartige Schuppe des Blackfisches
+(os sepiae) werden von Künstlern benutzt Der Badeschwamm hat mancherley häuslichen Gebrauch. Die Blutigel endlich sind ein überaus wichtiges Genesmittel.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 167.
+
+Für den Nachstellungen ihrer Feinde sind einige Insecten, wie z. B. die Spanuraupen durch ihre tauschende Gestalt, andere dadurch, daß sie einerley Farbe mit den Gewächsen haben, worauf sie leben, und folglich weniger darauf abstechen, nicht so leicht bemerkt werden können; andere durch den Gestank, den sie im Nothfall verbreiten können, andere durch die Macht des gesellschaftlichen Lebens (§. 34.) 
+und noch andre durch ihre bewunderungswürdige Stärke (§. 29.) gesichert. Manche sind gar mit Waffen, z. B. mit Hörnern wie Kneipzangen, oder mit Stachel und Gift versehen oder sie sind wie die sogenannten Bärraupen mit Hären besetzt, die wie Nesseln empfindlich in die Haut stechen, wenn man sie fassen will oder sie können auch, wie manche Weidenraupen, einen äuserst scharfen ätzenden Saft in ziemlicher Entfernung auf ihre Verfolger sprützen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 142.
+
+7. coluber. Scuta abdominalia, squamae subcaudales. 
+1. Vipera. ♂ Die Viper. C. scutis 118. squamis 22. *. 
+Ist in Aegypten zu Hause, und wird zu Arzney verbraucht. 
+2. Cerastes. Die gehörnte Schlange. C scutis 145. squamis 44 Ellis philos. Trans. Vol. LVI. tab. XIV Hat gleiches Vaterland mit der Viper. 
+3. † Berus. ♂ C. scutis 146. squamis 39. * 
+Variirt in Her Farbe, die zuweilen silbergrau zuweilen schwärzlich ist. Ihr Biß ist nicht leicht tödtlich, verursacht aber heftige und schnelle Entzündung, Fieber, Schlaflosigkeit ꝛc. 
+4. † Chersea. ♂ C. scutis 150. squamis 43. * 
+Von rothbrauner Farbe. Gefärlicher als die vorige. 
+5. † Natrix. Die Natter. C. scutis 170 squamis. 60 Hat zu beiden Seiten des Halses einen weissen Fleck. Hält sich gern in Viehställen auf, und legt ihre Eyer in Mistgruben. 
+6. Naja. Die Brillenschlange. ♂ C. scutis
+193. squamis 60. * 
+Ist in Ostindien zu Hause. Die Haut am Halse ist wie ein Kragen weit ausgedehnt, und hinten mit einer Brillenänlichen Figur bezeichnet Ist die allergiftigste Schlange, wird aber doch vom Ichneumon (Viverra ichm.) ohne Schaden gefressen. 
+8. anguis. Squamae abdominales et subcaudales. 
+1. † Fragilis. Die Blindschleiche. A. squ abd. 135. totidemque subcaud. * 
+Hält sich in dumpfigen Gegenden, in alten Kellern ꝛc. auf: bricht leicht entzwey, wenn man sie anfaßt, und die Stücke bewegen sich doch noch Stunden lang. Die Alten wollten auch diesem Thier, so wie dem Maulwurf die Augen absprechen. 
+9. amphisbaena.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.
+
+Wir haben hie warmblütigen Thiere nunmehr absolvirt, und gehen zu den kaltblütigen über von denen die in den beiden nächsten Classen nemlich die Amphibien und Fische, ebenfalls rothes Blut haben, was sich blos durch seine Kälte vom Blut der Säugthiere und Vögel auszeichnet. (§. 40) Dahingegen die Insecten und Würmer nur einen weissen Saft in ihrem Körper füren, der kaum noch den Namen von Blut verdient.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 92.
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   NEW GENERATION 2024-04-11 20:00:12.157487   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TEMPLATE:
+You are a historian. Answer the QUESTION based on the SOURCE, which is an eighteen-century textbook on natural history.
+QUESTION: {question}
+SOURCE: {context}
+ANSWER: 
+
+QUESTION OR INSTRUCTION:
+What is said about human races?
+
+GENERATION (gpt-3.5-turbo, temperature = 0.2, max_tokens = 400):
+The source discusses human races in terms of physical characteristics and geographical distribution. It mentions five main varieties of the human race, including Europeans, Asians, North Africans, Greenlanders and Eskimos, and Australasians and Polynesians. The text also highlights the impact of climate, diet, and lifestyle on the physical appearance of different human populations. It emphasizes that all human beings belong to the same species and can trace their ancestry back to Adam. The source also touches on the social nature of humans, their dependence on culture and education for the development of reason and language, and their ability to domesticate and work with animals.
+
+COMMENT: 1st generation with inclusion of the register
+
+RETRIEVED DOCUMENTS (db_1500):
+Eine directe Folge der Vernunft, mithin ein abermaliges Eigenthum der Menschheit, ist die Rede oder Sprache (Loquela), die nicht mit der Stimme (vox) der Thiere verwechselt werden darf. Auch der Mensch hat Stimme, wie man an den unglücklichen Beyspielen in Wildniß aufgewachsener, oder taubgebohrner Kinder sieht, und wie die unwillkürlichen Töne aus beklemmter Brust, bey Schrecken und in andern heftigen Leidenschaften zeigen Die Sprache aber entwickelt sich erst mit der Vernunft, da denn die Seele ihre erlangten Begriffe, der Zunge zum Aussprechen überträgt. Es giebt eben so wenig ein sprachloses, als ein vernunftloses Volt auf unserer Erde, und wir haben nun die Wörterbücher der Eskimos, der Hottentotten und anderer Nationen, denen die leichtglaubigen Reisenden der alten Zeit die Rede abzusprechen wagten. Zu den körperlichen Eigenschaften des Menschen gehört vorzüglich sein aufrechter Gang und der Gebrauch zweyer Hände, wodurch er, unserm Bedünken nach, selbst vom Menschenähnlichsten Affen zu unterscheiden ist. Moscati's spashafter Ruf an die Menschheit, auf allen vieren zu laufen, wird bey einiger Kenntnis von Anatome comparata blos belächelt. Die breiten Fußsohlen sind zum Auftreten, die Hände zum Fassen und Greifen. Die Affen hingegen haben vier Hände nemlich keine grosse Zehe, sondern an den Hinterfüßen eben sowol einen abstehenden Daumen als an den vordern (§.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, I Ord. INERMIS.
+
+Er erreicht, in Rücksicht seiner mässigen Körpermasse, und in Vergleich mit andern Säugethieren, ein ausnehmend hohes Alter, was ihn für seine lange Kindheit entschädigt. Die Proportion in der Anzal der Menschen beyden Geschlechts, die unglücklichen Folgen der Vielweiberey ꝛc. erweisen die natürliche Bestimmung des Menschen zur Monogamie Es giebt nur eine Gattung im Menschengeschlecht; und die Menschen aller Zeiten und aller Himmelsstriche können von Adam abstammen Die Verschiedenheiten in Bildung und Farbe der menschlichen Körper werden blos durch Clima Nahrung, Lebensart u. s. w. bewirkt; da der Mensch kein Privilegium hat, warum er nicht auch, wie jeder andere organisirte Körper, (§. 21.) wie eine Taube oder wie eine Tulpe, ausarten sollte? So brennt die Sonnenhitze die Mohren schwarz, und macht sie kraushaarigt; so wie hingegen die Kälte in Nordischen Zonen weisse Farbe und kleine Statur hervorbringt. Alle diese Verschiedenheiten fliessen so unvermerkt zusammen, daß sich eigentlich keine bestimmte Grenzen zwischen ihnen fest setzen lassen; doch haben wir das ganze Menschengeschlecht am füglichsten unter folgende fünf Varietäten zu bringen geglaubt;
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, I Ord. INERMIS.
+
+Moscati's spashafter Ruf an die Menschheit, auf allen vieren zu laufen, wird bey einiger Kenntnis von Anatome comparata blos belächelt. Die breiten Fußsohlen sind zum Auftreten, die Hände zum Fassen und Greifen. Die Affen hingegen haben vier Hände nemlich keine grosse Zehe, sondern an den Hinterfüßen eben sowol einen abstehenden Daumen als an den vordern (§. 43); und daß nicht etwa unser Fuß nur durch den Gebrauch der Schuhe die Bildung und Fähigkeit der Hände verloren habe, wird durch die Beyspiele der barfussen Nationen, und des ungebornen Kindes, erweislich. Das Weibliche Geschlecht hat noch ein paar eigenthümliche Charaktere, die dem Männlichen und allen übrigen Thieren abgehen, nämlich einen periodischen Blutverlust in einer bestimmten Reihe von Lebensjahren; und dann ein körperliches Kennzeichen der unverlezten Jungfräulichen Unschuld, was blos seinen sittlichen Nutzen hat, und folglich für andre Thiere ein zweckloser Theil seyn würde. Der Mensch ist für sich ein wehrloses hülfbedürftiges Geschöpf. Kein andres Thier außer ihm ist so instinctlos, Keins bleibt so lange Kind Keins wird so sehr späte mannbar u. s. w. Selbst seine großen Vorzüge, Vernunft und Sprache sind nur Keime, die sich nicht von selbst, sondern erst durch fremde Hülfe, durch Kultur und Erziehung entwickeln können.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, I Ord. INERMIS.
+
+Die ursprüngliche und größte Raçe begreift erstens alle Europäer, die Lappen mit eingeschlossen, deren Bildung und Sprache ihre Finnische Abkunft verrätht, und die gar nichts so auszeichnendes haben, daß sie eine besondere Varietät ausmachen könnten: sodann die Asiaten, die disseits des Obi des Caspischen Meeres, des Gebürges Imaus und des Ganges, wohnen: ferner die Nordafrikaner: und endlich die Grönländer und Eskimos, die gänzlich von den übrigen Amerikanern verschieden sind, und wahrscheinlich auch von Finnen abstammen. Alle diese Völker sind mehrentheils von weisser Farbe, und nach unsern Begriffen von Schönheit die best gebildesten Menschen.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, I Ord. INERMIS., 1.
+
+Der Mensch ist für sich ein wehrloses hülfbedürftiges Geschöpf. Kein andres Thier außer ihm ist so instinctlos, Keins bleibt so lange Kind Keins wird so sehr späte mannbar u. s. w. Selbst seine großen Vorzüge, Vernunft und Sprache sind nur Keime, die sich nicht von selbst, sondern erst durch fremde Hülfe, durch Kultur und Erziehung entwickeln können. Diese natürliche Blösse von der einen Seite, und die vielfachen Bedürfnisse von der andern, machen den Menschen zum geselligen Thiere, so daß Hobbes den blossen Nothzwang für die einzige Triebfeder annehmen durfte, wodurch der Mensch, so wie die Bienen und Ameisen durch ihren Instinct, zur socialen Verbindung gedrungen würde. Der Aufenthalt und die Nahrung des Menschen sind beide unbeschränkt; er bewohnt die ganze Erde, und nährt sich beynabe von der ganzen organisirten Schöpfung. Er erreicht, in Rücksicht seiner mässigen Körpermasse, und in Vergleich mit andern Säugethieren, ein ausnehmend hohes Alter, was ihn für seine lange Kindheit entschädigt. Die Proportion in der Anzal der Menschen beyden Geschlechts, die unglücklichen Folgen der Vielweiberey ꝛc.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, I Ord. INERMIS.
+
+Die Australasiaten und Polynesen; oder die Südländer des fünften Welttheils; dazu man auch wol die Bewohner der Sundaischen Inseln, der Molucken, Philippinen u. s. w. zälen könnte. Sie sind meist schwarzbraun, breitnasicht, und starkbehaart Die Patagonischen Riesen sind, von Magelhans Zeiten bis auf die unsrigen, in den Erzälungen der Reisenden, von zwölf Fus zu sechs bis siebenthalb eingekrochen, und bleiben also nicht größer und nicht kleiner als jeder andre ehrliche Mensch von guter Statur. Commersons Quimos und andre Zwergnationen werden in dem Maas wachsen, wie die Patagonen an Länge abgenommen haben. Die Rackerlacken, Blafards, Albinos oder weiße Mohren sind nicht einmal eine Spielart geschweige eine besondre Gattung, wozu sie der gute Voltaire so gern machen möchte: sondern eine Krankheit, die Menschen unter allen Meridianen befallen kan, und der auch Thiere unterworfen sind. Linne's Homo troglodytes ist ein Gemisch aus der Geschichte dieser preßhaften waren Menschen, und des Orangutangs. Die in Wildnis unter Thieren erwachsenen Kinder sind klägliche sittliche Monstra, die man eben so wenig, als die Cretins oder andre durch Krankheit oder Zufall entstellte Menschen, zum Muster des Meisterstücks der Schöpfung anführen darf Geschwänzte Völker, von Natur geschürzte Hottentottinnen, von Natur unbärtige Amerikaner, Syrenen, Centauren, und alle Fabeln von gleichem Schrot und Korn, verzeihn wir der gutherzigen Leichtgläubigkeit unsrer lieben Alten.
+Metadata: Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), Register 4th Chapter: Säugethiere, I Ord. INERMIS., 5.
+
+Die Säugethiere geben die wichtigsten Geschöpfe fürs Menschengeschlecht. Der Mensch hat sich noch aus keiner andern Thierclasse so treue, arbeitsame und dienstfertige Gehülfen zu schaffen gewußt, als aus dieser. Sie enthält ungemein gelehrige Thiere, deren Naturell sich leicht abändern läst, und der Mensch hat folglich ganze Gattungen aus ihrer Wildniß versetzen, und blos zu seinen Hausgenossen machen können Der Verlust der Freyheit zeigt sich nach mehrern Generationen besonders durch hängende Ohren und schlichten Schwanz, so daß manschen aus diesen Zeichen errathen kan, wie lang oder wie kürzlich die Schweine und andere Hausthiere in verschiednen Gegenden unterjocht seyn mögen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 50.
+
+
+
+

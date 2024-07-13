@@ -1,0 +1,76 @@
+QUESTION 3: Which body parts of birds make them capable of flight? (using db_700_without_reg)
+
+
+============================================
+k = 3
+
+Der ganze Körperbau der Vögel ist ihrer Bestimmung zum Fluge angemessen. Ihr Rumpf ist klein, eyförmig, und in seiner Structur gänzlich vom Rumpfe der Säugethiere verschieden. Das Brustbein änelt einer Pflugschaar, und dient den Vögeln vorzüglich, die Lust im Fluge zu durchschneiden. Zu beiden Seiten des Brustbeins liegen die ausnehmend grossen und starken Brustmuskeln, die vorzüglich die Flügel bewegen, und die, bey wilden Vögeln wenigstens, nie mit Fette bedeckt sind was sonst der Leichtigkeit im Fliegen und dem Zweck des Brustbeins hinderlich werden könnte Das Rückgrad ist unbeweglich; der Hals aber dagegen desto gelenker, und dabey in Verhältniß gegen den übrigen Körper ungemein lang.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 57.
+
+
+Auch der Kopf der Vögel ist bey den meisten verhältnismäßig klein, daher er ebenfalls die Luft leicht durchbohrt, und dadurch den Flug erleichtert. Ihre Gliedmassen sind überaus schlank, und fein gebaut, so daß sie nebst dem ausnehmend geringen Gewicht des ganzen Körpers, der Lebensart dieser Thiere, und besonders ihrem Aufenthalt und ihrer freyen Bewegung in dem Elemente, wofür die mehresten bestimmt sind, vollkommen entsprechen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 58.
+
+
+Im innern Körperbau und in der Verrichtung der Eingeweide haben die Vögel viel Gleichheit mit der vorigen Elaste der warmblütigen Thiere. Nur zeichnen sie sich, ausser einigen minder beträchtlichen Verschiedenheiten durch besondre Luftbehälter aus, die in ihrem ganzen Körper zerstreut, und zum Fluge von äusserster Wichtigkeit sind. Die mehresten stehen mit den Lungen, andere aber mit dem Maule in Verbindung, und der Vogel kann sie nach Willkür mit Luft laden oder ausleeren, je nachdem er seinen Körper leichter oder schwerer machen will.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 64.
+
+============================================
+k = 5
+
+Der ganze Körperbau der Vögel ist ihrer Bestimmung zum Fluge angemessen. Ihr Rumpf ist klein, eyförmig, und in seiner Structur gänzlich vom Rumpfe der Säugethiere verschieden. Das Brustbein änelt einer Pflugschaar, und dient den Vögeln vorzüglich, die Lust im Fluge zu durchschneiden. Zu beiden Seiten des Brustbeins liegen die ausnehmend grossen und starken Brustmuskeln, die vorzüglich die Flügel bewegen, und die, bey wilden Vögeln wenigstens, nie mit Fette bedeckt sind was sonst der Leichtigkeit im Fliegen und dem Zweck des Brustbeins hinderlich werden könnte Das Rückgrad ist unbeweglich; der Hals aber dagegen desto gelenker, und dabey in Verhältniß gegen den übrigen Körper ungemein lang.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 57.
+
+
+Auch der Kopf der Vögel ist bey den meisten verhältnismäßig klein, daher er ebenfalls die Luft leicht durchbohrt, und dadurch den Flug erleichtert. Ihre Gliedmassen sind überaus schlank, und fein gebaut, so daß sie nebst dem ausnehmend geringen Gewicht des ganzen Körpers, der Lebensart dieser Thiere, und besonders ihrem Aufenthalt und ihrer freyen Bewegung in dem Elemente, wofür die mehresten bestimmt sind, vollkommen entsprechen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 58.
+
+
+Im innern Körperbau und in der Verrichtung der Eingeweide haben die Vögel viel Gleichheit mit der vorigen Elaste der warmblütigen Thiere. Nur zeichnen sie sich, ausser einigen minder beträchtlichen Verschiedenheiten durch besondre Luftbehälter aus, die in ihrem ganzen Körper zerstreut, und zum Fluge von äusserster Wichtigkeit sind. Die mehresten stehen mit den Lungen, andere aber mit dem Maule in Verbindung, und der Vogel kann sie nach Willkür mit Luft laden oder ausleeren, je nachdem er seinen Körper leichter oder schwerer machen will.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 64.
+
+
+Alle Vögel kommen in Rücksicht ihrer Bildung darin mit einander überein, daß sie zwey Füsse, zwey Flügel, einen hornichten Schnabel, und einen mit Federn bedeckten Körper haben. Sie zeichnen sich zugleich durch diese vier Charactere von allen andern Thieren aufs kenntlichste aus, und sie sind gleichsam eint ganz isolirte Classe von Geschöpfen, die mit keiner andern zusammenstießt, und die daher mit Mühe in einer Stufenfolge der natürlichen Körper (§. 7.) unterzubringen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 56.
+
+
+Zu diesen Luftbehaltern gehört vorzuglich ein lockres weiches Zellgewebe, was theils im Unterleibe, theils unter den Achseln und sonst noch unter der Haut verbreitet ist, und durchs Einathmen in die Lunge voll Luft gepumpt werden kau. Ausserdem dienen den Vögeln auch gewisse markleere hole Knochen, besonders die Schenkelknochen und die Schulterknochen im Flügel, auch das Rückgrad, das Brustbein, und manchen auch die Hirnschaale, zu gleichen Zwecken. Und endlich sind auch, nach unsern eignen Untersuchungen die ungeheuren Schnabel der Pfefferfraße Nashornvögel, Papageyen ꝛc. die berühmte Männer mit Unrecht für Werkzeuge, des Geruchs
+
+ Cajetan. Monti, in Comment. instit. Bonon. T. III p. 298.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 64.
+
+============================================
+k = 7
+
+Der ganze Körperbau der Vögel ist ihrer Bestimmung zum Fluge angemessen. Ihr Rumpf ist klein, eyförmig, und in seiner Structur gänzlich vom Rumpfe der Säugethiere verschieden. Das Brustbein änelt einer Pflugschaar, und dient den Vögeln vorzüglich, die Lust im Fluge zu durchschneiden. Zu beiden Seiten des Brustbeins liegen die ausnehmend grossen und starken Brustmuskeln, die vorzüglich die Flügel bewegen, und die, bey wilden Vögeln wenigstens, nie mit Fette bedeckt sind was sonst der Leichtigkeit im Fliegen und dem Zweck des Brustbeins hinderlich werden könnte Das Rückgrad ist unbeweglich; der Hals aber dagegen desto gelenker, und dabey in Verhältniß gegen den übrigen Körper ungemein lang.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 57.
+
+
+Auch der Kopf der Vögel ist bey den meisten verhältnismäßig klein, daher er ebenfalls die Luft leicht durchbohrt, und dadurch den Flug erleichtert. Ihre Gliedmassen sind überaus schlank, und fein gebaut, so daß sie nebst dem ausnehmend geringen Gewicht des ganzen Körpers, der Lebensart dieser Thiere, und besonders ihrem Aufenthalt und ihrer freyen Bewegung in dem Elemente, wofür die mehresten bestimmt sind, vollkommen entsprechen.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 58.
+
+
+Im innern Körperbau und in der Verrichtung der Eingeweide haben die Vögel viel Gleichheit mit der vorigen Elaste der warmblütigen Thiere. Nur zeichnen sie sich, ausser einigen minder beträchtlichen Verschiedenheiten durch besondre Luftbehälter aus, die in ihrem ganzen Körper zerstreut, und zum Fluge von äusserster Wichtigkeit sind. Die mehresten stehen mit den Lungen, andere aber mit dem Maule in Verbindung, und der Vogel kann sie nach Willkür mit Luft laden oder ausleeren, je nachdem er seinen Körper leichter oder schwerer machen will.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 64.
+
+
+Alle Vögel kommen in Rücksicht ihrer Bildung darin mit einander überein, daß sie zwey Füsse, zwey Flügel, einen hornichten Schnabel, und einen mit Federn bedeckten Körper haben. Sie zeichnen sich zugleich durch diese vier Charactere von allen andern Thieren aufs kenntlichste aus, und sie sind gleichsam eint ganz isolirte Classe von Geschöpfen, die mit keiner andern zusammenstießt, und die daher mit Mühe in einer Stufenfolge der natürlichen Körper (§. 7.) unterzubringen ist.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 56.
+
+
+Zu diesen Luftbehaltern gehört vorzuglich ein lockres weiches Zellgewebe, was theils im Unterleibe, theils unter den Achseln und sonst noch unter der Haut verbreitet ist, und durchs Einathmen in die Lunge voll Luft gepumpt werden kau. Ausserdem dienen den Vögeln auch gewisse markleere hole Knochen, besonders die Schenkelknochen und die Schulterknochen im Flügel, auch das Rückgrad, das Brustbein, und manchen auch die Hirnschaale, zu gleichen Zwecken. Und endlich sind auch, nach unsern eignen Untersuchungen die ungeheuren Schnabel der Pfefferfraße Nashornvögel, Papageyen ꝛc. die berühmte Männer mit Unrecht für Werkzeuge, des Geruchs
+
+ Cajetan. Monti, in Comment. instit. Bonon. T. III p. 298.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 64.
+
+
+Die Federn variiren unendlich in der Grösse Farbe u. s. w. Die stärksten sind in den Fittigen und im Schwänze. Jene heissen Schwungfedern (remiges), diese Schwanzfedern (rectrices). Die Schwungfedern sind von unbestimmter Anzal, nach aussen und nach hinten zu gerichtet und bilden gleichsam breite Fächer, womit sich die Vögel in die Luft heben und fliegen können Einige wenige Vögel (aves impennes) wie die Pinguine ꝛc. haben gar keine Schwungfedern und sind daher zum Fluge ungeschickt. Der Schwanzfedern sind mehrentheils zwölfe: die Hüner ꝛc. haben achtzehn, die Spechte nur zehn u. s. w. Einigen Vögeln, wie dem Casuar den Tauchergen ꝛc. fehlen sie gänzlich.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 61.
+
+
+Sie blasen dabey die Kehle zu einer grossen Kugel, fast so groß als der ganze Leib des Thiers, auf. Zuweilen verändert sich ihre Farbe ins graue schwärzliche ꝛc. fast wie beym Chamäleon. 
+3. draco. Corpus tetrapodum caudatum, alatum. 
+1. Volans. Die fliegende Eidexe. D. brachiis ab ala distinctis. * 
+Diese Thiere finden sich in Ostindien und Africa Die Flügel, die sie zu beiden Seiten des Leibes haben, dienen ihnen, wie dem fliegenden Eichhörnchen, einen weiten Sprung zu wagen, aber nicht zum ordentlichen Flug wie bey den Vögeln. Im übrigen Körperbau äneln sie der gemeinen Eidexe Vermutlich haben diese Thiere den Stoff zu den Fabeln von Drachen, Basilisken u. s. w. gegeben. 
+4. lacerta.
+Metadata: J.F.Blumenbach, Handbuch der Naturgeschichte, ed. 1 (1779), §. 112.

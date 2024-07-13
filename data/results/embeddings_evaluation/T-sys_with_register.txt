@@ -1,0 +1,91 @@
+This is a trial with T-Systems-onsite/cross-en-de-roberta-sentence-transformer and with register
+
+
+Question: How do hamsters compare with marmots?
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Zu den glatten gehören die Bucarditen u. s. w Ostraciten von zahlreichen Arten. Manche die den gemeinen Austern, oder dem Lorbeerblatte, den Mänteln ꝛc. ähneln Archen meist nur in Steinkernen Endlich Anomien, worunter ausser den Terebrateln verschiedene rätzelhafte Petrefacte gehören, wie die Gryphiten, die von ihrer krummschnablichen Bildung, und die Hysterolithen, die von einer andern Aehnlichkeit, die man darin hat erkennen wollen den Namen führen; vermuthlich auch die Pantoffelmuscheln, die Hr. Baron von Hüpsch entdeckt, und ans Museum geschenkt hat u. a. m.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 2, 'date': 1780, 'language': 'German', 'in-text location': 'Register 16th Chapter: Versteinerungen, A. Versteinerungen des Thierreichs., VI. , B) '})
+
+†. Citellus. das Erdzeiselgen, Suslik. M corpore longiore, capite parvo, pedibus brevibus pentadactylis. * Pallas, Nov. Comm. Petrop. Tom. XIV tab. 21 Die äussere Gestalt des Erdzeiselgen kommt des Hamsters seiner eben nicht sehr nahe; desto verwandter sind aber beide Thiere in Rücksicht ihres innern Körperbaues, der Backentaschen ihrer Lebensart, Nesterbaues, Winterschlafs u. s w. Nur, statt daß der Hamster fettes Erdreich liebt, so baut hingegen das Erdzeiselchen in dürrem sandichtem oder thonichtem Boden. Es sindet sich in Oesterreich, und Böhmen, doch nur in geringer Anzal; in größter Menge hingegen in Ungarn, Polen und Sibirien.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 3.'})
+
+Ruber. der Flamingo, Flamant. P. ruber remigibus nigris. * Wir haben den Flamingo, seiner Schwimmfüsse und mit Haut überzogenen Schnabels wegen, in diese Ordnung versezt, ob er gleich in Rücksicht seines übrigen Körperbaus auch viel Aehnlichkeit mit den Sumpfvögeln zeigt. Er ist in Africa und America zu Hause, und war schon bey den Alten, sowol wegen seiner anmuthigen rothen Farbe, als wegen seines schmakhaften Fleisches geschäzt.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, Ist im nördlichen Europa zu Hause, und wie, 1.'})
+
+
+Question: Which animals are the most beautiful?
+
+Die mehresten Würmer haben unansehnliche Farben. Doch sind auch einige, wie die Seeanemonen, Seefedern, Aphroditen, und viele Conchylien von auserordentlicher Schönheit.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 159.'})
+
+sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+Imperialis. Der Juwelenkäfer. C. brevirostris niger, elytris dentatis, sulcatis punctis excavatis, auro versicolore distinctis abdomine aeneo viridi. * Eins der prachtvollsten Geschöpfe in der Natur. Das gefärbte Gold in den unzäligen Grübgen, die reihenweis auf den Flügeldecken eingegraben sind, thut in hellem Lichte, zumal unterm Vergrösserungsglase einen unbeschreiblichen Effect. Das schöne Thier ist in Brasilien zu Hause und kommt in der Grösse etwa dem Maykäfer bey.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, I. COLEOPTERA., 8.'})
+
+Selbst unter unsern hieländischen Amphibien giebt es einige, wie die grüne Eidexe, den Laubfrosch ꝛc. die in Rücksicht ihrer schönen Farben, ihres stinken, und doch unschuldigen Betragens, den artigsten Thieren anderer Classen an die Seite gesetzt werden dürfen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 96.'})
+
+Es concentriren sich beym Hunde Schönheit, Starke und viele andre Talente, die wir zerstreut in andern Thieren bewundern; allein er wird überdem durch mehrere Qualitäten die ihm ganz ausschließlich zukommen, besonders aber durch die ausnehmende Feinheit seiner äussern und innern Sinne über die übrige thierische Schöpfung erhoben. Der Mensch hat ihn daher auch vor allen andern Hausthieren in seine nähere Gesellschaft gezogen, und seine ungemeine Gelehrigkeit auf mannichfaltige Weise zu benutzen gewußt. Der Hund hat den feinsten Geruch und dieser Vorzug in Verbindung mit seiner Stärke und Geschwindigkeit macht ihn zur Jagd anderer Thiere geschickt.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VII. FERAE., 17.'})
+
+
+Question: Which body parts of birds make them capable of flight?
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+Von Vögeln wird schwerlich ein Petrefact erweislich seyn.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 2, 'date': 1780, 'language': 'German', 'in-text location': 'Register 16th Chapter: Versteinerungen, A. Versteinerungen des Thierreichs., II. '})
+
+Im innern Körperbau und in der Verrichtung der Eingeweide haben die Vögel viel Gleichheit mit der vorigen Elaste der warmblütigen Thiere. Nur zeichnen sie sich, ausser einigen minder beträchtlichen Verschiedenheiten durch besondre Luftbehälter aus, die in ihrem ganzen Körper zerstreut, und zum Fluge von äusserster Wichtigkeit sind. Die mehresten stehen mit den Lungen, andere aber mit dem Maule in Verbindung, und der Vogel kann sie nach Willkür mit Luft laden oder ausleeren, je nachdem er seinen Körper leichter oder schwerer machen will.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 64.'})
+
+Der ganze Körperbau der Vögel ist ihrer Bestimmung zum Fluge angemessen. Ihr Rumpf ist klein, eyförmig, und in seiner Structur gänzlich vom Rumpfe der Säugethiere verschieden. Das Brustbein änelt einer Pflugschaar, und dient den Vögeln vorzüglich, die Lust im Fluge zu durchschneiden. Zu beiden Seiten des Brustbeins liegen die ausnehmend grossen und starken Brustmuskeln, die vorzüglich die Flügel bewegen, und die, bey wilden Vögeln wenigstens, nie mit Fette bedeckt sind was sonst der Leichtigkeit im Fliegen und dem Zweck des Brustbeins hinderlich werden könnte Das Rückgrad ist unbeweglich; der Hals aber dagegen desto gelenker, und dabey in Verhältniß gegen den übrigen Körper ungemein lang.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 57.'})
+
+† Bubo. der Uhu, Schubut, die Ohreule. S. auribus pennatis, iridibus croceis corpore ruffo. * Das größte Thier seines Geschlechts, von ungemeiner Stärke, so daß selbst Adler ihm unterliegen müssen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, I. ACCIPITRES., 1.'})
+
+
+Question: Where do hamsters live?
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Lumpus. Der Klebpfost, Hafpadde. C corpore squamis osseis angulato. * Findet sich in der alten Welt. Hängt sich mit den Bauchflossen an den Uferfelsen fest.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 6th Chapter: Amphibien, Ist im Europäischen Ocean zu Hause: hat drey, 1.'})
+
+Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 288.'})
+
+Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+†. Citellus. das Erdzeiselgen, Suslik. M corpore longiore, capite parvo, pedibus brevibus pentadactylis. * Pallas, Nov. Comm. Petrop. Tom. XIV tab. 21 Die äussere Gestalt des Erdzeiselgen kommt des Hamsters seiner eben nicht sehr nahe; desto verwandter sind aber beide Thiere in Rücksicht ihres innern Körperbaues, der Backentaschen ihrer Lebensart, Nesterbaues, Winterschlafs u. s w. Nur, statt daß der Hamster fettes Erdreich liebt, so baut hingegen das Erdzeiselchen in dürrem sandichtem oder thonichtem Boden. Es sindet sich in Oesterreich, und Böhmen, doch nur in geringer Anzal; in größter Menge hingegen in Ungarn, Polen und Sibirien.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 3.'})
+
+
+Question: Is there a connection between climate and animal coloration?
+
+Allein diese Einwürfe verschwinden, sobald man sich über die Eigenschaften vergleicht, die man zu einem Thier oder zu einer Pflanze erfodert. Wir haben uns erklärt, was wir für Begriffe mit Animalität oder Vegetabilität verbinden, und so ist unserm Bedünken nach alle Zweydeutigkeit und Ungewißheit über diese Punkte gehoben. Der Polype läßt sich durch Zweige fortpflanzen, wie eine Weide; aber muß er nun deswegen gleich zur Pflanze, oder doch zum Mittelding zwischen ihr und einem Thiere gemacht werden?
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 6.'})
+
+Die Proportion in der Anzal der Menschen beyden Geschlechts, die unglücklichen Folgen der Vielweiberey ꝛc. erweisen die natürliche Bestimmung des Menschen zur Monogamie Es giebt nur eine Gattung im Menschengeschlecht; und die Menschen aller Zeiten und aller Himmelsstriche können von Adam abstammen Die Verschiedenheiten in Bildung und Farbe der menschlichen Körper werden blos durch Clima Nahrung, Lebensart u. s. w. bewirkt; da der Mensch kein Privilegium hat, warum er nicht auch, wie jeder andere organisirte Körper, (§. 21.) wie eine Taube oder wie eine Tulpe, ausarten sollte?
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, I Ord. INERMIS.'})
+
+† Trochilus. Der Sommerkönig, Weidenzeisig (Asilus). M. cinereo-virens, alis subtus tectricibus flavescentibus, superciliis flavis. * Ist in der nördlichen Erbe zu Hause, variirt aber nach Verschiedenheit des Clima in den Farden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, Ist in der ganzen nordlichen Erde zu Hause,, 15.'})
+
+Lebererzt Von brauner, oder Rostfarbe.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 2, 'date': 1780, 'language': 'German', 'in-text location': 'Register 15th Chapter: Metalle, I. Eigentliche Metalle., B. Unedle Metalle., 3. cvprvum, Kupfer, rubrum, perdurum, maxime sonorum.^^, 2. Mineralisatum, vererzt., e) '})
+
+Artefacten werden sie blos alsdann, wenn der Mensch wesentliche Veränderungen mit ihnen vornimt. Man rechnet z. B. die schwammichte Rinde einer Art Maulbeerbäume (Morus papyrifera) oder die äussere Schaale einer Cocosnuß doch zu den Naturalien, wenn gleich beyde durch Menschen vom Stamme oder von der Nuß, die sie umkleideten, abgelöst worden. Die dadurch mit ihnen vorgenommene Veränderung ist nicht Wesentlich genug, um sie deshalb zu Artefakten zu machen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 1.'})

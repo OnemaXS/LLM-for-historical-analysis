@@ -1,0 +1,128 @@
+QUESTION 2: Which animals are the most beautiful?
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 700, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+Based on the context provided, the most beautiful animals mentioned are the green lizard (Agilis) and the chameleon (Chamaeleon). The green lizard is described as having copper-colored belly and green head, back, and tail, while the chameleon is mentioned for its beautiful colors and behavior. These animals are considered beautiful due to their vibrant colors and unique characteristics.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 1500, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+The most beautiful animals are birds, specifically peacocks, hummingbirds, parrots, etc. This is based on the context provided, which describes the beauty of bird feathers and how they are elevated above all other animals due to their diverse colors and bright hues. Additionally, the context mentions that the most beautiful birds, along with other animals like leopards, zebras, butterflies, and flowers, are found in hot climates. Therefore, based on the information given, birds are considered the most beautiful animals.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 700, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+Based on the context provided, the most beautiful animals mentioned are the green lizard (Agilis) and the chameleon. The green lizard is described as having beautiful green colors on its head, back, and tail, while the chameleon is noted for its beautiful colors and unique behavior. Therefore, these animals can be considered the most beautiful based on the information given.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 1500, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The context provided does not specify which animals are the most beautiful. Therefore, based on the information given, it is not possible to determine which animals are considered the most beautiful.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 700, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The context provided describes various animals with beautiful colors and patterns, such as the green lizard and the chameleon. It also mentions that birds, peacocks, hummingbirds, and parrots are some of the most beautiful animals. Based on this information, it can be inferred that birds are considered the most beautiful animals.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 1500, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The context provided discusses the beauty of various animals, including birds, reptiles, amphibians, and mammals. It mentions that birds like peacocks, hummingbirds, and parrots, as well as reptiles like chameleons and frogs, are considered some of the most beautiful animals. Therefore, based on the context, birds and reptiles are considered the most beautiful animals.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 700, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+Based on the provided context, the most beautiful animals mentioned are the green lizard and the chameleon. The green lizard is described as having copper color on its belly and green on its head, back, and tail, making it "unverbesserlich" or unbeatable in terms of beauty. The chameleon is also mentioned as being beautiful due to its colors and behavior. Therefore, these two animals are considered the most beautiful in this context.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 1500, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+The most beautiful animals are birds, specifically peacocks, hummingbirds, parrots, and others mentioned in the context. The context describes the vibrant colors and patterns of these birds, as well as their unique physical characteristics that make them stand out as some of the most beautiful creatures in nature. Additionally, the context mentions that the beauty of these birds is exclusive to the males, which is a deviation from the usual pattern in nature where females are favored for their beauty.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 700, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+Based on the provided context, the most beautiful animals mentioned are the green Eidexe and the Chamaeleon. These animals are described as having beautiful colors and are compared to other animals in terms of their beauty. Therefore, the green Eidexe and the Chamaeleon can be considered the most beautiful animals in this context.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 1500, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The context provided describes various animals and their physical characteristics, but does not explicitly state which animals are the most beautiful. Therefore, based on the context alone, it is not possible to determine which animals are the most beautiful.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 700, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+Based on the provided context, the most beautiful animals are described as birds, such as peacocks, hummingbirds, and parrots. The text mentions that birds are exclusively given the beauty of colors by nature, particularly in warmer climates. Additionally, it mentions that some amphibians like the green lizard and the tree frog can also be considered among the most beautiful animals due to their colors and behavior. Therefore, based on the context, birds and certain amphibians are considered the most beautiful animals.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 1500, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The context provided does not specifically mention which animals are the most beautiful. Therefore, based on the information given, it is not possible to determine which animals are considered the most beautiful.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 700, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+Based on the provided context, the most beautiful animals mentioned are the green Eidexe and the Chamaeleon. The green Eidexe is described as having copper color on the belly and green on the head, back, and tail, making it very attractive. The Chamaeleon is also mentioned as being beautiful due to its colors and behavior. Therefore, these two animals are considered the most beautiful in this context.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 1500, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+Based on the context provided, the most beautiful animals are mentioned as birds, specifically peacocks, hummingbirds, parrots, as well as leopards, zebras, butterflies, and flowers. These animals are described as having vibrant and varied colors that elevate them above other animals in terms of beauty. Additionally, the context mentions the green lizard and the leaf frog as beautiful animals. Therefore, based on this information, birds, leopards, zebras, butterflies, flowers, green lizards, and leaf frogs are considered the most beautiful animals.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 700, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The context provided does not specify which animals are the most beautiful. Therefore, based on the information given, it is not possible to determine which animals are considered the most beautiful.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 1500, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The most beautiful animals are birds, specifically peacocks, hummingbirds, and parrots, as well as leopards, zebras, butterflies, and flowers found in hot zones. The context describes these animals as having vibrant colors and being the most beautiful among all creatures.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 700, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+Based on the context provided, the animals described as the most beautiful are the peacock, hummingbirds, parrots, and butterflies. These animals are mentioned for their vibrant colors and beauty, which are attributes typically associated with beauty in animals. Additionally, the context mentions that beauty in animals is often found in warmer climates, which further supports the idea that these animals are considered the most beautiful.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 1500, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+Based on the context provided, the most beautiful animals are described as birds, specifically peacocks, hummingbirds, parrots, and others. These birds are mentioned to have beautiful colors and patterns that elevate them above other animals in terms of physical beauty. Additionally, the context mentions that some insects, such as butterflies, and flowers can also be considered beautiful. Therefore, based on the information given, birds like peacocks, hummingbirds, and parrots are considered the most beautiful animals.
+
+
+

@@ -1,0 +1,128 @@
+QUESTION 3: Which body parts of birds make them capable of flight?
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 700, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, egg-shaped body structure, their chest muscles, their breastbone (which resembles a plowshare and helps cut through the air), their slender and well-built limbs, their lightweight overall body structure, their long and flexible neck, and their air sacs that are dispersed throughout their body and are important for flight. These adaptations allow birds to be efficient flyers and navigate through the air with ease.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 1500, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight include their small, egg-shaped body structure, the large and strong chest muscles located on both sides of the breastbone that move the wings, the slender and finely built limbs, the presence of air sacs throughout their body that can be filled or emptied to adjust their weight, and certain hollow bones such as the leg bones, shoulder bones, spine, breastbone, and in some cases the skull. These adaptations allow birds to be lightweight, aerodynamic, and efficient flyers.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 700, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, egg-shaped body structure, the chest muscles that move the wings, the large and strong breast muscles, the lightweight head, the slim and finely built limbs, and the air sacs dispersed throughout their body that can be filled or emptied to adjust their weight for flight. Additionally, birds have certain hollow bones that contribute to their ability to fly.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 1500, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their wings, chest muscles, and feathers. The wings are powered by the large and strong chest muscles located on either side of the breastbone. The feathers, especially the primary flight feathers in the wings and tail, provide lift and propulsion during flight. Additionally, the structure of the bird's body, including the small and streamlined shape, lightweight bones, and air sacs, all contribute to their ability to fly.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 700, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, egg-shaped body structure, their chest muscles, their wings, their lightweight body, their air sacs, their hollow bones, their feathers, and their beak. The chest muscles are large and strong, specifically for moving the wings during flight. The air sacs are dispersed throughout the body and can be filled with air to make the body lighter for flight. The hollow bones, especially in the legs, wings, spine, and chest, also contribute to reducing weight for flight. Feathers, particularly the wing and tail feathers, are essential for creating lift and allowing birds to fly. The beak is horned and covered in feathers, contributing to the overall aerodynamic design of birds.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0, chunk size = 1500, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their wings, chest muscles, and feathers. The wings are powered by the large and strong chest muscles located on both sides of the breastbone. The feathers, especially the strong flight feathers in the wings and tail, provide lift and propulsion. Additionally, the structure of the bird's body, including the small and streamlined shape, the lightweight bones, and the air sacs that help regulate their weight, all contribute to their ability to fly.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 700, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, egg-shaped body structure, their chest muscles, their breastbone (which resembles a plowshare and helps cut through the air), their slim and lightweight limbs, their long and flexible neck, their small head, and their air sacs that help regulate their weight for flight. These adaptations allow birds to be efficient flyers in their natural environment.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 1500, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, egg-shaped body structure, the chest muscles located on both sides of the breastbone that move the wings, the lightweight head that easily pierces the air, the slender and finely built limbs, and the presence of air sacs throughout their body that can be filled or emptied to adjust their weight for flight. Additionally, hollow bones in certain parts of their body also contribute to their ability to fly.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 700, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, egg-shaped body structure, their chest muscles, their wings, their slender limbs, their small head, and their air sacs. The chest muscles are large and strong, the wings are moved by these muscles, and the body is lightweight. The air sacs are dispersed throughout the body and can be filled with air to make the bird lighter for flight. Additionally, the bones of birds are hollow and lightweight, contributing to their ability to fly.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 1500, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their wings, chest muscles, lightweight body structure, air sacs, and hollow bones. The wings are powered by the large and strong chest muscles located on both sides of the breastbone. The lightweight body structure, along with the air sacs dispersed throughout their body, allows birds to control their weight for flight. Additionally, hollow bones in the legs, wings, spine, breastbone, and sometimes the skull also contribute to making birds capable of flight.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 700, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their wings, chest muscles, and lightweight skeletal structure. The wings are powered by large and strong chest muscles located on both sides of the breastbone. The lightweight structure of their bones, along with air sacs throughout their body, allows for easier flight. Additionally, their feathers, particularly the larger and stronger ones in the wings and tail, play a crucial role in flight.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.2, chunk size = 1500, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their wings, chest muscles, and feathers. The wings are powered by the large and strong chest muscles located on either side of the breastbone. The feathers, especially the primary flight feathers in the wings and tail, allow birds to lift themselves into the air and fly. Additionally, the structure of the bones in birds, such as the hollow bones in the legs and wings, also contribute to their ability to fly.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 700, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, oval-shaped body structure, their chest muscles which move the wings, their slender and lightweight limbs, their small head which easily cuts through the air, and the presence of air sacs throughout their body that can be filled or emptied to adjust their weight for flight.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 1500, no. retrieved chunks = 3
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, egg-shaped body, their chest muscles, their wings, their slender and lightweight limbs, and their air sacs. The chest muscles are attached to the breastbone, which resembles a plowshare and helps in cutting through the air during flight. The wings are moved by the large and strong chest muscles. The lightweight body, in addition to the lifestyle of birds and their free movement in the air, also contributes to their ability to fly. The air sacs, which are dispersed throughout the body and connected to the lungs or mouth, can be filled or emptied of air at will to adjust the bird's weight for flight. Additionally, certain hollow bones in the body, such as the leg bones, wing bones, spine, breastbone, and even the skull in some cases, also aid in flight.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 700, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight include their chest muscles, wings, lightweight body structure, air sacs, and hollow bones. The chest muscles are large and strong, allowing them to move their wings efficiently. Their wings are used to navigate through the air. Birds have a lightweight body structure, which is essential for flying. Additionally, they have air sacs scattered throughout their bodies that can be filled or emptied to adjust their weight for flight. Hollow bones, especially in the legs, wings, spine, chest, and skull, also contribute to their ability to fly.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 1500, no. retrieved chunks = 5
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their wings, chest muscles, air sacs, hollow bones, and feathers. The wings, specifically the primary feathers, allow birds to lift and fly. The large and strong chest muscles aid in moving the wings during flight. Air sacs are important for maintaining a bird's lightweight body and aiding in respiration. Hollow bones, especially in the wings, legs, and spine, contribute to reducing the overall weight of the bird. Feathers, particularly the primary and tail feathers, play a crucial role in providing lift and stability during flight.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 700, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their small, oval-shaped body structure, their chest muscles that move their wings, their lightweight bones, their air sacs that help with respiration and buoyancy, their feathers that form wings and tails for flight, and their beak for feeding. These features are specifically adapted for flight and distinguish birds from other animals.
+
+
+
+gpt-3.5-turbo-0125, temperature = 0.5, chunk size = 1500, no. retrieved chunks = 7
+================================== Ai Message ==================================
+
+The body parts of birds that make them capable of flight are their wings, chest muscles, and feathers. The wings are powered by the large and strong chest muscles that move them during flight. The feathers, especially the strong flight feathers in the wings and tail, help birds lift themselves into the air and fly. Additionally, the structure of the bird's body, with a small and streamlined shape, also contributes to their ability to fly efficiently.
+
+
+

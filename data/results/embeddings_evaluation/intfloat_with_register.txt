@@ -1,0 +1,91 @@
+This is a trial with intfloat/multilingual-e5-large and with register
+
+
+Question: How do hamsters compare with marmots?
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Gewönlich haben auch die Männchen, zu uns unbekannten Zwecken, dergleichen Brüste; doch fehlen sie einigen, wie den Hamstern, der Haselmaus u. a.m. gänzlich; bey andern sind sie doch in geringerer Anzal als der Weibchen ihre der Hund z. B. hat nur sechs Zitzen am Bauche die Hündin aber ausser diesen auch noch viere an der Brust; und allemal sind sie kleiner als beym weiblichen Geschlechte.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 41.'})
+
+Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+columba. Rostrum rectum versus apicem descendens.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, VII. GALLINAE., 41.'})
+
+Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 288.'})
+
+
+Question: Which animals are the most beautiful?
+
+Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+anguis. Squamae abdominales et subcaudales.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 6th Chapter: Amphibien, II. SERPENTES., 8.'})
+
+elephas. proboscis longissima, prehenfilis, dentes laniarii superiores elongati.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, X. BELLUAE., 35.'})
+
+phasianvs. Genae cute nuda laevigata.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, VII. GALLINAE., 38.'})
+
+
+Question: Which body parts of birds make them capable of flight?
+
+draco. Corpus tetrapodum caudatum, alatum.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 6th Chapter: Amphibien, I. REPTILES., 3.'})
+
+Auch der Kopf der Vögel ist bey den meisten verhältnismäßig klein, daher er ebenfalls die Luft leicht durchbohrt, und dadurch den Flug erleichtert. Ihre Gliedmassen sind überaus schlank, und fein gebaut, so daß sie nebst dem ausnehmend geringen Gewicht des ganzen Körpers, der Lebensart dieser Thiere, und besonders ihrem Aufenthalt und ihrer freyen Bewegung in dem Elemente, wofür die mehresten bestimmt sind, vollkommen entsprechen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 58.'})
+
+Grosse Landvögel, mit freyen unverbundenen Zehen, und kurzen zum Flug ungeschickten Flügeln ohne Schwungfedern.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, V. STRUTHIONES.'})
+
+byrrhvs. Antennae clavatae subsolidae subcompressae.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, I. COLEOPTERA., 7.'})
+
+oniscus. Pedes 14. Antennae setaceae Corpus ovale.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, Verwandlung, als daß sie sich meist einigemal, 84.'})
+
+
+Question: Where do hamsters live?
+
+Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 288.'})
+
+hystrix. Corpus spinis tectum.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, IV. SCLERODERMATA., 8.'})
+
+tenthredo. Blatwespe. Os maxillis absque proboscide. Alae planae tumidae Aculeus laminis duabus serratis, vix prominentibus. Scutellum granis duobus impositis distantibus Die Larven leben von Laub, und finden sich besonders auf Rosenstöcken und Weiden. Verpuppen sich aber in der Erde.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, V. HYMENOPTERA., 54.'})
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+†. Unicolor. H. totus ater, elytris substriatis. * In sandigen Boden und auf Viehweiden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, I. COLEOPTERA., 1.'})
+
+
+Question: Is there a connection between climate and animal coloration?
+
+Die übrigen Ursachen der Degeneration würken zwar langsam, aber kräftig. Wir rechnen dahin Einfluß des Himmelsstrichs, der Lebensart, der Nahrungsmittel u. s. w. Kaltes Klima unterdrückt das Wachsthum der organisirten K. und bringt auch weiße Farbe an ihnen hervor. Drum sind die Patagonier groß, die Grönländer klein; die Neger schwarz, die Deutschen weiß u.s.f. Was aber Lebensart, Cultur und Nahrung vermöge, davon sehn wir an unsern Hausthieren, und an den Pflanzen die in unsern Gärten künstlicher Pflege bedürfen, augenscheinliche Beyspiele.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 21.'})
+
+columba. Rostrum rectum versus apicem descendens.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, VII. GALLINAE., 41.'})
+
+anguis. Squamae abdominales et subcaudales.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 6th Chapter: Amphibien, II. SERPENTES., 8.'})
+
+† Bovinus. T. oculis virescentibus, abdominis dorso maculis albis trigonis longitudinalibus. *
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, VI. DIPTERA., 1.'})
+
+† Rubra. F. testacea, oculis punctoque sub abdomine nigris. *
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, V. HYMENOPTERA., 3.'})

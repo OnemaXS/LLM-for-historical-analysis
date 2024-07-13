@@ -1,0 +1,95 @@
+This is a trial with T-Systems-onsite/cross-en-de-roberta-sentence-transformer and without register
+
+
+Question: How do hamsters compare with marmots?
+
+Zu solchen Naturspielen gehören z. B. die Graptolithen, Buchstabensteine, Kreuzsteine ꝛc. die Ingwersteine nemlich Mergelnüsse, die einer Ingwerwurzel ähneln. Der Confect von Tivoli, die Melonen vom Berg Carmel, die Frankenberger Kornähren, gewissermassen auch die Dendriten, der Florentiner Ruinen Marmor, die Incrustate u. s. w. Ferner die Klappersteine, Adlersteine Aetiten, das heißt hole Mergelnüsse oder Feuersteine, oder Eisenschüssige Steine in deren Höhlung lockere Steinchen befindlich sind, die folglich wenn man den Stein schüttelt, klappern müssen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1780, 'language': 'German', 'in-text location': '§. 246.'})
+
+Mehrere Muschelarten führen Perlen. Verschiedne Schneckgen cursiren bey einigen wilden Völkern statt Geldes. Die Mahlermuschel, Perlenmutter, das eigentlich sogenannte rothe Corall, und die grosse beinartige Schuppe des Blackfisches
+(os sepiae) werden von Künstlern benutzt Der Badeschwamm hat mancherley häuslichen Gebrauch. Die Blutigel endlich sind ein überaus wichtiges Genesmittel.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 167.'})
+
+So alle die unzähligen Conchylien u. a. Seegeschöpfe in den Flözgebürgen, die unserer oben geäusserte Vermuthung nach wol alle von einer gerichteten Vorwelt herrühren, und wozu man wol allerhand ähnliche, aber wohl schwerlich vollkommen gleiche Originale in der jetzigen Schöpfung vorzufinden im Stande seyn wird III. Metallisirte Körper sind versteinte Fische, Conchylien oder Hölzer in Schiefer oder Thonlagern, die mit Kies durchzogen worden und daher ein glänzendes metallisches Ansehen
+(einen Harnisch, armaturam) erhalten haben IV. Steinkerne (Nuclei) sind der blosse innere Abguß von der Höhlung der Schneken oder Muscheln, deren wirkliche Schaalen verlohren gegangen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1780, 'language': 'German', 'in-text location': '§. 248.'})
+
+Auser den Hufen, Klauen, Zähnen ꝛc. sind viele Säugethiere auch mit Hörnern zu Waffen versehen, die doch, wie der Bart beym Menschen, erst zur Zeit der Mannbarkeit hervorbrechen. Bey einigen Gattungen, wie beym Hirsch, sind die Weibchen ungehörnt; bey andern, wie im Ziegengeschlecht, sind ihre Hörner doch kleiner als der Männchen ihre. Anzal Bau, und Lage der Hörner sind sehr verschieden. Beym Ochsen- und Ziegengeschlechte sind sie hol, und sitzen wie eine Scheide über einen Fortsatz der Stirnknochen. Des Rhinoceros Hörner sind dichte, und blos mit der Haut aus der Nase verwachsen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 47.'})
+
+So sind z. B. die 173220 Millionen Menschen, die von Adam bis jetzt gestorben seyn mögen, gleichsam verschwunden, zu einer Erde vermodert, die man deshalb, so wie sie rein in den Gräbern gefunden wird, terra Adamica nennt. Und doch sagt dieser Beytrag von menschlichen Leichen noch nichts in Vergleich mit der Asche der seit der gleichen Zeit gestorbenen ungleich grössern Thiere, der Wallfische Elephanten, Crocodile, Pferde, Wasserschlangen u. s. w.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1780, 'language': 'German', 'in-text location': '§. 227.'})
+
+
+Question: Which animals are the most beautiful?
+
+Die mehresten Würmer haben unansehnliche Farben. Doch sind auch einige, wie die Seeanemonen, Seefedern, Aphroditen, und viele Conchylien von auserordentlicher Schönheit.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 159.'})
+
+sind, so wie der Leopard und der Zebra, wie die schönsten Schmetterlinge und wie die schönsten Blumen, den heißen Zonen eigen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+Selbst unter unsern hieländischen Amphibien giebt es einige, wie die grüne Eidexe, den Laubfrosch ꝛc. die in Rücksicht ihrer schönen Farben, ihres stinken, und doch unschuldigen Betragens, den artigsten Thieren anderer Classen an die Seite gesetzt werden dürfen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 96.'})
+
+Alle Thiere haben dergleichen Triebe in ihrer Natur, nur freylich jedes nach seiner Bestimmung, Instincte verschiedener Art und in verschiedenem Maaße. Die allgemeinsten Natur-Triebe, wie z. B. die zur Begattung, sind bey der einen Thierart stärker, bey der andern schwächer; und Montesquieu derivirt schon aus diesem verschiedentlich bestimmten Maaße von Instinct, das unveränderliche Gleichgewicht, was sich bey der Vermehrung jeder Gattung von Thieren zeigt. Die Erde könnte für die Elephanten zu klein, und das Menschengeschlecht gegen die Löwen zu schwach werden, wenn diese grossen und fürchterlichen Thiere den unersättlichen Liebestrieb der Caninchen oder Meerschweinchen besässen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 35.'})
+
+Die Augen der Insecten sind vorzüglich merkwürdig, und zwar in Rücksicht ihres Baues von zweyfacher Art. Die einen sind ungeheure Halbkugelu, die aber aus vielen tausend Facetten, oder wie es Swammerdam's mühseeliger Fleis erwiesen hat, eigentlich aus eben so viel besondern kleinen Augen bestehen. Fast alle geflügelte Insecten haben solche componirte Augen; doch meist erst im vollkommenen Zustande, nach ihrer lezten Verwandlung. Die Augen der andern Art sind einfach, klein, und sowol in Rücksicht ihrer Anzahl als Lage verschieden. Die Insecten haben keine eigentliche Augenlieder, die ihnen bey der Härte der Hornhaut entbehrlich sind: und nur wenige wie die Krebse, können ihre Augen bewegen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 135.'})
+
+
+Question: Which body parts of birds make them capable of flight?
+
+Die Farbe der Federn ist bey vielen Vögeln über alle Beschreibung schön. Sie werden durch die mannichfaltigen Nüancen der Coulenren, durch das Changeant von rothem oder grünem Golde, durch die theils so hellen brennenden Farben n. s. w. über alle übrigen Thiere erhoben, unter denen nur etwa manche Insecten den Vögeln, ihrer körperlichen Schönheit wegen, an die Seite gesetzt werden dürfen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+Im innern Körperbau und in der Verrichtung der Eingeweide haben die Vögel viel Gleichheit mit der vorigen Elaste der warmblütigen Thiere. Nur zeichnen sie sich, ausser einigen minder beträchtlichen Verschiedenheiten durch besondre Luftbehälter aus, die in ihrem ganzen Körper zerstreut, und zum Fluge von äusserster Wichtigkeit sind. Die mehresten stehen mit den Lungen, andere aber mit dem Maule in Verbindung, und der Vogel kann sie nach Willkür mit Luft laden oder ausleeren, je nachdem er seinen Körper leichter oder schwerer machen will.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 64.'})
+
+Der ganze Körperbau der Vögel ist ihrer Bestimmung zum Fluge angemessen. Ihr Rumpf ist klein, eyförmig, und in seiner Structur gänzlich vom Rumpfe der Säugethiere verschieden. Das Brustbein änelt einer Pflugschaar, und dient den Vögeln vorzüglich, die Lust im Fluge zu durchschneiden. Zu beiden Seiten des Brustbeins liegen die ausnehmend grossen und starken Brustmuskeln, die vorzüglich die Flügel bewegen, und die, bey wilden Vögeln wenigstens, nie mit Fette bedeckt sind was sonst der Leichtigkeit im Fliegen und dem Zweck des Brustbeins hinderlich werden könnte Das Rückgrad ist unbeweglich; der Hals aber dagegen desto gelenker, und dabey in Verhältniß gegen den übrigen Körper ungemein lang.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 57.'})
+
+Die Natur, die in der Oekonomie der Vögel so viel sonderbares gehäuft hat, ist auch darinn von ihrer Regel abgewichen, daß sie die Schönheit der Farben und einige andere Vorzüge, womit sie sonst das weibliche Geschlecht unter den übrigen Thieren begünstigt, in dieser Classe den Männchen, und zwar ausschließlich, mitgetheilt hat. Was wir oben von den organisirten Körpern überhaupt gesagt haben, daß ihre Farben in kalten Climaten blaß und matt, in heißen Gegenden hingegen dunkler und höher sind findet sich vorzüglich bey den Vögeln bestätigt Die allerschönsten Vögel, die Pfauen, Colibri Papageyen ꝛc.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 63.'})
+
+Auch der Kopf der Vögel ist bey den meisten verhältnismäßig klein, daher er ebenfalls die Luft leicht durchbohrt, und dadurch den Flug erleichtert. Ihre Gliedmassen sind überaus schlank, und fein gebaut, so daß sie nebst dem ausnehmend geringen Gewicht des ganzen Körpers, der Lebensart dieser Thiere, und besonders ihrem Aufenthalt und ihrer freyen Bewegung in dem Elemente, wofür die mehresten bestimmt sind, vollkommen entsprechen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 58.'})
+
+
+Question: Where do hamsters live?
+
+Mehrere Muschelarten führen Perlen. Verschiedne Schneckgen cursiren bey einigen wilden Völkern statt Geldes. Die Mahlermuschel, Perlenmutter, das eigentlich sogenannte rothe Corall, und die grosse beinartige Schuppe des Blackfisches
+(os sepiae) werden von Künstlern benutzt Der Badeschwamm hat mancherley häuslichen Gebrauch. Die Blutigel endlich sind ein überaus wichtiges Genesmittel.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 167.'})
+
+Sie verkriechen sich wenn diese Zeit kommt, an sichre schaurige Orte wie die Murmelthiere, Hamster, Ameisen ꝛc in ihre Nester, die Fledermäuse in Hölen, die Frösche und einige Fische in Sümpfe, die Uferschwalben ins Schilf, die Schlangen und Schnecken ins Gebüsch u. s. w. und fallen mit einbrechender Kälte in eine Art von Erstarrung, aus der sie erst durch die erwärmenden Blicke der Frühlingssonne wieder erweckt werden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 33.'})
+
+Fast alle Amphibien, wenigstens die in den kältern Zonen, verschwinden im Herbst, verkriechen sich ins Gebüsche oder in Sümpfe, und halten Winterschlaf. Daß aber einigen, z. E den Fröschen die Zeit über das Maul mit einer Schleimhaut verschlossen sey, ist eine irrige Sage, wozu vermuthlich die Häutung dieser Thiere im Frühjahr, Anlaß gegeben hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 99.'})
+
+34.) 
+und noch andre durch ihre bewunderungswürdige Stärke (§. 29.) gesichert. Manche sind gar mit Waffen, z. B. mit Hörnern wie Kneipzangen, oder mit Stachel und Gift versehen oder sie sind wie die sogenannten Bärraupen mit Hären besetzt, die wie Nesseln empfindlich in die Haut stechen, wenn man sie fassen will oder sie können auch, wie manche Weidenraupen, einen äuserst scharfen ätzenden Saft in ziemlicher Entfernung auf ihre Verfolger sprützen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 142.'})
+
+Gewönlich haben auch die Männchen, zu uns unbekannten Zwecken, dergleichen Brüste; doch fehlen sie einigen, wie den Hamstern, der Haselmaus u. a.m. gänzlich; bey andern sind sie doch in geringerer Anzal als der Weibchen ihre der Hund z. B. hat nur sechs Zitzen am Bauche die Hündin aber ausser diesen auch noch viere an der Brust; und allemal sind sie kleiner als beym weiblichen Geschlechte.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 41.'})
+
+
+Question: Is there a connection between climate and animal coloration?
+
+Allein diese Einwürfe verschwinden, sobald man sich über die Eigenschaften vergleicht, die man zu einem Thier oder zu einer Pflanze erfodert. Wir haben uns erklärt, was wir für Begriffe mit Animalität oder Vegetabilität verbinden, und so ist unserm Bedünken nach alle Zweydeutigkeit und Ungewißheit über diese Punkte gehoben. Der Polype läßt sich durch Zweige fortpflanzen, wie eine Weide; aber muß er nun deswegen gleich zur Pflanze, oder doch zum Mittelding zwischen ihr und einem Thiere gemacht werden?
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 6.'})
+
+Artefacten werden sie blos alsdann, wenn der Mensch wesentliche Veränderungen mit ihnen vornimt. Man rechnet z. B. die schwammichte Rinde einer Art Maulbeerbäume (Morus papyrifera) oder die äussere Schaale einer Cocosnuß doch zu den Naturalien, wenn gleich beyde durch Menschen vom Stamme oder von der Nuß, die sie umkleideten, abgelöst worden. Die dadurch mit ihnen vorgenommene Veränderung ist nicht Wesentlich genug, um sie deshalb zu Artefakten zu machen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 1.'})
+
+21.) meist weiß: doch kann die gleiche Anomalie auch durch eine Krankheit, die mit der weissen Mohren ihrer viel Aehnlichkeit hat, bewirkt werden. Bey manchen ändert sich die Farbe nach der Jahrszeit wie beym Hasen, Eichhörnchen, Wiesel ꝛc und einige wechseln gar ihre Haare, und mausen sich gleichsam wie die Vögel: so das Caninchen von Angora, der Bison u. a.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 42.'})
+
+Auf diese Verschiedenheit gründet sich die bekannte Eintheilung aller Körper in natürliche (naturalia), und durch Kunst verfertigte (artefacta). Die erstern machen den Gegenstand der Naturgeschichte aus, und man belegt alle Körper mit dem Namen der Naturalien, die nur noch keine wesentliche Veränderung durch Menschenhände erlitten haben; Da hingegen die mehresten von denen so der Zufall umgeändert hat, und beyläufig auch diejenigen so durch die Thiere nach ihren Trieben und zu Stillung ihrer Bedürfnisse verändert und umgebildet worden, mit unter den Naturalien begriffen werden. Artefacten werden sie blos alsdann, wenn der Mensch wesentliche Veränderungen mit ihnen vornimt.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 1.'})
+
+Alle Dinge, die sich auf, und in unsrer Erde finden, zeigen sich entweder in derselben Gestalt, in welcher sie aus der Hand der Natur gekommen; oder so, wie sie durch Menschen oder Thiere, zu bestimmten Absichten, oder auch durch bloßen Zufall verändert und gleichsam umgeschaffen worden sind. Auf diese Verschiedenheit gründet sich die bekannte Eintheilung aller Körper in natürliche (naturalia), und durch Kunst verfertigte (artefacta).
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 1.'})

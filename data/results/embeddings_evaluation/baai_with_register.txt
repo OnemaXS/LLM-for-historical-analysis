@@ -1,0 +1,91 @@
+This is a trial with BAAI/llm-embedder and with register
+
+
+Question: How do hamsters compare with marmots?
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+†. Citellus. das Erdzeiselgen, Suslik. M corpore longiore, capite parvo, pedibus brevibus pentadactylis. * Pallas, Nov. Comm. Petrop. Tom. XIV tab. 21 Die äussere Gestalt des Erdzeiselgen kommt des Hamsters seiner eben nicht sehr nahe; desto verwandter sind aber beide Thiere in Rücksicht ihres innern Körperbaues, der Backentaschen ihrer Lebensart, Nesterbaues, Winterschlafs u. s w. Nur, statt daß der Hamster fettes Erdreich liebt, so baut hingegen das Erdzeiselchen in dürrem sandichtem oder thonichtem Boden. Es sindet sich in Oesterreich, und Böhmen, doch nur in geringer Anzal; in größter Menge hingegen in Ungarn, Polen und Sibirien.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 3.'})
+
+Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+simia. Affe. habitus anthropomorphus nares alis obtectae. vox grunniens Die Affen finden sich blos in der alten Welt; ihr Gesicht ist Menschenänlich, doch mehr vorwärts gezogen, weil sie, so wie die mehresten übrigen Säugthiere, einen besondern Knocken zwischen den Oberkiefern haben, in welchem die vordern Schneidezähne sitzen, und der dem Menschengeschlechte mangelt a) ungeschwänzte.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, II. PITHECI., 2.'})
+
+
+Question: Which animals are the most beautiful?
+
+lapis lazuli Lasurstein. ( Sapphirus veterum) coerulei coloris, opacus Eine gemischte Steinart, die ausser dem Kalk auch Kieselerde ꝛc. und Eisentheilgen enthält die ihr vermutlich die vortrefliche himmelblaue Farbe geben. Findet sich meist nur in kleinen Stücken: die größten sind wol am Altar der Casa santa zu Loretto. Die eben so kostbare als schöne Ultramarin Farbe, die man aus dem Lasurstein verfertiget, ist ehedem häufiger als jetzt zumal im medio aevo zu den Mahlereyen in die Handschriften, und nach jener Zeit wol am meisten vom grossen Titian gebraucht worden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1780, 'language': 'German', 'in-text location': 'Register 12th Chapter: Erden und Steine, I. CALCARIAE., 3.'})
+
+phasianvs. Genae cute nuda laevigata.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, VII. GALLINAE., 38.'})
+
+Satyrus. der Orangutang. S. capite minore, gracilior, hirsuta; pilorum humeri et ulnae contraria directione. ( ut in homine) * Tyson's anatomy of a pygmie, tab. I. II Le Cat Traité du mouvement musculaire tab. I. Diese beiden merkwürdigen Thiere sind in ihrem Ansehen und Bildung so wesentlich verschieden, daß wir sie für zwey besondere Gattungen ansehen. Da sie selten nach Europa kommen nur in dicken Wäldern leben, und von wenigen glaubwürdigen Reisenden beschrieben und richtig unterschieden sind, so ist ihre Geschickte noch ziemlich dunkel, und mit viel Fabeln verfälscht Man vermengt sie unter den Namen van Pongo, Barris, Jocko, Waldmensch ꝛc. vielleicht sinds die Satyren der Alten.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, II. PITHECI., 2.'})
+
+Bison. der Buckelochse, Wisent. B. cornibus divaricatis, juba longissima, dorso gibboso. Dieses grosse und grimmige Thier findet sich im nördlichen Amerika, wo es Heerdenweise in sumpfichten Wäldern lebt. Im Winter ist es über den ganzen Körper behaart, im Frühjahr hingegen wird es am Rücken und Hinterleibe kahl, und behält blos seine ungeheure Brust- und Nacken-Mäne. Jung gefangen, läßt sich der Wisent doch auch zähmen. Sein Fleisch ist schmackhafter, als das vom gemeinen Ochsen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, IX. BISULCA., 3.'})
+
+Amethystus Violet. Eine schöne orientalische Amethyst- Druse, die wir vor uns haben, besteht aus stumpfen vierseitigen Spitzen, wovon jede Seite durch einen erhabnen Rücken wieder in zwey Flächen abgetheilt ist.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1780, 'language': 'German', 'in-text location': 'Register 12th Chapter: Erden und Steine, III. SILICEAE., 8.'})
+
+
+Question: Which body parts of birds make them capable of flight?
+
+silpha. Antennae extrorsum crassiores Elytra marginata. Caput prominens. Thorax planiusculus, marginatus.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, I. COLEOPTERA., 8.'})
+
+Die mehresten Ornithologen haben daher auch ihre Classification auf die Verschiedenheit des einen oder des andern von den genannten Theilen gegründet: Klein z. B. auf die Bildung der Zehen, Möhring auf die Bedeckung der Füße, Brißon auf beides in Verbindung mit der Beschaffenheit des Schnabels u. s. w. Linné nimmt in dem Plane seines Systems der Vögel auch auf die Bildung mehrerer Theile zugleich, und so ziemlich auf den ganzen Habitus, Rücksicht: nur scheint er sich in der Ausführung zuweilen vergessen zu haben: wenigstens begreift man nicht, wie Papagey, Colibri und Krähe bey ihm eine Ordnung verbunden, hingegen der Dudu und Casuar in zwey Ordnungen von einander gerissen, und mehr Verbindungen oder Trennungen dieser Art zugelassen werden durften.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 90.'})
+
+hispa, Stachelkäfer. Antennae fusiformes, basi approximatae, inter oculos sitae. Thorax elytraque aculeata saepius.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, I. COLEOPTERA., 12.'})
+
+elastische Federn, mittelst welcher diese Vögel ihre Fadenförmige Zunge fast wie die Ameisenbären oder wie der Chamäleon hervorschiessen, und Insecten damit fangen können. Die Pedes scansorii nuzzen ihnen zum Klettern, der Schwanz zum Widerstämmen und zur Unterstützung, der scharf zulaufende keilförmige Schnabel aber zum Aufhacken der Baumrinde, um die Insecten ꝛc. darunter hervorsuchen zu können.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, II. Fig. 8.) Diese Knorpel sind also gleichsam'})
+
+Die Vögel dieser Ordnung werden durch ihre Schwimmfüße kenntlich, und äneln sowol hierin, als auch in ihrer Lebensart, den palmatis der vorigen Classe. Ihr Oberschnabel endigt sich meist in ein kurzes Häkgen, und ist wie, der untere mit einer zähen Haut überzogen. Sie haben eine fleischigte Zunge, einen rauhen stachelichten Gaum, und die mehrsten von ihnen vorn au der Luftröre eine besondre knorplichte oder knöcherne Capsel *), die vermuthlich zu gleichen Zwecken als die andern allgemeinen Luftbehälter, deren wir schon mehrmals gedacht haben, dienet.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 5th Chapter: Vögeln, IV. ANSERES.'})
+
+
+Question: Where do hamsters live?
+
+8. Taf. I. II Die Murmelthiere und die Hamster baden in Rücksicht ihres Körperbaues und ihrer Lebensart vieles mit einander gemein. Nur bewohnt der Hamster mehr nordliche Gegenden und flaches Land; da hingegen das Murmelthier weiter gegen Süden und im Gebürge zu finden ist. Sibirien, die Ukräne, das Elsas, Deutschland, und namentlich das Herzogthum Gotha sind das Vaterland des erstern. Ausser dem verschiedenen Aufenthalt zeichnen sich aber beide Thiere auch durch ihren sehr contrastirenden Charakter aus. Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Das Murmelthier war kirre, sehr leicht zu zähmen ꝛc lanter gute Seiten, von denen der Hamster keine einzige hat. Er ist ein beissiges boshaftes Thier was ausser dem Zorn kaum eine andere Leidenschaft kennt. Bey einer sehr unbeträchtlichen Leibesgrösse geht er doch Menschen und Pferde an und Hunde, die des Hamsterfangs ungewohnt sind, ziehen leicht gegen ihn den Kürzern. Er lebt von kleinen Thieren, jungen Pflanzen, doch vorzüglich von Getraide, wovon er erstaunlichen Vorrath in den Backentaschen zu seinen unterirdischen Hölen schleppet. Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+Er vermehrt sich stark und man hat wohl eher im Gothaischen in einem Jahr, über 27000 Hamster getödtet. Der Pelz des Thiergens ist nicht viel werth. Es giebt eine ganz schwarze Spielart unter diesen Thieren: so wie auch weisse Blafards mit rosenrothen Augen.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 1774.'})
+
+†. Citellus. das Erdzeiselgen, Suslik. M corpore longiore, capite parvo, pedibus brevibus pentadactylis. * Pallas, Nov. Comm. Petrop. Tom. XIV tab. 21 Die äussere Gestalt des Erdzeiselgen kommt des Hamsters seiner eben nicht sehr nahe; desto verwandter sind aber beide Thiere in Rücksicht ihres innern Körperbaues, der Backentaschen ihrer Lebensart, Nesterbaues, Winterschlafs u. s w. Nur, statt daß der Hamster fettes Erdreich liebt, so baut hingegen das Erdzeiselchen in dürrem sandichtem oder thonichtem Boden. Es sindet sich in Oesterreich, und Böhmen, doch nur in geringer Anzal; in größter Menge hingegen in Ungarn, Polen und Sibirien.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 3.'})
+
+Ihr Fleisch ist eßbar und wohlschmeckend. Gegen den Winter werben sie so fett, daß oft eins bey 20 Pfund wiegt. Sie schlafen alsdann vom October bis in den April; und nachdem der Winter hart oder gelind werden wird vermachen sie den Eingang zu ihren Hölen fester oder lockerer. In der Tatarey pflanzen sie den Rhabarber fort. 2. †. Cricetus. der Hamster. M. abdomine nigro. * F. G. Sulzers N. G. des Hamsters. Gött.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 288.'})
+
+
+Question: Is there a connection between climate and animal coloration?
+
+Wir haben hie warmblütigen Thiere nunmehr absolvirt, und gehen zu den kaltblütigen über von denen die in den beiden nächsten Classen nemlich die Amphibien und Fische, ebenfalls rothes Blut haben, was sich blos durch seine Kälte vom Blut der Säugthiere und Vögel auszeichnet. (§. 40) Dahingegen die Insecten und Würmer nur einen weissen Saft in ihrem Körper füren, der kaum noch den Namen von Blut verdient.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 92.'})
+
+Lotor, das Coati, der Raccoon, (Linne's Ursus lotor.) V. cauda annulata, fascia fusca palpebras ambiente. * Seba thes. I. tab. XLII. fig. 2 Das ganze Ansehen des Coati, seine Lebensart, sein Zibethbeutel beym Hintern u. s. w. erweisen seine nahe Verwandschaft mit andern Viverris, und seine Unänlichkeit mit dem Bären Es ist in Nordamerica zu Hause, und lebt vorzüglich von Hünern und andern Vögeln und ihren Eyern.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, VI. GLIRES., 5.'})
+
+Orca. der Nordcaper. Putzkopf. D. rostro sursum repando. Er ist am Nord-Cap und im übrigen Nordischen Ocean zu Hause, und zieht nicht wie andere Cetacea zu gewissen Zeiten in südlichere Gegenden. Er wird zwanzig Fus lang und lebt fast blos von Häringen, die er durch einen Schwung mit dem Schwanze in einen Wirbel zusammen treibt, und Tonnenweise verschlingt. [ Abbildung ]
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 4th Chapter: Säugethiere, XII. CETACEA., 3.'})
+
+Ihre Nester würden sie zumal bey den entblätterten Bäumen nicht sattsam gegen die tödtlichen Folgen des Frostes schützen; die gefrornen Gewässer, die hart gefrorne Erde würde sie verhindern, ihrer Nahrung nachgehn zu können; und da ohnedem auch die Insecten sich im Winter verkriechen, und keine Beeren und Körner von Früchten in dieser Jahreszeit mehr zu sehen sind, so müßten unzälige Vögel verhungern, wenn sie nicht vom innern Instinct getrieben, noch vor Einbruch der strengen Kälte, unsere Gegenden verliessen, und bis zur Widerkehr der wärmern Tage, südliche Himmelsstriche besuchten.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'J.F.Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': '§. 67.'})
+
+Sacer. S. exscutellatus, clypeo sexdentato thorace inermi crenulato, tibiis posticis ciliatis, vertice subbidentato Nicht ganz so gros als der Nashornkäfer, legt auch seine Eyer in Kugeln von Mist. Ist in südlichen Europa, und in Nordafrica, vorzüglich häufig in Aegypten zu Hause, wo er nach der Ueberschwemmung des Nils den Unrath verzehren hilft und wohl mehr dieser Ursache wegen, als wegen der symbolischen Aenlichkeit, die das Wälzen seiner Mistkugel mit dem Lauf der Sonne haben sollte *), von den alten Aegyptern verehret, und auf ihren Kunstwerken vorgestellt ist. Besonders hat man ihn auf die Hinterseite der geschnittenen Steine ausgeschnitzt, die deshalb Scarabaei genannt werden.
+(Metadata: {'source': 'Handbuch der Naturgeschichte', 'autor': 'Blumenbach', 'edition': 1, 'date': 1779, 'language': 'German', 'in-text location': 'Register 8th Chapter: Insecten, I. COLEOPTERA., 5.'})
